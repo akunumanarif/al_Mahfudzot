@@ -1,60 +1,30 @@
 import 'package:flutter/material.dart';
+import 'package:al_mahfudzot/data/kelas.dart';
 
-class DBBawah extends StatelessWidget {
-  final tabs = [
-    "Explore",
-    "Best Seller",
-    "Newest",
-  ];
+class DBBawah extends StatefulWidget {
+  @override
+  _DBBawahState createState() => _DBBawahState();
+}
 
+class _DBBawahState extends State<DBBawah> {
   @override
   Widget build(BuildContext context) {
-    return DefaultTabController(
-      length: 3,
-      initialIndex: 1,
-      child: Container(
-        height: 300,
-        width: 300,
-        child: Column(
-          children: [
-            TabBar(
-              isScrollable: true,
-              indicatorColor: Colors.green,
-              unselectedLabelColor: Colors.black,
-              labelColor: Colors.greenAccent,
-              tabs: [
-                Tab(
-                  text: 'About Game',
-                ),
-                Tab(
-                  text: 'Game',
-                ),
-                Tab(
-                  text: 'Description',
-                ),
-              ],
-            ),
-            Expanded(
-              child: Container(
-                height: 300,
-                child: TabBarView(
-                    //dragStartBehavior: DragStartBehavior.start,
-                    children: [
-                      Center(
-                        child: Text('It\'s cloudy here'),
-                      ),
-                      Center(
-                        child: Text('It\'s rainy here'),
-                      ),
-                      Center(
-                        child: Text('It\'s sunny here'),
-                      ),
-                    ]),
-              ),
-            )
-          ],
-        ),
-      ),
+    return Container(
+      color: Colors.green,
+      height: 350,
+      width: MediaQuery.of(context).size.width,
+      child: Padding(
+          padding: const EdgeInsets.all(15.0),
+          child: GridView.count(
+            crossAxisCount: 2,
+            mainAxisSpacing: 10,
+            crossAxisSpacing: 10,
+            children: semuaKelas.map((kelasss) {
+              return Center(
+                child: Text(kelasss.fasl),
+              );
+            }).toList(),
+          )),
     );
   }
 }
