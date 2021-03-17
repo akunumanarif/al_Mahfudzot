@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:al_mahfudzot/data/kelas.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class DBBawah extends StatefulWidget {
   @override
@@ -10,7 +11,7 @@ class _DBBawahState extends State<DBBawah> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.green,
+      color: Theme.of(context).scaffoldBackgroundColor,
       height: 350,
       width: MediaQuery.of(context).size.width,
       child: Padding(
@@ -20,8 +21,23 @@ class _DBBawahState extends State<DBBawah> {
             mainAxisSpacing: 10,
             crossAxisSpacing: 10,
             children: semuaKelas.map((kelasss) {
-              return Center(
-                child: Text(kelasss.fasl),
+              return Container(
+                width: 50,
+                height: 60,
+                decoration: BoxDecoration(
+                    color: Colors.white12,
+                    borderRadius: BorderRadius.circular(15)),
+                child: Card(
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(15.0),
+                  ),
+                  clipBehavior: Clip.antiAlias,
+                  elevation: 10,
+                  child: Center(
+                      child: Text(kelasss.fasl,
+                          style: GoogleFonts.rakkas(
+                              color: kelasss.color, fontSize: 20))),
+                ),
               );
             }).toList(),
           )),

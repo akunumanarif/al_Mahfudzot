@@ -17,7 +17,7 @@ class Dashboard extends StatelessWidget {
             padding: const EdgeInsets.only(left: 30),
             child: Icon(
               Icons.filter_list,
-              color: Colors.blue,
+              color: Colors.greenAccent[400],
             ),
           ),
           actions: [
@@ -25,14 +25,14 @@ class Dashboard extends StatelessWidget {
               padding: const EdgeInsets.only(right: 30),
               child: Icon(
                 Icons.more_vert,
-                color: Colors.blue,
+                color: Colors.greenAccent[400],
               ),
             )
           ],
           title: Text(
             "HOME",
             style: GoogleFonts.eczar(
-                color: Colors.blue, fontWeight: FontWeight.bold),
+                color: Colors.greenAccent[400], fontWeight: FontWeight.bold),
           ),
           centerTitle: true,
           backgroundColor: Colors.white),
@@ -73,7 +73,7 @@ class _BerandaState extends State<Beranda> {
                 Text(
                   "show all",
                   style: GoogleFonts.roboto(
-                    color: Colors.blue,
+                    color: Colors.greenAccent[400],
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -84,8 +84,24 @@ class _BerandaState extends State<Beranda> {
             height: tinggi * 0.02,
           ),
           Padding(padding: const EdgeInsets.only(left: 10), child: DBAtas()),
-          SizedBox(
-            height: 50,
+          // SizedBox(
+          //   height: 50,
+          // ),
+
+          Padding(
+            padding: const EdgeInsets.only(top: 20, bottom: 0, left: 40),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  "Kelas",
+                  style: GoogleFonts.roboto(
+                      color: Colors.black,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 16),
+                ),
+              ],
+            ),
           ),
           DBBawah(),
         ],

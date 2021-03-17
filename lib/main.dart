@@ -1,5 +1,6 @@
+import 'package:al_mahfudzot/screens/splash.dart';
 import 'package:flutter/material.dart';
-import './screens/dashboard.dart';
+//import './screens/dashboard.dart';
 
 void main() {
   runApp(App());
@@ -12,10 +13,10 @@ class App extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: Dashboard(title: 'Mahfudzot Demo App'),
+      home: SplashScreen(),
     );
   }
 }
