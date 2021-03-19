@@ -1,3 +1,4 @@
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasSatu.dart';
 import 'package:flutter/material.dart';
 import 'package:al_mahfudzot/data/kelas.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -34,9 +35,17 @@ class _DBBawahState extends State<DBBawah> {
                   clipBehavior: Clip.antiAlias,
                   elevation: 10,
                   child: Center(
-                      child: Text(kelasss.fasl,
-                          style: GoogleFonts.rakkas(
-                              color: kelasss.color, fontSize: 20))),
+                      child: GestureDetector(
+                    onTap: () {
+                      Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) => DetailKelasSatu()));
+                    },
+                    child: Text(kelasss.fasl,
+                        style: GoogleFonts.rakkas(
+                            color: kelasss.color, fontSize: 20)),
+                  )),
                 ),
               );
             }).toList(),
