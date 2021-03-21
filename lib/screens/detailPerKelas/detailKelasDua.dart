@@ -16,7 +16,7 @@ class DetailKelasDua extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.green,
         title: Text(
-          "الفصل الأوّل",
+          "الفصل االثان",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         centerTitle: true,
@@ -44,28 +44,41 @@ class DetailKelasDua extends StatelessWidget {
           ),
           FutureBuilder(
             future: DefaultAssetBundle.of(context)
-                .loadString('assets/kelasSatu.json'),
+                .loadString('assets/kelasDua.json'),
             builder: (context, snapshot) {
-              var dataKelasSatu = jsonDecode(snapshot.data.toString());
+              if (!snapshot.hasData) return Container();
+
+              var dataKelasDua = jsonDecode(snapshot.data.toString());
               return Expanded(
                 child: ListView.builder(
                     padding: EdgeInsets.symmetric(horizontal: 20),
-                    itemCount: dataKelasSatu.length,
+                    itemCount: dataKelasDua.length,
                     itemBuilder: (BuildContext context, index) {
                       return Card(
-                        child: ListTile(
-                          trailing: Text(
-                            arabicNumber
-                                .convert(dataKelasSatu[index]["id"].toString()),
+                        child: ExpansionTile(
+                          leading: Icon(Icons.expand_more_sharp),
+                          trailing: Padding(
+                            padding: const EdgeInsets.only(left: 35),
+                            child: Text(
+                              arabicNumber.convert(
+                                  dataKelasDua[index]["id"].toString()),
+                            ),
                           ),
                           title: GestureDetector(
                             child: Text(
-                              dataKelasSatu[index]["isi"],
-                              style: TextStyle(
-                                  color: dataKelasSatu[index]["warna"]),
+                              dataKelasDua[index]["judul"],
                               textDirection: TextDirection.rtl,
                             ),
                           ),
+                          children: [
+                            Padding(
+                              padding: const EdgeInsets.all(15.0),
+                              child: Text(
+                                dataKelasDua[index]["isi"],
+                                textDirection: TextDirection.rtl,
+                              ),
+                            )
+                          ],
                         ),
                       );
                     }),

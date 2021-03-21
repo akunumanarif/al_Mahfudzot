@@ -1,4 +1,3 @@
-import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasSatu.dart';
 import 'package:flutter/material.dart';
 import 'package:al_mahfudzot/data/kelas.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -37,10 +36,15 @@ class _DBBawahState extends State<DBBawah> {
                   child: Center(
                       child: GestureDetector(
                     onTap: () {
-                      Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                              builder: (context) => DetailKelasSatu()));
+                      if (kelasss == semuaKelas[0]) {
+                        Navigator.pushNamed(context, "/kelasSatu");
+                      } else if (kelasss == semuaKelas[1]) {
+                        Navigator.pushNamed(context, "/kelasDua");
+                      } else {
+                        return Center(
+                          child: Text("Halaman yang anda cari tidak ada"),
+                        );
+                      }
                     },
                     child: Text(kelasss.fasl,
                         style: GoogleFonts.rakkas(

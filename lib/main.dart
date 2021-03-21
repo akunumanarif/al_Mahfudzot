@@ -1,3 +1,5 @@
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasDua.dart';
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasSatu.dart';
 import 'package:al_mahfudzot/screens/splash.dart';
 import 'package:flutter/material.dart';
 //import './screens/dashboard.dart';
@@ -17,6 +19,10 @@ class App extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: SplashScreen(),
+      routes: {
+        '/kelasSatu': (context) => DetailKelasSatu(),
+        '/kelasDua': (context) => DetailKelasDua()
+      },
     );
   }
 }

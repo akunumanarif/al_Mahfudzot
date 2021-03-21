@@ -48,41 +48,46 @@ class DetailKelasSatu extends StatelessWidget {
             builder: (context, snapshot) {
               var dataKelasSatu = jsonDecode(snapshot.data.toString());
               return Expanded(
-                child: ListView.builder(
-                    padding: EdgeInsets.symmetric(horizontal: 20),
-                    itemCount: dataKelasSatu.length,
-                    itemBuilder: (BuildContext context, index) {
-                      return Card(
-                        child: ExpansionTile(
-                          leading: Icon(Icons.arrow_downward),
-                          trailing: Text(
-                            arabicNumber
-                                .convert(dataKelasSatu[index]["id"].toString()),
-                          ),
-                          title: Text(
-                            dataKelasSatu[index]["isi"],
-                            style:
-                                TextStyle(color: dataKelasSatu[index]["warna"]),
-                            textDirection: TextDirection.rtl,
-                          ),
-                          children: [
-                            Padding(
-                              padding: const EdgeInsets.all(10.0),
-                              child: Text(
-                                dataKelasSatu[index]["arti"],
+                child: dataKelasSatu == null
+                    ? Container()
+                    : ListView.builder(
+                        padding: EdgeInsets.symmetric(horizontal: 20),
+                        itemCount: dataKelasSatu.length,
+                        itemBuilder: (BuildContext context, index) {
+                          return Card(
+                            child: ExpansionTile(
+                              title: Text(
+                                dataKelasSatu[index]["isi"],
+                                textDirection: TextDirection.rtl,
                               ),
-                            ),
-                            Padding(
-                              padding: const EdgeInsets.all(10.0),
-                              child: Text(
-                                dataKelasSatu[index]["penjelasan"],
+                              leading: Icon(Icons.expand_more_sharp),
+                              trailing: Padding(
+                                padding: const EdgeInsets.only(
+                                  left: 35,
+                                ),
+                                child: Text(
+                                  arabicNumber.convert(
+                                    dataKelasSatu[index]["id"].toString(),
+                                  ),
+                                ),
                               ),
+                              children: [
+                                Padding(
+                                  padding: const EdgeInsets.all(10.0),
+                                  child: Text(
+                                    dataKelasSatu[index]["arti"],
+                                  ),
+                                ),
+                                Padding(
+                                  padding: const EdgeInsets.all(10.0),
+                                  child: Text(
+                                    dataKelasSatu[index]["penjelasan"],
+                                  ),
+                                ),
+                              ],
                             ),
-                          ],
-                          //tilePadding: EdgeInsets.only(right: 30),
-                        ),
-                      );
-                    }),
+                          );
+                        }),
               );
             },
           )
