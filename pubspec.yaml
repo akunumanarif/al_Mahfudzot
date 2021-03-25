@@ -32,6 +32,9 @@ dependencies:
   shimmer: ^1.1.2
   flutter_svg: ^0.19.3
   arabic_numbers: ^0.0.1
+  curved_bottom_navigation: ^1.0.0
+  http:
+
 
 
 
@@ -58,6 +61,19 @@ flutter:
     - assets/splash.svg
     - assets/kelasSatu.json
     - assets/kelasDua.json
+    - assets/kelasTiga.json
+    - assets/kelasEmpat.json
+    - assets/kelasLima.json
+    # - assets/kelasSatu.svg
+    # - assets/kelasDua.svg
+    # - assets/kelasTiga.svg
+    # - assets/kelasEmpat.svg
+    - assets/kelasSatu.png
+    - assets/kelasDua.png
+    - assets/kelasTiga.png
+    - assets/kelasEmpat.png
+    - assets/semuaKelas.json
+
     # - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

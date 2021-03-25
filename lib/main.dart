@@ -1,8 +1,12 @@
+import 'package:al_mahfudzot/popupScreen/appInfo.dart';
+import 'package:al_mahfudzot/popupScreen/appShare.dart';
 import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasDua.dart';
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasEmpat.dart';
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasLima.dart';
 import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasSatu.dart';
+import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasTiga.dart';
 import 'package:al_mahfudzot/screens/splash.dart';
 import 'package:flutter/material.dart';
-//import './screens/dashboard.dart';
 
 void main() {
   runApp(App());
@@ -21,7 +25,12 @@ class App extends StatelessWidget {
       home: SplashScreen(),
       routes: {
         '/kelasSatu': (context) => DetailKelasSatu(),
-        '/kelasDua': (context) => DetailKelasDua()
+        '/kelasDua': (context) => DetailKelasDua(),
+        '/kelasTiga': (context) => DetailKelasTiga(),
+        '/kelasEmpat': (context) => DetailKelasEmpat(),
+        '/kelasLima': (context) => DetailKelasLima(),
+        '/info': (context) => AppInformation(),
+        '/share': (context) => AppShare()
       },
     );
   }

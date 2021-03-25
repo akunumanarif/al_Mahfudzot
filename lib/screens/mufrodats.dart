@@ -1,81 +1,52 @@
+import 'package:al_mahfudzot/services/service.dart';
 import 'package:flutter/material.dart';
-import 'dart:convert';
+import 'package:al_mahfudzot/models/apiMufrodats.dart';
 
-class Mahfudzot extends StatefulWidget {
+class Mufrodat extends StatefulWidget {
   @override
-  _MahfudzotState createState() => _MahfudzotState();
+  _MufrodatState createState() => _MufrodatState();
 }
 
-class _MahfudzotState extends State<Mahfudzot> {
+class _MufrodatState extends State<Mufrodat> {
+  final MufrodatApi mufrodatApi = MufrodatApi();
+
   @override
   Widget build(BuildContext context) {
-    final List<Color> warna = <Color>[
-      Colors.blue,
-      Colors.green,
-      Colors.red,
-      Colors.yellowAccent,
-      Colors.orange,
-    ];
-
     return Container(
-        color: Colors.grey[200],
+        color: Theme.of(context).scaffoldBackgroundColor,
         height: 370,
         width: MediaQuery.of(context).size.width,
         child: Padding(
             padding: const EdgeInsets.all(15.0),
             child: FutureBuilder(
-              future: DefaultAssetBundle.of(context)
-                  .loadString('assets/semuaKelas.json'),
-              builder: (context, snapshot) {
+              future: mufrodatApi.getApi(),
+              builder: (BuildContext context,
+                  AsyncSnapshot<List<ApiModelMufrodats>> snapshot) {
                 if (!snapshot.hasData) return Container();
-                var dataSemuaNamaKelas = jsonDecode(snapshot.data.toString());
+                List<ApiModelMufrodats> muf = snapshot.data;
                 return ListView.builder(
-                    itemCount: dataSemuaNamaKelas.length,
+                    itemCount: muf.length,
                     itemBuilder: (BuildContext context, index) {
                       return Container(
                         decoration: BoxDecoration(
                             // borderRadius: BorderRadius.circular(20)
                             ),
-                        height: 100,
+                        height: 50,
                         child: Card(
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(12)),
-                          elevation: 10,
+                          elevation: 3,
                           child: Center(
-                            child: GestureDetector(
-                              onTap: () {
-                                switch (dataSemuaNamaKelas[index]["fasl"]) {
-                                  case "الفصل الأوّل":
-                                    Navigator.pushNamed(context, "/kelasSatu");
-                                    break;
-                                  case "الفصل االثان":
-                                    Navigator.pushNamed(context, "/kelasDua");
-                                    break;
-                                  case "الفصل االثالث":
-                                    Navigator.pushNamed(context, "/kelasTiga");
-                                    break;
-                                  case "الفصل الرّبع":
-                                    Navigator.pushNamed(context, "/kelasEmpat");
-                                    break;
-                                  case "الفصل االخامس":
-                                    Navigator.pushNamed(context, "/kelasLima");
-                                    break;
-                                  default:
-                                    print("Gagal Memuat");
-                                }
-                              },
-                              child: ListTile(
-                                leading: Icon(Icons.book_rounded),
-                                title: Text(
-                                  dataSemuaNamaKelas[index]["fasl"],
-                                  textAlign: TextAlign.center,
-                                  style: TextStyle(color: warna[index]),
-                                ),
-                                trailing: Icon(
-                                  Icons.arrow_right,
-                                  size: 35,
-                                ),
+                            child: ListTile(
+                              title: Text(
+                                muf[index].isi,
+                                textAlign: TextAlign.center,
+                                style: TextStyle(color: Colors.black),
                               ),
+                              // trailing: Icon(
+                              //   Icons.arrow_right,
+                              //   size: 35,
+                              // ),
                             ),
                           ),
                         ),
