@@ -1,70 +1,68 @@
+import 'package:al_mahfudzot/fungsi/search.dart';
+import 'package:al_mahfudzot/popupScreen/appInfo.dart';
 import 'package:al_mahfudzot/popupScreen/popup.dart';
 import 'package:al_mahfudzot/screens/dbAtas.dart';
-import 'package:al_mahfudzot/screens/dbBawah.dart';
+import 'package:al_mahfudzot/screens/mahfudzot.dart';
 import 'package:al_mahfudzot/screens/mufrodats.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class Dashboard extends StatelessWidget {
+class Dashboard extends StatefulWidget {
+  @override
+  _DashboardState createState() => _DashboardState();
+}
+
+class _DashboardState extends State<Dashboard> {
+  final warna = Colors.grey[200];
+  int _selectedIndex = 0;
   @override
   Widget build(BuildContext context) {
-    final warna = Colors.grey[200];
+    List<Widget> _pilihanAppbar = <Widget>[
+      appBarHome(context),
+      appBarInfo(context),
+    ];
+
+    List<Widget> _widgetOption = <Widget>[
+      //SemuaKelas(),
+      Beranda(),
+      AppInformation(),
+    ];
+
+    void _pilihAppBar(int index) {
+      setState(() {
+        _selectedIndex = index;
+      });
+    }
+
+    void _onSelected(int index) {
+      setState(() {
+        _selectedIndex = index;
+      });
+    }
 
     return Scaffold(
       backgroundColor: warna,
-      appBar: AppBar(
-          elevation: 0,
-          leading: Padding(
-            padding: const EdgeInsets.only(left: 30),
-            child: Icon(
-              Icons.filter_list,
-              color: Colors.green,
-            ),
+      appBar: _pilihanAppbar.elementAt(_selectedIndex),
+      body: _widgetOption.elementAt(_selectedIndex),
+      bottomNavigationBar: BottomNavigationBar(
+        items: [
+          // BottomNavigationBarItem(
+          //   icon: Icon(Icons.school),
+          //   label: "Kelas",
+          // ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label: "Home",
           ),
-          actions: [
-            Padding(
-                padding: const EdgeInsets.only(right: 30),
-                child: PopupMenuButton<IconMenu>(
-                  icon: Icon(
-                    Icons.more_vert,
-                    color: Colors.green,
-                  ),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(16),
-                  ),
-                  onSelected: (value) {
-                    switch (value) {
-                      case IconsMenu.info:
-                        Navigator.pushNamed(context, '/info');
-                        break;
-                      case IconsMenu.share:
-                        Navigator.pushNamed(context, '/share');
-                        break;
-                      default:
-                    }
-                  },
-                  itemBuilder: (context) => IconsMenu.items
-                      .map((item) => PopupMenuItem(
-                            value: item,
-                            child: ListTile(
-                              leading: Icon(item.icon),
-                              title: Text(item.text),
-                            ),
-                          ))
-                      .toList(),
-                ))
-          ],
-          title: Text(
-            "Mahfudzot",
-            style: GoogleFonts.merriweather(
-                letterSpacing: 4,
-                fontSize: 25,
-                color: Colors.green[400],
-                fontWeight: FontWeight.bold),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.info),
+            label: "Info",
           ),
-          centerTitle: true,
-          backgroundColor: warna),
-      body: Beranda(),
+        ],
+        currentIndex: _selectedIndex,
+        selectedItemColor: Colors.green,
+        onTap: _onSelected,
+      ),
     );
   }
 }
@@ -151,4 +149,70 @@ class _BerandaState extends State<Beranda> {
       ),
     ));
   }
+}
+
+Widget appBarHome(BuildContext context) {
+  return AppBar(
+      elevation: 0,
+      leading: Padding(
+        padding: const EdgeInsets.only(left: 30),
+        child: IconButton(
+          icon: Icon(Icons.filter_list),
+          color: Colors.green,
+          onPressed: () {
+            showSearch(context: context, delegate: SearchFunction());
+          },
+        ),
+      ),
+      actions: [
+        Padding(
+            padding: const EdgeInsets.only(right: 30),
+            child: PopupMenuButton<IconMenu>(
+              icon: Icon(
+                Icons.more_vert,
+                color: Colors.green,
+              ),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(16),
+              ),
+              onSelected: (value) {
+                switch (value) {
+                  case IconsMenu.info:
+                    Navigator.pushNamed(context, '/info');
+                    break;
+                  case IconsMenu.share:
+                    Navigator.pushNamed(context, '/share');
+                    break;
+                  default:
+                }
+              },
+              itemBuilder: (context) => IconsMenu.items
+                  .map((item) => PopupMenuItem(
+                        value: item,
+                        child: ListTile(
+                          leading: Icon(item.icon),
+                          title: Text(item.text),
+                        ),
+                      ))
+                  .toList(),
+            ))
+      ],
+      centerTitle: true,
+      backgroundColor: Colors.grey[200]);
+}
+
+Widget appBarInfo(BuildContext context) {
+  return AppBar(
+      elevation: 0,
+      leading: Padding(
+        padding: const EdgeInsets.only(left: 30),
+        child: IconButton(
+          icon: Icon(Icons.arrow_back_ios),
+          color: Colors.green,
+          onPressed: () {
+            Navigator.pushReplacementNamed(context, '/home');
+          },
+        ),
+      ),
+      backgroundColor: Colors.grey[200]);
 }

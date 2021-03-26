@@ -1,0 +1,759 @@
+[
+  { "kelasSatu": [  
+    
+    {
+      "id": 1,
+      "judul": "مَنْ سَارَ عَلىَ الدَّرْبِ وَصَلَ",
+      "arti": "Barang siapa berjalan pada jalannya sampailah ia",
+      "penjelasan": "Maksudnya di dalam menapaki kehidupan ini kita harus istiqamah berjalan pada jalan yang benar supaya kita sampai pada tujuan hakiki hidup kita, yaitu kebahagiaan di dunia dan akhirat."
+    },
+    {
+      "id": 2,
+      "judul": "مَنْ جَدَّ وَجَدَ",
+      "arti": "Barang siapa bersungguh-sungguh, dapatlah ia.",
+      "penjelasan": "Kecerdasan itu penting, namun kesungguhan itu jauh lebih penting. Orang yang cerdas namun tidak sungguh-sungguh akan kalah dan ditinggal oleh orang yang kecerdasannya biasa-biasa saja namun sungguh-sungguh."
+    },
+    {
+      "id": 3,
+      "judul": "مَنْ صَبَرَ ظَفِرَ",
+      "arti": "Barang siapa bersabar beruntunglah ia.",
+      "penjelasan": "Di dalam kehidupan ini seringkali kita menghadapi ujian dan cobaan, namun hanya orang yang bersabar yang akan berhasil dan beruntung."
+    },
+    {
+      "id": 4,
+      "judul": "مَنْ قَلَّ صِدْقُهُ قَلَّ صَدِيْقُهُ",
+      "arti": "Barang siapa sedikit benarnya/kejujurannya, sedikit pulalah temannya.",
+      "penjelasan": "Ini adalah hukum alam yang berlaku di manapun kita berada, karena manusia pada tabiatnya lebih menyenangi orang yang jujur daripada pembohong."
+    },
+    {
+      "id": 5,
+      "judul": "جَالِسْ أَهْلَ الصِّدْقِ وَالوَفَاءِ",
+      "arti": "Pergaulilah orang yang jujur dan menepati janji.",
+      "penjelasan": "Karena teman dan lingkungan tempat kita bergaul adalah salah satu unsur dalam pembentukan karakter kita. Maka menjadi sangat penting bagi kita untuk memilih teman yang baik karena akhlak seseorang itu tercermin dari akhlak teman dekatnya. Bergaul dengan orang-orang yang jujur dan menepati janji akan membuat hidup kita tenteram dan akan membentuk karakter kita menjadi lebih baik."
+    },
+    {
+      "id": 6,
+      "judul": "مَوَدَّةُ الصَّدِيْقِ تَظْهَرُ وَقْتَ الضِّيْقِ",
+      "arti": "Kecintaan/ketulusan teman itu, akan tampak pada waktu kesempitan.",
+      "penjelasan": "Jika engkau ingin mengetahui teman setiamu yang sesungguhnya, maka lihatlah siapa yang menemanimu tatkala susah."
+    },
+    {
+      "id": 7,
+      "judul": "وَمَا اللَّذَّةُ إِلاَّ بَعْدَ التَّعَبِ",
+      "arti": "Tidak kenikmatan kecuali setelah kepayahan.",
+      "penjelasan": "Kenikmatan yang didapatkan tanpa usaha dan pengorbanan adalah kenikmatan sesaat yang akan segera hilang, namun kenikmatan yang didapatkan setelah melalui perjuangan akan selalu dikenang."
+    },
+    {
+      "id": 8,
+      "judul": "الصَّبْرُ يُعِيْنُ عَلىَ كُلِّ عَمَلٍ",
+      "arti": "Kesabaran itu menolong segala pekerjaan.",
+      "penjelasan": "Terkadang sebagian pekerjaan terasa sulit hanya di awalnya saja, di sinilah kesabaran memainkan peran yang penting, percayalah bahwa akan selalu ada kemudahan yang menyertai kesusahan, yang kita butuh hanya sedikit bersabar di awalnya untuk mendapatkan manis di akhirnya.."
+    },
+    {
+      "id": 9,
+      "judul": "جَرِّبْ وَلاَحِظْ تَكُنْ عَارِفًا",
+      "arti": "Cobalah dan perhatikanlah, niscaya kau jadi orang yang tahu.",
+      "penjelasan": "Ini adalah kaidah di dalam menuntut ilmu, bahwasannya kita tak boleh takut untuk mencoba.. Yang harus kita tanamkan di dalam diri kita adalah lebih baik salah ketika mencoba daripada tak pernah mencoba sama sekali.."
+    },
+    {
+      "id": 10,
+      "judul": "اُطْلُبِ العِلْمَ مِنَ المَهْدِ إِلىَ اللَّحْدِ",
+      "arti": "Tuntutlah ilmu sejak dari buaian hingga liang kubur.",
+      "penjelasan": "Menuntut ilmu itu tak ada batasannya, karena menuntut ilmu itu tidak terbatas oleh tempat dan waktu, ia bisa dilakukan kapan saja dan di mana saja. Karena ilmu adalah kebutuhan mutlak manusia sejak lahir hingga akhir hayatnya."
+    },
+    {
+      "id": 11,
+      "judul": " بَيْضَةُ اليَوْمِ خَيْرٌ مِنْ دَجَاجَةِ الغَدِ",
+      "arti": "Telur hari ini lebih baik daripada ayam esok hari.",
+      "penjelasan": "Maksudnya adalah mengambil sesuatu yang sudah ada pada genggaman kita pada hari ini itu lebih baik daripada menunggu sesuatu yang datangnya atau tidaknya belum pasti di kemudian hari. Karena pada yang demikian itu terdapat rjudulko yang besar yang mana ada kemungkinan kita tak akan mendapatkan sesuatu sama sekali."
+    },
+    {
+      "id": 12,
+      "judul": " الوَقْتُ أَثْمَنُ مِنَ الذَّهَبِ",
+      "arti": "Waktu itu lebih mahal daripada emas.",
+      "penjelasan": "Emas dan harta yang habis masih bisa dicari, namun waktu dan kesempatan yang berlalu tak akan pernah bisa kembali lagi."
+    },
+    {
+      "id": 13,
+      "judul": " العَقْلُ السَّلِيْمُ فيِ الجِسْمِ السَّلِيْمِ",
+      "arti": "Akal yang sehat itu terletak pada badan yang sehat.",
+      "penjelasan": "Tak dapat dipungkiri bahwa kesehatan jasmani seseorang itu sedikit atau banyak pasti mempengaruhi kesehatan rohaninya."
+    },
+    {
+      "id": 14,
+      "judul": " خَيْرُ جَلِيْسٍ فيِ الزَّمَانِ كِتَابٌ",
+      "arti": "Sebaik-baik teman duduk pada setiap waktu adalah buku.",
+      "penjelasan": "Ini sejalan dengan ayat pertama yang diturunkan di dalam Al-Quran yang berbunyi “bacalah!”.. Maka sudah seharusnya bagi kita untuk memanfaatkan waktu-waktu kita dengan membaca dan menelaah."
+    },
+    {
+      "id": 15,
+      "judul": " مَنْ يَزْرَعْ يَحْصُدْ",
+      "arti": "Barang siapa menanam, pasti akan memanen (hasilnya).",
+      "penjelasan": "Maksudnya semua orang pasti akan mendapatkan hasil ataupun balasan atas segala perbuatannya. Baik maupun buruk perbuatan itu. Ini selaras dengan kandungan salah satu ayat dalam surat Al-Zalzalah: “Barangsiapa yang mengerjakan kebaikan sekecil apa pun, niscaya dia akan melihat (balasan)nya. Dan barangsiapa yang mengerjakan kejahatan sekecil apa pun, niscaya dia akan melihat (balasan)nya pula”."
+    },
+    {
+      "id": 16,
+      "judul": " خَيْرُ الأَصْحَابِ مَنْ يَدُلُّكَ عَلىَ الخَيْرِ",
+      "arti": "Sebaik-baik teman itu ialah yang menunjukkan kamu kepada kebaikan.",
+      "penjelasan": "Banyak orang tertipu dan menyangka bahwa teman terbaik adalah yang selalu mendukung apapun yang kita lakukan baik itu benar maupun salah. Namun ketahuilah bahwa teman sejati itu adalah yang selalu menginginkan kebaikan untuk kita walaupun dengan cara memarahi kita tatkala kita berbuat kesalahan. Karena yang ia inginkan hanyalah menunjukkan jalan kebaikan kepada kita."
+    },
+    {
+      "id": 17,
+      "judul": " لَوْلاَ العِلْمُ لَكَانَ النَّاسُ كَالبَهَائِمِ",
+      "arti": "Seandainya bukan karena ilmu, niscaya manusia itu seperti binatang.",
+      "penjelasan": "Manusia itu derajatnya bisa melebihi Malaikat dan bisa juga lebih rendah dari binatang sekalipun, semuanya bergantung kepada amal dan perbuatan. Adapun ilmu di dalam hidup ini berperan sebagai penuntun bagi anak manusia untuk tidak terjerumus ke dalam perbuatan yang membawanya menuju lembah kehancuran. Karena itulah kita dituntut untuk menuntut ilmu sepanjang hayat."
+    },
+    {
+      "id": 18,
+      "judul": " العِلْمُ فيِ الصِّغَرِ كَالنَّقْشِ عَلىَ الحَجَرِ",
+      "arti": "Ilmu pengetahuan di waktu kecil itu, bagaikan ukiran di atas batu.",
+      "penjelasan": "Menuntut ilmu di waktu kecil memang terasa berat, namun hasilnya akan selalu membekas hingga dewasa, karena otak manusia ketika itu masih jernih. Namun tidak demikian halnya dengan orang yang sudah tua, menuntut ilmu tatkala tua adalah hal yang sangat sulit dikarenakan kemampuan otak dan fjudulk yang sudah menurun."
+    },
+    {
+      "id": 19,
+      "judul": " لَنْ تَرْجِعَ الأَياَّمُ الَّتيِ مَضَتْ",
+      "arti": "Tidak akan kembali hari-hari yang telah berlalu.",
+      "penjelasan": "Maka sungguh benar sekali jika dikatakan bahwa hal yang paling dekat dari kita adalah kematian karena ia bisa datang kapan saja, dan hal yang paling jauh dari diri kita adalah masa lalu, karena ia tak akan pernah kembali lagi."
+    },
+    {
+      "id": 20,
+      "judul": " تَعَلَّمَنْ صَغِيْرًا وَاعْمَلْ بِهِ كَبِيْرًا",
+      "arti": "Belajarlah di waktu kecil dan amalkanlah di waktu besar.",
+      "penjelasan": "Maksudnya masa-masa muda itu hendaklah dipergunakan sebaik-baiknya untuk menuntut ilmu, karena semua hal yang pernah kita pelajari di masa kecil, sekecil apapun hal itu pasti akan berguna dan bisa kita amalkan di kemudian hari."
+    },
+    {
+      "id": 21,
+      "judul": " العِلْمُ بِلاَ عَمَلٍ كَالشَّجَرِ بِلاَ ثَمَرٍ",
+      "arti": "Ilmu tanpa pengamalan bagaikan pohon tak berbuah.",
+      "penjelasan": "Jelas sekali bahwa ilmu yang tak diamalkan itu adalah kesia-siaan yang nyata. Orang yang menghabiskan siang dan malamnya untuk menuntut ilmu namun ternyata tidak diamalkannya, sama saja dengan petani yang tiap hari membanting tulang untuk menanam pohon buah, namun ternyata pohon itu tak memberikan buah sedikitpun."
+    },
+    {
+      "id": 22,
+      "judul": " الاتِّحَادُ أَسَاسُ النَّجَاحِ",
+      "arti": "Persatuan adalah pangkal keberhasilan.",
+      "penjelasan": "Kita semua tahu bahwa salah satu penyebab dijajahnya negara kita oleh negara-negara asing adalah akibat terpecah belahnya suku bangsa kita ketika itu. Karena tanpa persatuan, sebuah perkumpulan, organisasi ataupun negara akan gampang sekali hancur dan bubar. Karena itu jika ingin mencapai kesuksesan, hal pertama yang perlu diperhatikan adalah membangun persatuan."
+    },
+    {
+      "id": 23,
+      "judul": " لاَ تَحْتَقِرْ مِسْكِيْنًا وَكُنْ لَهُ مُعِيْناً",
+      "arti": "Janganlah engkau menghina orang miskin, akan tetapi jadilah penolong baginya.",
+      "penjelasan": "Karena pada hakikatnya semua harta benda yang kita miliki di dunia ini hanyalah titipan semata yang sewaktu-waktu bisa diambil kembali oleh Allah, Sang Pemiliknya. Maka karena itu sungguh tak pantas bagi kita untuk memandang rendah kepada orang lain yang kebetulan diberikan harta yang lebih sedikit dari kita. Harusnya kita tolong orang itu karena pada harta benda yang kita miliki sebenarnya ada hak orang lain yang harus kita bagikan."
+    },
+    {
+      "id": 24,
+      "judul": " الشَّرَفُ بِالأَدَبِ لاَ بِالنَّسَبِ",
+      "arti": "Kemuliaan itu adalah dengan adab (budi pekerti), bukan dengan keturunan.",
+      "penjelasan": "Karena itu seseorang tidak boleh menyombongkan dirinya dengan menyebut-nyebut nenek moyangnya, karena jikapun nenek moyangnya dulu adalah orang terhormat, apalah artinya jika ia sendiri termasuk orang yang berakhlak buruk?"
+    },
+    {
+      "id": 25,
+      "judul": " سَلاَمَةُ الإِنْسَانِ فيِ حِفْظِ اللِّسَانِ",
+      "arti": "Keselamatan manusia itu dalam menjaga lidahnya (perkataannya).",
+      "penjelasan": "Ada banyak orang yang hancur hidupnya hanya karena tidak bisa menjaga mulutnya, karena itu sangat penting bagi kita untuk berpikir dahulu sebelum berkata, dan hendaknya tidak berbicara kecuali untuk kebaikan. Rasulullah SAW bersabda: “Barangsiapa beriman kepada Allah dan hari akhir, maka hendaklah ia berkata baik ataupun diam saja.” (HR. Bukhari – Muslim)"
+    },
+    {
+      "id": 26,
+      "judul": " آدَابُ المَرْءِ خَيْرٌ مِنْ ذَهَبِهِ",
+      "arti": "Adab seseorang itu lebih baik (lebih berharga) daripada emasnya.",
+      "penjelasan": "Ia, karena yang bernilai di sjudul Allah adalah Iman, amal dan akhlaknya. Bukan harta bendanya. Lagipula kemuliaan seseorang itu tidaklah dilihat dari harta kekayaannya, akan tetapi dilihat dari perangai dan perbuatannya."
+    },
+    {
+      "id": 27,
+      "judul": " سُوْءُ الخُلُقِ يُعْدِي",
+      "arti": "Kerusakan budi pekerti itu menular.",
+      "penjelasan": "Maksudnya adalah bahwa segala bentuk akhlak buruk cenderung lebih cepat menyebar dan ditiru oleh orang banyak daripada akhlak baik. Karena di dalam diri manusia itu ada nafsu yang selalu mendorong manusia untuk berbuat keburukan. Karena itu, hendaklah kita memilih lingkungan yang baik untuk tinggal karena walaupun kita sendiri tidak terpengaruh oleh rusaknya budi pekerti di lingkungan sekitar kita, namun bagaimana nasib anak cucu kita nanti?"
+    },
+    {
+      "id": 28,
+      "judul": " آفَةُ العِلْمِ النِّسْياَنُ",
+      "arti": "Bencana ilmu itu adalah lupa.",
+      "penjelasan": "Maksudnya di dalam menuntut ilmu, hal utama yang menghambat kita adalah lupa, karena itu kita harus sering mengulangi hal-hal yang telah kita pelajari agar tidak hilang dan terlupakan."
+    },
+    {
+      "id": 29,
+      "judul": " إِذَا صَدَقَ العَزْمُ وَضَحَ السَّبِيْلُ",
+      "arti": "Jika benar kemauannya niscaya terbukalah jalannya.",
+      "penjelasan": "Maksudnya jika seseorang benar-benar berniat dan bertekad kuat untuk melakukan sesuatu, niscaya akan terbuka jalan baginya. Namun sebaliknya, jika seseorang tidak pernah berniat untuk melakukan sesuatu, niscaya akan tampak baginya 1000 alasan untuk tidak bisa melakukannya."
+    },
+    {
+      "id": 30,
+      "judul": " لاَ تَحْتَقِرْ مَنْ دُوْنَكَ فَلِكُلِّ شَيْئٍ مَزِيَّةٌ",
+      "arti": "Jangan menghina seseorang yang lebih rendah daripada kamu, karena segala sesuatu itu mempunyai kelebihan.",
+      "penjelasan": "Setiap orang terlahir ke dunia ini dengan potensi, sifat, dan kemampuan yang berbeda-beda, ada yang fjudulknya kuat namun lemah akalnya, ada yang akalnya cerdas namun lemah fjudulknya, dan ada juga yang kuat fjudulknya, cerdas akalnya, namun ternyata memiliki kekurangan lain.. Intinya kita tidak boleh memandang orang lain sebelah mata, karena bisa jadi di balik kekurangan seseorang, terdapat kelebihan lain yang tidak kita ketahui."
+    },
+    {
+      "id": 31,
+      "judul": " أَصْلِحْ نَفْسَكَ يَصْلُحْ لَكَ النَّاسُ",
+      "arti": "Perbaikilah dirimu sendiri, niscaya orang-orang lain akan baik padamu.",
+      "penjelasan": "Kita sering mendengar orang berkata: “Orang baik akan bertemu dengan orang baik”. Memang demikianlah adanya, biasanya memang orang yang baik akan selalu dikelilingi oleh orang-orang yang baik pula. Maka jika kita ingin orang-orang yang berada di sekitar kita berlaku baik, yang perlu kita perhatikan terlebih dahulu adalah memperbaiki diri sendiri."
+    },
+    {
+      "id": 32,
+      "judul": " فَكِّرْ قَبْلَ أَنْ تَعْزِمَ",
+      "arti": "Berpikirlah dahulu sebelum kamu berkemauan (merencanakan).",
+      "penjelasan": "Manusia diberikan akan oleh Allah supaya dapat berpikir dan mempertimbangkan segala hal yang akan ia lakukan, karena itu pula segala amal perbuatannya akan dipertanggungjawabkan pada hari kiamat nanti. Maka sudah selayaknya bagi kita untuk berpikir matang-matang sebelum melakukan sesuatu."
+    },
+    {
+      "id": 33,
+      "judul": " مَنْ عَرَفَ بُعْدَ السَّفَرِ اِسْتَعَدَّ",
+      "arti": "Barangsiapa tahu jauhnya perjalanan, bersiap-siaplah ia.",
+      "penjelasan": "Maksudnya adalah bahwasanya perjalanan hidup kita ini sebenarnya panjang dan berliku-liku, maka hendaklah kita mempersiapkan diri kita untuk menghadapi segala hal yang mungkin akan terjadi ke depannya. Prinsip ini berlaku pula bagi orang yang akan memulai sebuah pekerjaan yang berat, maka hendaklah ia mempersiapkan dirinya matang-matang agar pekerjaannya itu tidak kandas di tengah jalan."
+    },
+    {
+      "id": 34,
+      "judul": " مَنْ حَفَرَ حُفْرَةً وَقَعَ فِيْهَا",
+      "arti": "Barang siapa menggali lubang, akan terperosoklah ia di dalamnya.",
+      "penjelasan": "Hal ini senada dengan firman Allah SWT di dalam surah As-Syura ayat 40 :"
+    },
+    {
+      "id": 35,
+      "judul": " عَدُوٌّ عَاقِلٌ خَيْرٌ مِنْ صَدِيْقٍ جَاهِلٍ",
+      "arti": "Musuh yang pandai, lebih baik daripada teman yang bodoh.",
+      "penjelasan": "Karena teman yang bodoh terkadang malah menjerumuskan kita kepada langkah yang salah yang akhirnya membuat kita merugi. Adapun musuh yang pandai, malah memberikan kita semangat untuk meningkatkan kemampuan diri kita agar mampu bersaing ataupun mengalahkannya."
+    },
+    {
+      "id": 36,
+      "judul": " مَنْ كَثُرَ إِحْسَانُهُ كَثُرَ إِخْوَانُهُ",
+      "arti": "Barangsiapa banyak perbuatan baiknya, banyak pulalah temannya.",
+      "penjelasan": "Tidak perlu diragukan lagi bahwa orang yang sering berbuat baik kepada orang lain akan disukai olah banyak orang. Demikian pula sebaliknya, orang yang sering berbuat keburukan, pasti akan dijauhi oleh orang lain."
+    },
+    {
+      "id": 37,
+      "judul": " اِجْهَدْ وَلاَ تَكْسَلْ وَلاَ تَكُ غَافِلاً فَنَدَامَةُ العُقْبىَ لِمَنْ يَتَكاَسَلُ",
+      "arti": "Bersungguh-sungguhlah dan janganlah bermalas-malasan dan jangan pula lengah, karena penyesalan itu bagi orang yang bermalas-malas.",
+      "penjelasan": "Kemalasan adalah salah satu penyakit berbahaya yang perlu dihindari, karena itulah Rasulullah SAW mengajarkan kita untuk berdoa:"
+    },
+    {
+      "id": 38,
+      "judul": " لاَ تُؤَخِّرْ عَمَلَكَ إِلىَ الغَدِ مَا تَقْدِرُ أَنْ تَعْمَلَهُ اليَوْمَ",
+      "arti": "Janganlah mengakhirkan hingga esok hari pekerjaanmu yang kamu dapat mengejakannya pada hari ini.",
+      "penjelasan": "Ini adalah sebuah prinsip hidup yang patut untuk kita pegang, karena manusia itu cenderung lupa dan waktu itu terus berjalan tanpa pernah berhenti. Jika pekerjaan hari ini ditunda hingga esok hari, bisa jadi pekerjaan itu akan terlupakan atau bisa jadi esok hari akan muncul pekerjaan lain yang akan membuat pekerjaan kita semakin bertumpuk."
+    },
+    {
+      "id": 39,
+      "judul": " اُتْرُكِ الشَّرَّ يَتْرُكْكَ",
+      "arti": "Tinggalkanlah kejahatan, niscaya ia (kejahatan itu) akan meninggalkanmu.",
+      "penjelasan": "Tidak semua dosa dan kesalahan yang diperbuat oleh manusia itu disebabkan oleh godaan Setan. Terkadang penyebab utama dari sebuah dosa adalah nafsu yang ada di dalam diri manusia itu sendiri. Karena itulah dikatakan, tinggalkan kejahatan. Maksudnya tinggalkanlah godaan hawa nafsu itu, niscaya kita akan terhindar dari perbuatan dosa itu."
+    },
+    {
+      "id": 40,
+      "judul": " خَيْرُ النَّاسِ أَحْسَنُهُمْ خُلُقاً وَأَنْفَعُهُمْ لِلنَّاسِ",
+      "arti": "Sebaik-baik manusia itu adalah yang paling baik budi pekertinya dan yang paling bermanfaat bagi manusia.",
+      "penjelasan": "Manusia terlahir sebagai makhluk sosial yang artinya ia harus dapat berinteraksi dengan orang-orang di sekitarnya dengan baik. Karena itu ia harus berperan penting di dalam masyarakat dengan memberikan manfaat ataupun dengan berakhlak baik sehingga terciptalah suasana yang rukun dan harmoni."
+    },
+    {
+      "id": 41,
+      "judul": " فيِ التَّأَنِّي السَّلاَمَةُ وَفيِ العَجَلَةِ النَّدَامَةُ",
+      "arti": "Di dalam kehati-hatian itu ada keselamatan, dan di dalam ketergesa-gesaan itu ada penyesalan.",
+      "penjelasan": "Tidak hati-hati dan tergesa-gesa adalah dua hal yang sangat berbahaya. Sering sekali kita mendengar kisah orang-orang yang celaka karena 2 hal ini. Contoh yang paling sering kita dengar adalah kecelakaan lalu lintas -Naudzubillah min dzalik- sering terjadi akibat sikap pengemudi kendaraan yang kurang hati-hati dan tergesa-gesa."
+    },
+    {
+      "id": 42,
+      "judul": " ثَمْرَةُ التَّفْرِيْطِ النَّدَامَةُ وَثَمْرَةُ الحَزْمِ السَّلاَمَةُ",
+      "arti": "Buah kecerobohan itu adalah penyesalan, dan buah kecermatan itu adalah keselamatan.",
+      "penjelasan": "Maksud dari Mahfuzhat ini kurang lebih sama seperti Mahfuzhat sebelumnya. Kita hendaknya selalu menghindari sikap ceroboh. Hendaknya semua perbuatan kita dilakukan dengan hati-hati, tidak terburu-buru dan harus dengan perhitungan yang matang."
+    },
+    {
+      "id": 43,
+      "judul": " الرِّفْقُ بِالضَّعِيْفِ مِنْ خُلُقِ الشَّرِيْفِ",
+      "arti": "Berlemah lembut kepada orang yang lemah itu adalah salah satu perangai orang yang mulia (terhormat).",
+      "penjelasan": "Dalam Islam kita diajarkan untuk selalu berlemah lembut kepada orang yang lemah, Rasulullah SAW adalah contoh paling sempurna dalam hal ini. Banyak sekali ayat yang menyebutkan bagaimana kelembutan akhlak Nabi Muhammad SAW, diantaranya adalah firman Allah SWT yang artinya:"
+    },
+    {
+      "id": 44,
+      "judul": " فَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُهَا",
+      "arti": "Balasan suatu kejahatan itu adalah kejahatan yang sama dengannya.",
+      "penjelasan": "Maksudnya adalah apabila ada seseorang yang menzalimi orang lain, maka orang yang dizalimi itu punya hak untuk membalasnya (Qisash) dengan cara yang serupa, tidak boleh melebihi itu. Artinya jiwa dibalas jiwa, luka dibalas dengan luka serupa, dan seterusnya."
+    },
+    {
+      "id": 45,
+      "judul": " تَرْكُ الجَوَابِ عَلىَ الجَاهِلِ جَوَابٌ",
+      "arti": "Tidak menjawab terhadap orang yang bodoh itu adalah sebuah jawaban.",
+      "penjelasan": "Jangan salah kaprah dalam memahami kalimat di atas. Maksud dari orang “bodoh” di sini adalah orang yang tak punya keinginan untuk menerima kebenaran, bukan bodoh dalam artinya orang yang belum atau tak punya pengetahuan."
+    },
+    {
+      "id": 46,
+      "judul": " مَنْ عَذُبَ لِسَانُهُ كَثُرَ إِخْوَانُهُ",
+      "arti": "Barang siapa manis tutur katanya (perkataannya) banyaklah temannya.",
+      "penjelasan": "Manusia itu secara fitrahnya menyukai keindahan, termasuk juga keindahan dalam bertutur kata, karena itulah secara alami orang yang tutur katanya baik, pasti disenangi banyak orang, dan sebaliknya orang yang kata-katanya selalu membuat orang sakit hati pasti akan dijauhi."
+    },
+    {
+      "id": 47,
+      "judul": " إِذَا تَمَّ العَقْلُ قَلَّ الكَلاَمُ",
+      "arti": "Apabila akal seseorang telah sempurna maka sedikitlah bicaranya.",
+      "penjelasan": "Demikianlah sikap orang-orang bijak, mereka bukanlah tipe orang yang banyak bicara. Adapun jika mereka berbicara mereka hanya membicarakan hal-hal yang perlu saja."
+    },
+    {
+      "id": 48,
+      "judul": " مَنْ طَلَبَ أَخًا بِلاَ عَيْبٍ بَقِيَ بَلاَ أَخٍ",
+      "arti": "Barang siapa mencari teman yang tidak bercela, maka ia akan tetap tidak mempunyai teman.",
+      "penjelasan": "“Tak ada gading yang tak retak”, demikianlah pepatah mengajari kita bahwa tak ada satu pun orang yang tak punya kekurangan, karena itu jika kita hanya mau berteman dengan orang yang tak punya cela, maka kita selamanya tak akan punya teman."
+    },
+    {
+      "id": 49,
+      "judul": " قُلِ الحَقَّ وَلَوْ كَانَ مُرًّا",
+      "arti": "Katakanlah yang benar itu, walaupun pahit.",
+      "penjelasan": "Iya, ini adalah prinsip yang benar jika dilakukan pada waktu dan tempat yang tepat."
+    },
+    {
+      "id": 50,
+      "judul": " خَيْرُ مَالِكَ مَا نَفَعَكَ",
+      "arti": "Sebaik-baik hartamu adalah yang bermanfaat bagimu.",
+      "penjelasan": "Ini adalah pedoman dasar bagi kita dalam memenuhi kebutuhan hidup. Maka ketika kita hendak membeli sesuatu, yang menjadi pertimbangan utama kita hendaknya adalah segi manfaatnya. Karena banyak sekali sesuatu yang menarik hati kita namun ternyata tak bermanfaat sama sekali bagi kita."
+    },
+    {
+      "id": 51,
+      "judul": "خَيْرُ الأُمُوْرِ أَوْسَاطُهَا",
+      "arti": "Sebaik-baik perkara itu adalah pertengahannya (yang sedang saja).",
+      "penjelasan": "Maksud dari Mahfuzhat ini adalah bahwa kita hendaklah menjauhi Ifrath (Terlalu berlebihan) dan Tafrith (Terlalu kurang) dalam setiap hal. Misalnya, berlebihan dalam beribadah sampai mengabaikan hak-hak tubuh untuk beristirahat bukanlah hal baik, demikian pula terlalu meremehkan ibadah juga bukanlah hal yang baik."
+    },
+    {
+      "id": 52,
+      "judul": " لِكُلِّ مَقَامٍ مَقَالٌ وَلِكُلِّ مَقَالٍ مَقَامٌ",
+      "arti": "Tiap-tiap tempat ada kata-katanya yang tepat, dan pada setiap kata ada tempatnya yang tepat.",
+      "penjelasan": "Dalam bertutur kata, ada seni yang harus kita perhatikan. Selain memastikan bahwa apa yang kita ucapkan itu adalah sesuatu yang benar, kita juga harus memastikan bahwa perkataan itu juga disampaikan di tempat dan waktu yang tepat."
+    },
+    {
+      "id": 53,
+      "judul": " إِذَا لَمْ  تَسْتَحْيِ فَاصْنَعْ مَا شِئْتَ",
+      "arti": "Apabila engkau tidak malu, maka berbuatlah sekehendakmu (apa yang engkau kehendaki).",
+      "penjelasan": "Mahfuzhat ini diambil dari Hadis Nabi yang diriwayatkan oleh Imam Bukhari, dengan redaksi lengkap sebagai berikut:"
+    },
+    {
+      "id": 54,
+      "judul": " لَيْسَ العَيْبُ لِمَنْ كَانَ فَقِيْرًا بَلِ العَيْبُ لِمَنْ كَانَ بَخِيْلًا",
+      "arti": "Bukanlah cela itu bagi orang yang miskin, tapi cela itu terletak pada orang yang kikir.",
+      "penjelasan": "Iya, kefakiran bukanlah hal yang tercela sepanjang orang itu berusaha untuk mendapatkan rezeki yang halal, karena memang tiap orang sudah ditentukan nasib dan rezekinya oleh Allah SWT."
+    },
+    {
+      "id": 55,
+      "judul": " لَيْسَ اليَتِيْمُ الَّذِي قَدْ مَاتَ وَالِدُهُ بَلِ اليَتِيْمُ يَتِيْمُ العِلْمِ وَالأَدَبِ",
+      "arti": "Bukanlah anak yatim itu yang telah meninggal orang tuanya, tapi (sebenarnya) yatim itu adalah yatim ilmu dan budi pekerti.",
+      "penjelasan": "Maksudnya adalah bahwa orang yang yatim (tidak memiliki) ilmu dan budi pekerti itu sebenarnya nasibnya lebih menyedihkan dari orang yang kehilangan orang tuanya. Sebab kehilangan orang tua, walaupun ia adalah hal yang sangat menyedihkan namun ia bukanlah sesuatu yang aib. Adapun kehilangan ilmu dan budi pekerti, maka ia adalah hal yang sangat menyedihkan, sekaligus sebuah aib yang harus segera dibenahi."
+    },
+    {
+      "id": 56,
+      "judul": " لِكُلِّ عَمَلٍ ثَوَابٌ وَلِكُلِّ كَلَامٍ جَوَابٌ",
+      "arti": "Setiap pekerjaan itu ada balasannya, dan setiap perkataan itu ada jawabannya.",
+      "penjelasan": "Artinya tidak ada hal yang sia-sia, semua yang kita lakukan, baik berupa pekerjaan maupun berupa perkataan pasti akan mendapat ganjaran. Adapun makna yang lain dari Mahfuzhat di atas adalah tak ada pertanyaan yang tak memiliki jawaban, dan tak ada masalah yang tak punya solusi."
+    },
+    {
+      "id": 57,
+      "judul": " وَعَامِلِ النَّاسَ بِمَا تُحِبُّ مِنْهُمْ دَائِماً",
+      "arti": "Dan selalu pergaulilah orang-orang dengan apa-apa yang engkau sukai daripada mereka.",
+      "penjelasan": "Maksudnya adalah kita harus memperlakukan orang-orang dengan perlakuan yang kita ingin mereka lakukan itu kepada kita. Artinya jika kita ingin orang-orang berbuat baik kepada kita maka kita juga harus berbuat baik kepada mereka. Demikian pula sebaliknya, jika kita tidak ingin mendapatkan perlakukan yang tidak kita suka dari mereka, maka janganlah kita melakukan sesuatu yang tidak mereka sukai."
+    },
+    {
+      "id": 58,
+      "judul": " هَلَكَ امْرُؤٌ لَمْ يَعْرِفْ قَدْرَهُ",
+      "arti": "Hancurlah seseorang yang tidak tahu dirinya sendiri.",
+      "penjelasan": "Seorang pelajar yang terus bermain-main dan berleha-leha padahal ia tahu bahwa ia akan segera menghadapi sebuah ujian akhir, adalah contoh dari orang yang “tidak mengetahui kadar dirinya”. Artinya ia tidak tahu bahwa dirinya masih bodoh dan perlu belajar."
+    },
+    {
+      "id": 59,
+      "judul": " رَأْسُ الذُّنُوْبِ الكَذِبُ",
+      "arti": "Kepala dari segala dosa itu, adalah kebohongan.",
+      "penjelasan": "Biasanya, orang yang melakukan sebuah kebohongan akan berusaha untuk menutupi kebohongan itu, dan tak jarang jalan yang ditempuh adalah dengan menutup kebohongan itu dengan kebohongan-kebohongan yang lainnya. Sehingga satu kesalahan  itu pun membuahkan kesalahan-kesalahan baru sehingga ia pun menjadi sebuah dosa yang besar."
+    },
+    {
+      "id": 60,
+      "judul": " مَنْ ظَلَمَ ظُلِمَ",
+      "arti": "Barang siapa menzalimi (orang lain) niscaya akan dizalimi (dibalas).",
+      "penjelasan": "Tidak ada sesuatu pun amal perbuatan manusia yang tidak mendapat balasan. Apalagi kalau hal ini adalah sebuah kezaliman, pasti akan dibalas oleh Allah, cepat atau lambat. Dalam sebuah hadis Rasulullah SAW bersabda:"
+    },
+    {
+      "id": 61,
+      "judul": " لَيْسَ الجَمَالُ بِأَثْوَابٍ تُزَيِّنُنَا إِنَّ الجَمَالَ جَمَالُ العِلْمِ وَالأَدَبِ",
+      "arti": "Bukanlah kecantikan itu dengan pakaian yang menghias kita, namun sesungguhnya kecantikan itu ialah kecantikan ilmu dan budi pekerti.",
+      "penjelasan": "Kata pepatah Inggris: “Don’t judge a book by its cover”, maksudnya janganlah kita menilai sebuah buku hanya dengan melihat covernya saja."
+    },
+    {
+      "id": 62,
+      "judul": " لَا تَكُنْ رَطْبًا فَتُعْصَرَ وَلَا يَابِسًا فَتُكَسَّرَ",
+      "arti": "Janganlah engkau bersikap lemah sehingga engkau akan diperas, dan janganlah pula bersikap keras, sehingga engkau akan dipatahkan.",
+      "penjelasan": "Maksud dari Mahfuzhat ini adalah kita harus seimbang dalam segala urusan, kita harus menghindari Ifrath (berlebihan) dan Tafrith (terlalu kurang)."
+    },
+    {
+      "id": 63,
+      "judul": " مَنْ أَعَانَكَ عَلَى الشَّرِّ ظَلَمَكَ",
+      "arti": "Barang siapa menolongmu dalam kejahatan maka ia telah menzalimimu.",
+      "penjelasan": "Maksud dari Mahfuzhat ini adalah bahwa sesungguhnya orang yang membantu kita melakukan sebuah keburukan itu pada hakikatnya sedang menjerumuskan kita dalam sebuah dosa, oleh sebab itu ia pada hakikatnya sedang menzalimi kita."
+    },
+    {
+      "id": 64,
+      "judul": " أَخِي لَنْ تَنَالَ العِلْمَ إِلاَّ بِسِتَّةٍ سَأُنْبِيْكَ عَنْ تَفْصِيْلِهَا بِبَيَانٍ: ذَكَاءٌ وَحِرْصٌ وَاجْتِهَادٌ وَدِرْهَمٌ وَصُحْبَةُ أُسْتَاذٍ وَطُوْلُ زَمَانٍ",
+      "arti": "Saudaraku! Kamu tidak akan mendapatkan ilmu, kecuali dengan enam perkara, akan aku beritahukan perinciannya dengan jelas :",
+      "penjelasan": "1). Kecerdasan, 2). Ketamakan (terhadap ilmu), 3). Kesungguhan, 4). Harta benda (bekal), 5). Mempergauli guru (bermuamalah dengan baik), 6). Waktu yang panjang"
+    },
+    {
+      "id": 65,
+      "judul": " العَمَلُ يَجْعَلُ الصَّعْبَ سَهْلًا",
+      "arti": "Bekerja itu membuat yang sukar menjadi mudah.",
+      "penjelasan": "Maksudnya adalah sering kali sesuatu itu terlihat sulit sebelum ia dikerjakan, padahal ketika sudah dilakukan ia akan menjadi mudah."
+    },
+    {
+      "id": 66,
+      "judul": " مَنْ تَأَنَّى نَالَ مَا تَمَنَّى",
+      "arti": "Barang siapa berhati-hati, niscaya mendapatkan apa-apa yang ia cita-citakan.",
+      "penjelasan": "Kita hendaknya selalu bersikap hati-hati dalam segala urusan, karena sering sekali terjadi seseorang mendapatkan celaka karena kurangnya hati-hati."
+    },
+    {
+      "id": 67,
+      "judul": " اُطْلُبِ العِلْمَ وَلَوْ بِالصَّيْنِ",
+      "arti": "Carilah/tuntutlah ilmu walaupun di negeri Cina.",
+      "penjelasan": "Penyebutan negeri China di sini tidaklah bermaksud untuk menunjukkan kemuliaan bangsa ataupun negeri China dibandingkan bangsa-bangsa lainnya, adapun maksud dari disebutnya Negeri China di sini adalah karena ia (dulu) dikenal sebagai negeri yang sangat jauh dari jazirah Arab. Maka dipakailah ia untuk menunjukkan posjudul yang sangat jauh."
+    },
+    {
+      "id": 68,
+      "judul": " النَّظَافَةُ مِنَ الإِيْمَانِ",
+      "arti": "Kebersihan itu sebagian dari iman.",
+      "penjelasan": "Kalimat ini bukanlah sebuah hadis, namun maknanya mirip dengan sebuah hadis yang diriwayatkan oleh Imam Muslim yang berbunyi:"
+    },
+    {
+      "id": 69,
+      "judul": " إِذَا كَبُرَ المَطْلُوْبُ قَلَّ المُسَاعِدُ",
+      "arti": "Kalau besar permintaannya maka sedikitlah penolongnya.",
+      "penjelasan": "Yang pertama: Bahwa sebuah permintaan tolong yang membutuhkan usaha yang besar untuk menunaikannya pasti hanya akan mendapatkan segelintir orang yang bersedia untuk membantu. Karena memang tidak banyak orang yang bisa membantu. Ini adalah normal dan tidak ada yang salah dengan hal ini. Kedua: adapun arti lain dari kalimat ini adalah bahwa orang yang terlalu sering meminta bantuan orang lain (menjadikan itu sebagai kebiasaan), lambat laun akan kesulitan menemukan orang yang bersedia menolongnya. Kedua: adapun arti lain dari kalimat ini adalah bahwa orang yang terlalu sering meminta bantuan orang lain (menjadikan itu sebagai kebiasaan), lambat laun akan kesulitan menemukan orang yang bersedia menolongnya."
+    },
+    {
+      "id": 70,
+      "judul": " لاَ خَيْرَ فيِ لَذَّةٍ تَعْقِبُ نَدَمًا",
+      "arti": "Tidak ada baiknya sesuatu keenakan yang diiringi (oleh) penyesalan.",
+      "penjelasan": "Maksudnya adalah ketika kita hendak melakukan sesuatu, kita hendaknya selalu memikirkan konsekuensi ataupun akibat dari perbuatan tersebut. Apakah ia akan menjadi kebaikan ataukah keburukan bagi kita di kemudian hari."
+    }
+  ]
+},
+
+{
+    "kelasDua": [
+    {
+        "id": 1,
+        "judul": "الحَثُّ عَلَى التَعَلُّمِ",
+        "isi": "الحَثُّ عَلَى التَعَلُّمِ\nAjakan untuk menuntut ilmu\n\n\nالعَالِمُ كَبِيْرٌ وَإِنْ كَانَ حَدَثًا # وَالجَاهِلُ صَغِيْرٌ وَإِنْ كَانَ شَيْخًا\nOrang yang berilmu itu besar walaupun umurnya masih muda,\nsedangkan orang yang bodoh itu kecil walaupun umurnya tua\n\nتَعَلَّمْ فَلَيْسَ المَرْءُ يُوْلَدُ عَالِمًا # وَلَيْسَ أَخُوْ عِلْمٍ كَمَنْ هُوَ جَاهِلُ\nBelajarlah (karena) tidak ada orang yang dilahirkan dalam keadaan berilmu,\ndan tidaklah sama orang yang berilmu dengan orang bodoh.\n\nوَإِنَّ كَبِيْرَ القَوْمِ لاَعِلْمَ عِنْدَهُ # صَغِيْرٌ إِذَا الْتَفَّتْ عَلَيْهِ المَحَافِلُ\nDan sesungguhnya tokoh terpandang suatu kaum yang tidak berilmu itu,\nmenjadi kecil tatkala berkumpul bersamanya orang-orang di dalam perkumpulan.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nKebesaran seseorang itu tidak dilihat dari usia, melainkan dilihat dari ilmu dan pengetahuannya. Sementara itu seseorang yang mengharapkan ilmu pengetahuan namun hanya berdiam diri saja tanpa adanya usaha akhir berakhir dalam kesia-siaan karena tidak ada orang yang lahir ke dunia ini dalam keadaan berilmu, ilmu itu hendaknya dicari."
+      },
+      {
+        "id": 2,
+        "judul": "أَدَبُ الْمُجَالَسَةِ",
+        "isi": "أَدَبُ الْمُجَالَسَةِ\nAdab dalam bermajlis (bergaul)\n\nإِنْ أَنْتَ جَالَسْتَ الرِّجَالَ ذَوِي النُّهَى # فَاجْلِسْ إِلَيْهِمْ بِالْكَمَالِ مُؤَدَّبًا\nJika kamu bergaul bersama orang-orang berilmu,\nMaka bergaullah bersama mereka dengan kesempurnaan adab\n\nوَاسْمَعْ حَدِيْثَهُمْ إِذَا هُمْ حَدَّثُوْا # وَاجْعَلْ حَدِيْثَكَ - إِنْ نَطَقْتَ - مُهَذَّبًا\nDan dengarlah perkataan mereka jika mereka berbicara,\nDan jadikanlah perkataanmu –jika kamu berkata– penuh sopan santun.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nIni adalah pedoman dasar kita dalam bermajlis dan bergaul, khususnya ketika kita sedang bersama dengan orang-orang ahlul ilmi, maka hendaklah kita menjaga adab dan sopan santun kita"
+      },
+      {
+        "id": 3,
+        "judul": "الشَّرَفُ بِالْأَدَبِ",
+        "isi": "الشَّرَفُ بِالْأَدَبِ\nKehormatan itu berdasarkan adab\n\nلَا تَنْظُرَنَّ لِأَثْوَابٍ عَلَى أَحَدٍ # إِنْ رُمْتَ تَعْرِفَهُ فَانْظُرْ إِلَى الْأَدَبِ \nJanganlah engkau melihat pakaian yang ada pada seseorang,\nJika engkau ingin mengenal orang itu maka lihat adabnya.\n\nوَمَا الحُسْنُ فِيْ وَجْهِ الْفَتَى شَرَفاً لَهُ # إِنْ لَمْ يَكُنْ فِيْ فِعْلِهِ وَالخَلائِقِ\nDan tidaklah keindahan yang ada pada wajah seseorang itu kehormatan baginya,\nJika tidak diiringi dengan keindahan pada perbuatan dan perilakunya.\n\nفَلْيَنْظُرَنَّ إِلَى مَنْ فَوْقَهُ أَدَبًا # وَلْيَنْظُرَنَّ إِلَى مَنْ دُوْنَهُ مَالًا\nMaka hendaklah seseorang melihat orang yang lebih baik dari dirinya dari segi adab,\nDan hendaknya juga ia melihat orang yang kurang dari dirinya dari segi harta.\n\nSyarah / Penjelasan :\n1. Jika kita ingin mengetahui terhormat atau tidaknya seseorang, maka janganlah kita hanya melihat penampilannya saja, tapi lihatnya akhlak dan budi pekertinya.\n\n2. Dan ketahuilah bahwasannya keindahan fisik yang dimiliki oleh seseorang itu bukanlah tolak ukur dalam bagi kita dalam menilainya. Maka jika kita benar-benar ingin menilainya, hendaklah kita melihat segala perilaku dan tutur katanya.\n\n3. Jika seseorang ingin adabnya menjadi lebih baik, maka hendaknya ia melihat kepada orang lain yang adabnya lebih baik dari dirinya. Selain itu hendaknya pula ia melihat kepada orang yang hartanya tidak sebanyak dirinya agar muncul rasa syukur di hatinya, dan agar muncul rasa iba di hatinya terhadap penderitaan orang lain."
+      },
+      {
+        "id": 4,
+        "judul": "قَالَ الْإِمَامُ الشَّافِعِيُّ رَضِيَ اللهُ عَنْهُ",
+        "isi": "قَالَ الْإِمَامُ الشَّافِعِيُّ رَضِيَ اللهُ عَنْهُ\nTelah berkata Imam Syafi’i Radhiyallahu Anhu\n\nشَكَوْتُ إِلَى وَكِيْعٍ سُوْءَ حِفْظِيْ # فَأَرْشَدَنِيْ إِلَى تَرْكِ الْمَعَاصِيْ \nAku telah mengadukan kepada Waki’ lemahnya hafalanku,\nMaka beliaupun membimbingku untuk meninggalkan maksiat.\n\nوَأَخْبَرَنِيْ بِأَنَّ الْعِلْمَ نُوْرٌ # وَنُوْرُ اللهِ لَا يُهْدَى لِعَاصِيْ\nBeliau juga memberitahukan kepadaku bahwasannya ilmu itu adalah cahaya,\nDan cahaya Allah itu tidaklah diberikan kepada orang yang berbuat maksiat."
+      },
+      {
+        "id": 5,
+        "judul": "الحَثُّ عَلَى التَّعَلُّمِ (٢)",
+        "isi": "الحَثُّ عَلَى التَّعَلُّمِ (٢)\nAnjuran dalam menuntut ilmu 2\n\nمَنْ لَمْ يَذُقْ ذُلَّ التَّعَلُّمِ سَاعَةً #  تَجَرَّعَ ذُلَّ الْجَهْلِ طُوْلَ حَيَاتـِهِ\nBarangsiapa belum merasakan susahnya menuntut ilmu barang sejenak\nIa pasti akan merasakan rendahnya kebodohan seumur hidupnya\n\nوَمَنْ فَاتَهُ التَّعْلِيْمُ وَقْتَ شَبَابِهِ # فَكَبِّرْ عَلَيْهِ أَرْبَعًا لِوَفَاتـِهِ\nBarangsiapa yang lalai dari menuntut ilmu semasa mudanya\nMaka bertakbirlah engkau atasnya sebanyak 4 kali akan wafatnya ia.\n\nحَيَاةُ الْفَتَى وَاللهِ بِالْعِلْمِ وَالتُّقَى #  إِذَا لَمْ يَكُوْنَا لَا اعْتِبَارَ لِذَاتـِهِ\nHidupnya seseorang itu –demi Allah- ditentukan oleh ilmu dan takwa\nJika keduanya sudah tak ada, maka tak ada lagi harga dirinya."
+      },
+      {
+        "id": 6,
+        "judul": "حَقُّ الْوَالِدَيْنِ",
+        "isi": "حَقُّ الْوَالِدَيْنِ\nHak kedua orang tua\n\nإِنَّ لِلْوَالِدَيْنِ حَقًّا عَلَيْنَا # بَعْدَ حَقِّ اللهِ فِي الاِحْتِرَامِ\nSesungguhnya kedua orang tua itu memiliki hak atas kita\nSetelah haknya Allah dalam hal penghormatan\n\nأَوْجَدَانَا وَرَبَّيَانَا صَغِيْرًا # فَاسْتَحَقَّا نِهَايَةَ الْإِكْرَامِ\nMereka telah membuat kita ada di dunia dan juga mendidik kita di waktu kecil\nMaka sudah menjadi hak mereka untuk mendapatkan setinggi-tingginya penghormatan"
+      },
+      {
+        "id": 7,
+        "judul": "التَّوَاضُعُ",
+        "isi": "التَّوَاضُعُ\nTawadhu’ – Rendah Hati\n\nتَوَاضَعْ إِذَا مَا نِلْتَ فِي النَّاسِ رِفْعَةً # فَإِنَّ رَفِيْعَ الْقَوْمِ مَنْ يَتَوَاضَعْ\nRendah hatilah tatkala engkau mendapatkan kedudukan di antara orang-orang\nKarena sesungguhnya orang yang tinggi dalam sebuah kaum adalah yang rendah hati\n\nتَوَاضَعْ إِذَا مَا كَانَ قَدْرُكَ عَالِيًا # فَإِنَّ اتِّضَاعَ الْمَرْءِ مِنْ شِيَمِ الْعَقْلِ\nRendah hatilah ketika kau berkedudukan tinggi\nKarena rendah hati adalah salah satu pertanda kematangan akal"
+      },
+      {
+        "id": 8,
+        "judul": "التَّوَاضُعُ (٢)",
+        "isi": "التَّوَاضُعُ 2\nTawadhu’ – Rendah Hati 2\n\nتَوَاضَعْ تَكُنْ كَالنَّجْمِ لَاحَ لِنَاظِرٍ # عَلَى صَفَحَاتِ الْمَاءِ وَهُوَ رَفِيْعٌ\nRendah hatilah! maka engkau akan menjadi seperti bintang yang terlihat\nDi permukaan air, namun (sebenarnya) ia berada pada posisi yang tinggi\n\nوَلَا تَكُنْ كَالدُّخَانِ يَعْلُوْ بِنَفْسِهِ # إِلىَ طَبَقَاتِ الْجَوِّ وَهُوَ وَضِيْعٌ\nDan janganlah seperti asap yang membumbung tinggi dengan sendirinya\nKe lapisan atmospere namun (sebenarnya) ia berada pada posisi rendah"
+      },
+      {
+        "id": 9,
+        "judul": "الصِّدْقُ",
+        "isi": "الصِّدْقُ\nKejujuran\n\nعَلَيْكَ بِالصِّدْقِ فِيْ كُلِّ الْأُمُوْرِ لَا # تَكْذِبْ فَأَقْبَحُ مَا يُزْرِيْ بِكَ الْكَذِبُ\nHendaklah engkau berlaku jujur dalam setiap perkara\nJanganlah berbohong karena seburuk-buruk cela bagimu adalah kebohongan\n\nلَا يَكْذِبُ الْمَرْأُ إِلَّا مِنْ مَهَانَتِهِ # أَوْ عَادَةِ السُّوْءِ أَوْ مِنْ قِلَّةِ الْأَدَبِ\nTidaklah seseorang itu berbohong melainkan disebabkan oleh kerendahan moralnya\nAtaupun kebiasaan buruknya maupun kekurang-beradabannya"
+      },
+      {
+        "id": 10,
+        "judul": "النَّصِيْحَةُ",
+        "isi": "النَّصِيْحَةُ\nNasehat\n\nاُسْلُكْ بُنَيَّ مَنَاهِجَ السَّادَاتِ # وَتَخَلَّقَنَّ بِأَشْرَفِ الْعَادَاتِ\nTitilah wahai anakku jalan-jalan kemuliaan\nDan berakhlaklah engkau dengan kebiasaan-kebiasaan yang mulia\n\nوَإِذَا اتَّسَعْتَ بِرِزْقِ رَبِّكَ فَاجْعَلَنَّ # مِنْهُ الْأَجَلَّ لِأَوْجُهِ الصَّدَقَاتِ\nDan jika telah dilapangkan rizkimu dari Tuhanmu\nMaka jadikanlah sebagian besarnya untuk sedekah"
+      },
+      {
+        "id": 11,
+        "judul": "بِقَدْرِ مَاتَعْتَنِى تَنَالُ مَا تَتَمَنَّى",
+        "isi": "بِقَدْرِ مَاتَعْتَنِى تَنَالُ مَا تَتَمَنَّى\nSesuai usahamu kamu mendapatkan apa yang kamu cita-citakan\n\n\nبِقَدْرِ الْكَدِّ تُكْـتَسَبُ الْمَعَالِى# وَمَنْ طَلَبَ الْعُلىَ سَهِرَ اللَّـيَالِ\nKemuliaan itu akan didapatkan sesuai dengan usahamu\nBarangsiapa yang menginginkan kemuliaan, hendaklah ia tidak tidur malam\n\nوَمَنْ طَلَبَ الْعُلىَ مِنْ غَـيْرِ كَدٍّ # أَضَاعَ الْعُمْرَ فىِ طَلَبِ الْمُحَالِ\nBarangsiapa mendambakan kemuliaan tanpa adanya usaha\nMaka ia telah menyia-nyiakan umur untuk mendapatkan hal yang mustahil"
+      },
+      {
+        "id": 12,
+        "judul": "الكَشَّافَةُ",
+        "isi": "الكَشَّافَةُ\nKepramukaan\n\n\nأَنَا الْفَتَى الْكَشَّافُ # مِنْ وَاجِبِى اْلإِسْعَافُ\nAku adalah seorang Pandu Pramuka\nMerupakan kewajibanku untuk menolong sesama\n\nأَسْعَى بِكُلِّ جُهْدِيْ # لِخِدْمَةِ الْعِبَادِ\nAku berusaha sekuat tenagaku\nUntuk melayani sesama\n\nأَخْدُمُ كُلَّ أَهْلِيْ # بِلَا انْـتِظَارِ مُهْلِ\nAku melayani semua saudaraku\nTanpa mengharapkan tanda jasa\n\nفَخِدْمَةُ الْأَوْطَانِ # مِنْ وَاجِبِ اْلإِ نْسَانِ\nMaka melayani tanah air\nMerupakan kewajiban manusia\n\n\nSyarah / Penjelasan dan Kesimpulan:\n\nSeorang Pandu Pramuka adalah sosok yang diharapkan memiliki jiwa perjuangan dan semangat menolong antar sesama tanpa mengharapkan pamrih atau tanda jasa. Nilai-nilai perjuangan seperti hendaknya dimiliki oleh segenap anak bangsa khususnya para pemuda yang merupakan 'masa depan' sebuah bangsa."
+      },
+      {
+        "id": 13,
+        "judul": "(1)المُقْتَطَفَاتُ",
+        "isi": "المُقْتَطَفَاتُ (1)\nKata-Kata Bijak Pilihan (1)\n\nإِنْ أَنْتَ لَمْ تَزْرَعْ وَأَبْصَرْتَ حَاصِدًا # نَدِمْتَ عَلَى التَّفْرِيْطِ فِيْ زَمَنِ الْبَذْرِ\nJika engkau tak bercocok tanam lantas kau lihat orang memanen tanamannya\nMaka engkau pasti menyesal akibat bermalas-malasan pada masa bercocok tanam\n\nوَإِذَا كُنْتَ فِيْ نِعْمَةٍ فَارْعَهَا # فَإِنَّ الْمَعَاصِيَ تُزِيْلُ النِّعَمَ\nDan tatkala engkau sedang berada dalam sebuah nikmat, maka jagalah ia\nKarena sesungguhnya maksiat-maksiat itu menghilangkan nikmat\n\n\nSyarah / Penjelasan dan Kesimpulan:\n\nUsaha itu hendaknya dilakukan pada masanya, sebab sebuah usaha jika tidak dilakukan pada saat dimana ia harus dilakukan, tidak akan membuahkan hasil dan hanya akan berbuah penyesalan."
+      },
+      {
+        "id": 14,
+        "judul": "الصَّبْرُ",
+        "isi": "الصَّبْرُ\nKesabaran\n\n\nالصَّـبْرُ كَالصَّبِرِ مُرٌّفِى مَذَاقَـتِـهِ # لَكِنَّ عَوَاقِبَهُ أَحْلىَ مِنَ الْعَسَلِ\nKesabaran itu seperti Shabir (sejenis tanaman obat) yang rasanya pahit\nAkan tetapi hasil yang didapatkan setelahnya lebih manis daripada madu\n\nكُـنْ حَلـِيْمًا إِذَا بُلِيْتَ بَغَـيْظٍ # وَصَبُوْرًا إِذَا أَتَـتْكَ مُصِيْبَةٌ\nJadilah penyantun jika engkau diuji dengan sebuah kemarahan\nDan jadilah penyabar jika engkau didatangi oleh sebuah musibah"
+      },
+      {
+        "id": 15,
+        "judul": "الاقْتِصَادُ",
+        "isi": "الاقْتِصَادُ\nHemat\n\nأَنْفِقْ عَلَى قَدْرِ مَا اسْتَطَعْتَ وَلَا # تُسْرِفْ وَعِشْ عَيْشَ مُقْتَصِدٍ\nBelanjalah sesuai kemampuanmu dan janganlah berlebih-lebihan\nDan hiduplah dengan kehidupan yang hemat\n\nمَنْ كَانَ فِيْمَا اسْتَفَادَ مُقْتَصِدًا # لَمْ يَفْتَقِرْ بَعْدَهَا إِلَى أَحَدٍ\nBarangsiapa yang berhemat dalam kebutuhannya\nDia tidak akan membutuhkan bantuan orang lain setelahnya\n\nSyarah / Penjelasan dan Kesimpulan:\n\nJangan sampai pasak lebih besar daripada tiang, mungkin slogan inilah yang paling sesuai dengan mahfuzhat ini. Jadi kita harus selalu memperhatikan kemampuan kita, termasuk dalam urusan finansial, hendaknya pengeluaran kita tidak lebih besar dari pemasukan kita."
+      },
+      {
+        "id": 16,
+        "judul": "الـمُقْتَطَفَاتُ (۲)",
+        "isi": "الـمُقْتَطَفَاتُ (۲)\nKata-kata Bijak Pilihan (2)\n\nيَمُوْتُ الفَتَى مِنْ عَثْرَةٍ بِلِسَانِهِ #\nوَلَيْسَ يَمُوْتُ المَرْءُ مِنْ عَثْرَةِ الرِجْلِ\nPemuda itu bisa mati karena terpeleset lidahnya\nNamun tidaklah ia mati karena terpeleset kakinya\n\nإِذَا نَطَقَ السَفِيْهُ فَلَا تُجِبْهُ #\nوَخَيْرٌ مِنْ إِجَابَتِهِ السُكُوْتُ\nJika orang bodoh berbicara maka janganlah engkau menjawabnya\nKarena sebaik-baik jawaban baginya adalah diam\n\nSyarah / Penjelasan dan Kesimpulan:\n\nMulut yang tidak dapat dijaga seringkali menjadi penyebab hancurnya hidup seseorang, baik di dunia dan di akhirat"
+      },
+      {
+        "id": 17,
+        "judul": "الـمُقْتَطَفَاتُ (۳)",
+        "isi": "الـمُقْتَطَفَاتُ (۳)\nKata-kata Bijak Pilihan (3)\n\nمَنْ لَاعَبَ الثُعْبَانَ فيِ كَفِّهِ  #\nهَيْهَاتَ أَنْ يَسْلَمَ مِنْ لَسْعَتِهِ\nBarangsiapa memainkan ular di telapak tangannya\nTidak mungkin baginya untuk selamat dari gigitannya\n\nإِنَّ الغُصُوْنَ إِذَا قَوَّمْتَهَا اعْتَدَلَتْ  #\nوَلَا يَلِيْنُ إِذَا قَوَّمْتَهُ الخَشَبُ\nSesungguhnya ranting itu akan lurus jika engkau meluruskannya\nNamun tidaklah demikian jika yang kau luruskan itu adalah batang pohon\n\nSyarah / Penjelasan dan Kesimpulan:\n\nBait pertama adalah perumpamaan bagi orang yang berteman dengan orang buruk, lambat laun ia akan terkena pengaruh buruknya juga.\nAdapun bait kedua adalah perumpamaan bagi orangtua ataupun guru yang ingin mendidik seorang anak. Anak-anak diibaratkan seperti ranting pohon yang masih muda yang masih gampang dibentuk sesuai keinginan. Namun apabila anak itu sudah menjadi dewasa, ia akan seperti batang pohon yang sudah mengeras yang sudah tak dapat lagi dibentuk sesuai keinginan. Maka saat terbaik dalam mendidik seseorang adalah pada saat ia masih muda."
+      },
+      {
+        "id": 18,
+        "judul": "اِحْتِرَامُ الـمُعَلِّمِ وَالطَّبِيْبِ",
+        "isi": "اِحْتِرَامُ الـمُعَلِّمِ وَالطَّبِيْبِ\nPenghormatan Kepada Guru dan Dokter\n\n\nنَّ الْمُعَلِّمَ وَالطَبِيْبَ كِلاَ هُمَا #\nلَا يَنْصَحَانِ إِذَا هُمَا لَمْ يُكْرَمَا\nSesungguhnya guru dan dokter itu dua duanya\nTidak akan memberi nasehat kalau keduanya tak dihormati\n\nفَاصْبِرْ لِدَائِكَ إِنْ جَفَوْتَ طَبِيْبَهَا #\nوَاقْنَعْ بِجَهْلِكَ إِنْ جَفَوْتَ مُعَلِّمًا\nMaka sabarlah atas penyakitmu kalau engkau menjauhi dokter\nDan puaslah dengan kebodohanmu jika engkau menjauhi guru\n\n\nSyarah / Penjelasan dan Kesimpulan:\n\nPada hakikatnya kebodohan itu merupakan sebuah ‘penyakit’ yang perlu ‘diobati’, maka orang yang menjauhi guru itu tak ubahnya seperti orang sakit yang tak mau menemui dokter. Ia tidak akan lepas dari kebodohannya sebagaimana orang sakit yang tak kunjung sembuh."
+      },
+      {
+        "id": 19,
+        "judul": "الـمُقْتَطَفاَتُ (٤)",
+        "isi": "الـمُقْتَطَفاَتُ (٤)\nKata-kata Bijak Pilihan (4)\n\n\nذَا انْتَمَـــى مُنْتَمٍ إِلىَ أَحَدٍ #\nفَإِنَّنِـــــيْ مُنْتَمٍ إِلـــىَ أَدَبِــــي\nJika seseorang bersandar pada orang lain,\nSesungguhnya aku bersandar pada adabku.\n\nإِنَّ الفَتَى مَنْ يَقُوْلُ ها أَنَذَا #\nوَلَيْسَ الفَتَى مَنْ يَقُوْلُ كَانَ أَبِي\nSesungguhnya pemuda adalah orang yang berkata ‘Inilah aku’,\n Bukan seseorang yang berkata ‘Inilah ayahku’.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nBait pertama menjelaskan pentingnya adab. Hendaknya adablah yang menjadi sumber kebanggaan bagi seseorang, bukan hal lainnya seperti harta, kekayaan, keluarga, dsb."
+      },
+      {
+        "id": 20,
+        "judul": "قَالَ اْلإِماَمُ الشَّافِعِي رَضِيَ اللهُ عَنْهُ",
+        "isi": "قَالَ اْلإِماَمُ الشَّافِعِي رَضِيَ اللهُ عَنْهُ\nKata Imam Syafi’i\n\n\nالعِلْمُ صَيْدٌ وَ الْكِتَابَةُ قَيْدُهُ  #\nقَيِّدْ صُيُوْدَكَ بِالْحِبَالِ الْوَاثِقَةِ\nIlmu itu seperti hewan buruan sedangkan tulisan adalah tali ikatannya,\nMaka ikatlah hewan gembalamu dengan tali yang kuat.\n\nفَمِنَ الْحَمَاقَةِ أَنْ تَصِيْدَ غَزَالَةً  #\nوَتَتْرُكَهَا بَيْنَ الْخَلاَئِقِ طَالِقَةً\nMerupakan salah satu tindakan bodoh jika engkau memburu hewan,\nlantas meninggalkannya di alam bebas tanpa ikatan.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nImam Syafi’i rahimahullah mengibaratkan proses menuntut ilmu seperti perburuan hewan. Beliau juga mengibaratkan tulisan seperti tali ikatan yang digunakan untuk mengikat hewan buruan agar tidak kabur. Maka alangkah bodohnya bila seseorang malas untuk menulis dalam proses menuntut ilmu karena apa yang tak ditulis bisa hilang (terlupakan) kapan saja."
+      },
+      {
+        "id": 21,
+        "judul": "الحَثُّ عَلَى السَّفَرِ",
+        "isi": "الحَثُّ عَلَى السَّفَرِ\nAnjuran Untuk Merantau\n\nبِلاَدُ اللهِ وَاسِعَةُ فَضَـــاءً  #\nوَرِزْقُ اللهِ فـيِ الدُنْيَا فَسِيْحُ\nTanah Allah itu luas meliputi angkasa.\nDan rizki Allah di dunia itu juga banyak melimpah.\n\nفَقُلْ لِلْقَاعِدِيْنَ عَلَى هَوَانٍ  #\nإِذَا ضَاقَ بِكُمْ أَرْضٌ فَسِيْحُوْا\nMaka katakanlah kepada orang yang duduk bermalas-malasan,\n jika bumi telah terasa sempit bagi kalian, maka merantaulah.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nAda seribu jalan menuju roma, ada seribu jalan mencari rezeki.. Terkadang seseorang bisa saja menemukan jalan buntu dalam mencari rezeki jika ia terus berdiam di suatu tempat ataupun wilayah. Maka disini kita dinasehatkan untuk melakukan perjalanan (merantau) untuk mencari rezeki di tempat lain, karena rahmat Allah itu maha luas seluas bumi yang telah Dia ciptakan. Daripada itu kita tidak boleh berputus asa dari rahmat-Nya."
+      },
+      {
+        "id": 22,
+        "judul": "لِلْبُوْصِيْرِي فيِ تَحْذِيْرِ هَوَى النَفْسِ",
+        "isi": "لِلْبُوْصِيْرِي فيِ تَحْذِيْرِ هَوَى النَفْسِ\nSyair Bushiri* Dalam Berhati-hati Tehadap Hawa Nafsu\n\nالنَفْسُ كَالطِفْلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى  #\nحُبِّ الرَضَاعِ وَإِنْ تَفْطِمْهُ يَنْفَطِمِ\nHawa nafsu itu seperti anak kecil, jika kau biarkan menyusu sampai dewasa,\nDia akan terus menyusu. Tapi jika engkau memisahkannya dia akan berhenti.\n\nكَمْ حَسَّنَتْ لَذَّةً لِلْمَرْءِ قَاتِلَةً  #\nمِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السُمَّ فيِ الدَسَمِ\nBetapa sering nafsu menjadikan sesuatu yang nikmat namun mematikan itu terlihat baik.\nSampai-sampai orang tidak tahu bahwasannya ada racun di dalam lemak.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nNafsu itu diumpamakan seperti seorang anak kecil yang sedang menyusu, anak yang menyusu biasanya kalau tidak diberhentikan menyusu (disapih), akan terus menyusu hingga besar. Nafsu manusia pun seperti itu, jika manusia tidak memaksakan dirinya untuk berhenti menuruti hawa nafsunya, maka dapat dipastikan ia tak akan pernah bisa berhenti selamanya."
+      },
+      {
+        "id": 23,
+        "judul": "(۱)الحِكَمُ وَالأَمْثَالُ السَائِرَة",
+        "isi": "الحِكَمُ وَالأَمْثَالُ السَائِرَةُ (۱)\nKata-kata Bijak dan Pepatah (1)\n\n\n1- إِعْجَابُ الرَّجُلِ بِنَفْسِهِ عُنْوَانُ ضُعْفِ عَقْلِهِ.\n1. Kekaguman seseorang terhadap dirinya sendiri adalah tanda dari lemahnya akalnya.\n\n2- فَقْدُ الْبَصَرِ أَهْوَنُ مِنْ فَقْدِ الْبَصِيْرَةِ.\n2. Kehilangan mata penglihatan itu lebih ringan daripada kehilangan mata hati.\n\n3- إِنَّ قَلْبَ الْأَحْمَقِ فِيْ فَمِهِ وَلِسَانُ الْعَاقِلِ فيِ قَلْبِهِ.\n3. Sesungguhnya hati orang bodoh itu ada di dalam mulutnya sedangkan lisan orang berakal itu ada dalam hatinya.\n\n4- هَلَكَ امْرُؤٌ لَمْ يَعْرِفْ قَدْرَهُ.\n4. Hancurlah seseorang yang tidak tahu batasan dirinya.\n\n5- الفَلاَّحُ سَيِّدُ البِلَادِ وَمَالِكُهُ الْحَقِيْقِيُّ.\n5. Petani adalah tuan negeri dan pemiliknya yang sebenarnya.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nJika seseorang merasa bangga dengan kekayaannya, kehebatannya, kepintarannya, dsb dan merasa bahwa dirinya lebih baik dari orang lain, maka itu adalah pertanda akan lemahnya akal orang tersebut, karena semua orang pasti memiliki kelebihan dan kekurangan masing-masing. Daripada itu hendaklah kita selalu bersikap tawadhu dan tidak menyombongkan diri.\nSeseorang yang kehilangan mata penglihatannya mungkin mengalami banyak kesulitan di dalam hidupnya, namun orang yang kehilangan mata hatinya tak hanya akan merasakan kesulitan di dunia ini, namun juga di akhirat kelak.\nOrang bodoh itu banyak berbicara karena semua yang terlintas di pikirannya tak bisa ia saring dan selalu ia sampaikan melalui mulutnya. Adapun orang yang berakal, selalu berhati-hati dalam bicara, ia tidak akan berbicara kecuali sesuatu yang bermanfaat. Karena itulah dikatakan hatinya orang bodoh itu berada di lidahnya, maksudnya lidahnya tak bisa berhenti bicara layaknya ia adalah hati yang terus bersungut. Sedangkan lidahnya orang yang berakal itu ada di dalam hatinya, maksudnya ialah bahwa orang yang cerdas itu sebenarnya lebih banyak berbicara di dalam hatinya (banyak berfikir) daripada di mulutnya.\nOrang yang tidak tahu batasan kemampuannya akan celaka, karena orang tersebut bisa terjerumus dalam sebuah perilaku dengan resiko yang tak mampu ia tanggung.\nPetani adalah urat nadi kehidupan sebuah bangsa karena sebagian besar kebutuhan makanan di dalam sebuah negara bergantung kepada mereka. Namun sayangnya banyak orang yang tidak sadar akan mulianya peranan mereka, bahkan sejarah mencatat tak jarang para petani dipandang sebelah mata dan dianggap sebagai kaum ‘Proletar’ yang hanya sekedar bekerja untuk memenuhi kebutuhan kaum ‘Borjuis’. Padahal seharusnya mereka layak untuk dihormati dan dianggap sebagai penopang keberlangsungan negara yang sebenarnya."
+      },
+      {
+        "id": 24,
+        "judul": "الحِكَمُ وَالْأَمْثَالُ السَّائِرَةُ (٢)",
+        "isi": "الحِكَمُ وَالأَمْثَالُ السَائِرَةُ (۱)\nKata-kata Bijak dan Pepatah (1)\n\n\n1- إِعْجَابُ الرَّجُلِ بِنَفْسِهِ عُنْوَانُ ضُعْفِ عَقْلِهِ.\n1. Kekaguman seseorang terhadap dirinya sendiri adalah tanda dari lemahnya akalnya.\n\n2- فَقْدُ الْبَصَرِ أَهْوَنُ مِنْ فَقْدِ الْبَصِيْرَةِ.\n2. Kehilangan mata penglihatan itu lebih ringan daripada kehilangan mata hati.\n\n3- إِنَّ قَلْبَ الْأَحْمَقِ فِيْ فَمِهِ وَلِسَانُ الْعَاقِلِ فيِ قَلْبِهِ.\n3. Sesungguhnya hati orang bodoh itu ada di dalam mulutnya sedangkan lisan orang berakal itu ada dalam hatinya.\n\n4- هَلَكَ امْرُؤٌ لَمْ يَعْرِفْ قَدْرَهُ.\n4. Hancurlah seseorang yang tidak tahu batasan dirinya.\n\n5- الفَلاَّحُ سَيِّدُ البِلَادِ وَمَالِكُهُ الْحَقِيْقِيُّ.\n5. Petani adalah tuan negeri dan pemiliknya yang sebenarnya.\n\nSyarah / Penjelasan dan Kesimpulan:\n\nJika seseorang merasa bangga dengan kekayaannya, kehebatannya, kepintarannya, dsb dan merasa bahwa dirinya lebih baik dari orang lain, maka itu adalah pertanda akan lemahnya akal orang tersebut, karena semua orang pasti memiliki kelebihan dan kekurangan masing-masing. Daripada itu hendaklah kita selalu bersikap tawadhu dan tidak menyombongkan diri.\nSeseorang yang kehilangan mata penglihatannya mungkin mengalami banyak kesulitan di dalam hidupnya, namun orang yang kehilangan mata hatinya tak hanya akan merasakan kesulitan di dunia ini, namun juga di akhirat kelak.\nOrang bodoh itu banyak berbicara karena semua yang terlintas di pikirannya tak bisa ia saring dan selalu ia sampaikan melalui mulutnya. Adapun orang yang berakal, selalu berhati-hati dalam bicara, ia tidak akan berbicara kecuali sesuatu yang bermanfaat. Karena itulah dikatakan hatinya orang bodoh itu berada di lidahnya, maksudnya lidahnya tak bisa berhenti bicara layaknya ia adalah hati yang terus bersungut. Sedangkan lidahnya orang yang berakal itu ada di dalam hatinya, maksudnya ialah bahwa orang yang cerdas itu sebenarnya lebih banyak berbicara di dalam hatinya (banyak berfikir) daripada di mulutnya.\nOrang yang tidak tahu batasan kemampuannya akan celaka, karena orang tersebut bisa terjerumus dalam sebuah perilaku dengan resiko yang tak mampu ia tanggung.\nPetani adalah urat nadi kehidupan sebuah bangsa karena sebagian besar kebutuhan makanan di dalam sebuah negara bergantung kepada mereka. Namun sayangnya banyak orang yang tidak sadar akan mulianya peranan mereka, bahkan sejarah mencatat tak jarang para petani dipandang sebelah mata dan dianggap sebagai kaum ‘Proletar’ yang hanya sekedar bekerja untuk memenuhi kebutuhan kaum ‘Borjuis’. Padahal seharusnya mereka layak untuk dihormati dan dianggap sebagai penopang keberlangsungan negara yang sebenarnya."
+      },
+      {
+        "id": 25,
+        "judul": "(۳)الحِكَمُ وَالْأَمْثَالُ السَّائِرَةُ",
+        "isi": "الحِكَمُ وَالْأَمْثَالُ السَّائِرَةُ (۳)\nKata-kata Bijak dan Pepatah (3)\n\n١- الوَقْتُ كَالسَّيْفِ فَإِنْ لَمْ تَقْطَعْهُ قَطَعَكَ.\n1. Waktu itu seperti pedang, jika kau tidak memotongnya maka dia akan memotongmu.\n٢- لَا تَشْرَبِ السُّمَّ اتِّكَالًا عَلَى مَا عِنْدَكَ مِنَ التِّرْيَاقِ.\n2. Jangan meminum racun dengan bergantung pada obat penawar yang kau punya.\n\n٣- إِذَا أَحْبَبْتَ امْتِلَاكَ شَيْءٍ فَلَا تُلِحَّ فِيْ طَلَبِهِ.\n3. Jika kau ingin memiliki sesuatu, maka janganlah terlalu memaksa untuk mendapatkannya.\n\n٤- إِنَّ الشَّبَابَ وَالْفَرَاغَ وَالْجِدَةَ مَفْسَدَةٌ لِلْمَرْءِ أَيَّ مَفْسَدَةٍ.\n4. Sesungguhnya masa muda, waktu luang, dan banyak harta adalah perusak seseorang dengan sebenar-benarnya kerusakan.\n\n٥- رُبَّ لَفْظَةٍ أَفْقَدَتِ الصُّحْبَةَ وَالْإِخَاءَ.\n5. Betapa seringnya sebuah kalimat merusak persahabatan dan persaudaraan."
+      },
+      {
+        "id": 26,
+        "judul": "الحِكَمُ وَالْأَمْثَالُ السَّائِرَةُ (٤)",
+        "isi": "الحِكَمُ وَالْأَمْثَالُ السَّائِرَةُ (٤)\nKata-kata Bijak dan Pepatah (4)\n\n\n١- إِنَّ فيِ يَدِ الشُبَّانِ أَمْرَ الْأُمَّةِ وَفِيْ إِقْدَامِهَا حَيَاتَهَا.\n1. Sesungguhnya di tangan para pemuda lah perkara umat. Dan dalam keberanian merekalah hidup umat.\n٢- النَّاسُ مِنْ خَوْفِ الذُّلِّ فِي الذُّلِّ وَالنَّاسُ مِنْ خَوْفِ الْخَطَأِ فِي الْخَطَأِ.\n2. Manusia yang takut terhina, akan jatuh dalam kehinaan. Adapun Manusia yang takut salah, mereka akan jatuh dalam kesalahan.\n\n٣- خَيْرُ الْأُمُوْرِ أَوْسَطُهَا.\n3. Sebaik-baik perkara adalah pertengahannya.\n\n٤- لَيْسَ الْخَبَرُ كَالْمُعَايَنَةِ.\n4. Mendengar berita (dari orang lain) tidak sama dengan menyaksikannya dengan mata sendiri.\n\n٥- مَصَائِبُ قَوْمٍ عِنْدَ قَوْمٍ فَوَائِدُ.\n5. Musibah suatu kaum bisa bermanfaat bagi kaum lainnya."
+      },
+      {
+        "id": 27,
+        "judul": "الرِّحْلَةُ فِيْ طَلَبِ الْغِنَى",
+        "isi": "الرِّحْلَةُ فِيْ طَلَبِ الْغِنَى\nMerantau Dalam Mencari Kekayaan\n\nإِذَا الْمَرْءُ لَمْ يَطْلُبْ مَعَاشًا لِنَفْسِهِ #\nشَكَا الْفَقْرَ أَوْ لَامَ الصَّدِيْقَ فَأَكْثَرَ\nJika seseorang tidak mencari nafkah untuk dirinya. Maka dia akan mengeluhkan kemiskinannya dan banyak mencela temannya.\n\nفَسِرْ فيِ بِلَادِ اللهِ وَالْتَمِسِ الْغِنَى #\nتَعِشْ ذَا يَسَارٍ أَوْ تَمُوْتَ فَتُعْذَرَ\nBerjalanlah di negeri-negeri Allah dan carilah kekayaan. Maka kau akan hidup dengan kemudahan atau kau mati tanpa celaan.\n\nوَلَا تَرْضَ مِنْ عَيْشٍ بِدُوْنٍ وَلَا تَنَمْ #\nوَكَيْفَ يَنَامُ مَنْ كَانَ مُعْسِرًا\nDan janganlah rela hidup dalam kekurangan dan janganlah tidur. Bagaimana mungkin orang dalam kesusahan bisa tidur."
+      },
+      {
+        "id": 28,
+        "judul": "لِعَمْرِو بْنِ الْوُرْدِ",
+        "isi": "لِعَمْرِو بْنِ الْوُرْدِ\nSyair Amr bin Wurd\n\nاُطْلُبِ الْعِلْمَ فَلَا تَكْسَلْ فَمَا #\nأَبْعَدَ الْخَيْرَ عَلىَ أَهْلِ الْكَسَلِ\nTuntutlah ilmu dan jangan malas.\nAlangkah jauhnya kebaikan itu dari orang malas.\n\nوَلَا تَقُلْ قَدْ ذَهَبَتْ أَرْبَابُهُ #\nكُلُّ مَنْ سَارَ عَلَى الدَّرْبِ وَصَلَ\nDan janganlah berkata para guru telah tiada.\nSetiap orang yang berjalan pada jalurnya pasti akan sampai tujuan.\n\nلَا تَقُلْ أَصْلِيْ وَفَصْلِيْ أَبَدًا #\nإِنَّمَا أَصْلُ الْفَتَى مَا قَدْ حَصَلَ\nJanganlah pernah menyebut “nasabku” dan “kastaku” selamanya.\nSesungguhnya nasab pemuda adalah apa yang telah dia perbuat."
+      }
+    ]
+
+    },  
+    
+    { "kelasTiga": [
+      {
+        "id": 1,
+        "judul": "أَوْصَى عَلِيُّ ابْنُ أَبِى طَالِبٍ اِبْنَهُ الحَسَنَ (المتوفّى سنة ٤٠ هـ)",
+        "isi": "أَوْصَى عَلِيُّ ابْنُ أَبِى طَالِبٍ اِبْنَهُ الحَسَنَ (المتوفّى سنة ٤٠ هـ)\nWasiat Ali bin Abi Thalib Kepada Hasan Putranya (Wafat 40 H)\n\nيَا بُنَيَّ: احْفَظْ عَنِّي أَرْبَعًا وَأَرْبَعًا لَا يَضُرُّكَ مَا عَمِلْتَ مَعَهُنَّ:\nأَغْنَى الْغِنَى الْعَقْلُ، وَأَكْبَرُ الْفَقْرِ الْحُمْقُ، وَأَوْحَشُ الْوَحْشَةِ الْعُجْبُ، وَأَكْبَرُ الْحَسَبِ حُسْنُ الْخُلُقِ\nيَا بُنَيَّ: إِيَّـاكَ وَمُصَادَقَةَ الْأَحْمَقِ، فَإِنَّهُ يُرِيْدُ أَنْ يَنْفَعَكَ فَيَضُرُّكَ\nوَإِيَّـاكَ وَمُصَادَقَةَ الْبَخِيْلِ، فَإِنَّهُ يُبْعِدُ عَنْكَ أَحْوَجَ مَا تَكُوْنُ إِلَيْهِ\nوَإِيَّـاكَ وَمُصَادَقَةَ الْفَاجِرِ، فَإِنَّهُ يَبِيْعُكَ بِالتَّـافِهِ.\nوَإِيَّاكَ وَمُصَادَقَةَ الْكَذَّابِ، فَإِنَّهُ كَالسَّرَابِ يُقَرِّبُ عَلَيْكَ الْبَعِيْدَ ويُبْعِدُ عَنْكَ الْقَرِيْبَ.\n\nWahai anakku, jagalah empat perkara dan jauhilah empat perkara lainnya. Engkau tidak akan terjerumus selama engkau mengamalkannya:\nSebaik-baik kekayaan adalah akal, separah-parah kemiskinan adalah kebodohan, sehina-hina sifat adalah kebanggaan pada diri sendiri, dan sebaik-baik kemuliaan adalah akhlak mulia.\nWahai anakku, jauhilah orang bodoh, karena ketika ia ingin memberikan manfaat kepadamu ia malah membahayakanmu.\nJauhilah orang kikir, karena ia akan menjauhkan darimu apa yang sangat kau butuhkan.\nJauhilah pelaku maksiat, karena dia akan menjualmu dengan harga yang murah.\nDan jauhilah pendusta, karena dia laksana fatamorgana, mendekatkan yang jauh dan menjauhkan yang dekat."
+      },
+      {
+        "id": 2,
+        "judul": "لِأَبىِ العَتَاهِيَة (المتوفّى سنة ٢١١ هـ)",
+        "isi": "لِأَبىِ العَتَاهِيَة (المتوفّى سنة ٢١١ هـ)\nSyair Abu 'Atahiyah (Wafat 211 H)\n\nلِكُلِّ شَيْءٍ زِيْنَةٌ فيِ الوَرَى               #              وَزِيْنَةُ المَرْءِ تَمَامُ الأَدَبِ\nمَا وَهَبَ اللّٰهُ لِامْرِئٍ هِبَةً                  #              أَشْرَفَ مِنْ عَقْلِهِ وَمِنْ أَدَبِهِ\nقَدْ يَشْرَفُ المَرْءُ بِآدَابِهِ                   #              فِيْنَا وَإِنْ كَانَ وَضِيْعَ النَّسَبِ\nمَنْ كَانَ مُفْتَخِرًا بِالمَالِ وَالنَّسَبِ         #              فَإِنَّمَـا فَخْرُنَا بِالعِلْمِ وَالأَدَبِ\nهُمَا حَيَاةُ الفَتَى فَإِنْ عَدُمَا                #              فَإِنَّ فَقْدَ الحَيَاةِ أَجْمَلُ بِهِ\nلَا تَنْظُرَنَّ لِأَثْوَابٍ عَلَى أَحَدٍ               #              إِنْ رُمْتَ تَعْرِفُهُ فَانْظُرْ إِلىَ الأَدَبِ\n\nSegala sesuatu merupakan perhiasan bagi manusia. Adapun Perhiasan seseorang adalah kesempurnaan adabnya.\nAllah tidak memberikan apapun kepada manusia, yang lebih mulia daripada akal dan adabnya.\nKadangkala seseorang dimuliakan oleh adabnya ketika bersama kita, walau dia berasal dari keturunan yang rendah.\nBarangsiapa membanggakan harta dan nasabnya, maka kita justru bangga dengan ilmu dan adab.\nDua hal itu (ilmu dan adab) adalah kehidupan pemuda. Sesungguhnya kehilangan nyawa lebih baik daripada kehilangan keduanya.\nJangan sekali-kali melihat penampilan seseorang dari pakaiannya. Jika kau ingin tahu seseorang, maka lihatlah adabnya."
+      },
+      {
+        "id": 3,
+        "judul": "لِمَحْمُوْدِ ساَمِى باَشاَ (المُتَوَفَّى سَنَةَ ١٣٦٦هـ) فىِ انْتِهاَزِ الْفُرْصَةِ",
+        "isi": "لِمَحْمُوْدِ ساَمِى باَشاَ (المُتَوَفَّى سَنَةَ ١٣٦٦هـ) فىِ انْتِهاَزِ الْفُرْصَةِ\nSyair Mahmud Sami Basya (Wafat 1366 H) Tentang Memanfaatkan Kesempatan\n\nبَادِرِ الفُرْصَةَ وَاحْذَرْ فَوْتَهَا        #          فَبُلُوْغُ العِزِّ فِي نَيْلِ الفُرَصِ\nوَاغْتَنِمْ عُمْرَكَ إِبَّانَ الصِّبَا          #          فَهُوَ إِنْ زَادَ مَعَ الشَيْبِ نَقَصْ\nوَابْتَدِرْ مَسْعَاكَ وَاعْلَمْ أَنَّ مَنْ    #          بَادَرَ الصَيْدَ مَعَ الفَجْرِ قَنَصْ\nإِنَّ ذَا الحَاجَةِ إِنْ لَمْ يَغْتَرِبْ       #          عَنْ حِمَاهُ مِثْلُ طَيْرٍ فيِ قَفَصٍ\n\nAmbillah kesempatan secepatnya, jangan sampai melewatkannya. Karena kemuliaan itu dicapai dengan memanfaatkan setiap kesempatan.\nPergunakanlah waktumu sejak usia dini. Karena ketika usia beranjak senja dengan bertambahnya uban, umur pun berkurang.\nCepatlah memulai usahamu, ketahuilah bahwa semakin awal seseorang memulai berburu, semakin banyak tangkapan yang ia akan dapatkan.\nSesungguhnya orang yang punya kebutuhan, namun tidak mau beranjak dari kediamannya. Maka ia laksana burung dalam sangkar.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nKesempatan itu harus dimanfaatkan sebaik mungkin karena seringkali ia tak datang untuk yang kedua kalinya. Sementara itu seringkali terjadi penyesalan akibat kelalaian ataupun sikap remeh seseorang saat mendapatkan kesempatan."
+      },
+      {
+        "id": 4,
+        "judul": "لِلطُّغْرَائِى (المتوفّى سنة ٥١٣ هـ)",
+        "isi": "لِلطُّغْرَائِى (المتوفّى سنة ٥١٣ هـ)\nSyair At-Thughro’i (Wafat 513 H)\n\nلَوْ كَانَ نُوْرُ العِلْمِ يُدْرَكُ بِالمُنَى   #          مَا كَانَ يَبْقَى فِي البَرِيَّةِ جَاهِلٌ\nاجْهَدْ وَلَا تَكْسَلْ وَلَا تَكُ غَافِلًا  #          فَنَدَامَةُ العُقْبَى لِمَنْ يَتَكَاسَلُ\n\nSeandainya cahaya ilmu itu bisa didapat dengan angan-angan. Maka tak seorang bodoh pun akan tersisa di dunia ini.\nBersungguh-sungguhlah, jangan bermalasan dan jangan pula lalai. Penyesalan itu hanyalah milik orang yang bermalas-malasan.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nSegala sesuatu yang berharga yang ada di muka bumi selalu membutuhkan usaha dan pengorbanan, demikian pula halnya dengan ilmu pengetahuan, ia tak akan bisa didapatkan dengan berkhayal dan diam saja, sebab hal ini malah bertentangan dengan Sunnatullah."
+      },
+      {
+        "id": 5,
+        "judul": "لِبَشَارِ بْنِ بُرْدٍ (المتوفّى سنة ١٦٧هـ) فىِ المُعَاشَرَةِ",
+        "isi": "لِبَشَارِ بْنِ بُرْدٍ (المتوفّى سنة ١٦٧هـ) فىِ المُعَاشَرَةِ\nSyair Basyar bin Burd (Wafat 167 H) Tentang Pergaulan\n\nإِذَا كُنْتَ فيِ كُلِّ الأُمُوْرِ مُعَاتِبًا # صَدِيْقَكَ لَمْ تَلْقَ الَّذِيْ لاَ تُعَاتِبُهُ\nفَعِشْ وَاحِدًا أَوْ صِلْ أَخَاكَ فَإِنَّهُ # مُقَارِفُ ذَنْبٍ مَرَّةً وَمُجَانِبُهُ\nوَإِنْ أَنْتَ لَمْ تَشْرَبْ مِرَارًا عَلَى القَذَى # ظَمِئْتَ وَأَيُّ النَاسِ تَصْفُوْ مَشَارِبُهُ\nوَمَنْ ذَا الَّذِيْ تُرْضَى سَجَايَاهُ كُلُّهَا # كَفَى المَرْءُ نُبْلًا أَنْ تُعَدَّ مَعَايِبُهُ\n\nKalau kau selalu melihat aib pada diri sahabatmu. Maka kau tak akan menemui seorang sahabat pun yang tak memiliki aib.\nMaka hiduplah sendirian atau jalinlah hubungan dengan saudaramu. Yang sesekali melakukan kesalahan, dan di lain waktu menjauhi kesalahan tersebut.\nKalau tidak mau minum kecuali hanya air yang benar-benar bersih dari kotoran, kau akan kehausan. Dan manusia manakah yang benar-benar bersih dari kesalahan?\nAdakah orang yang seluruh perangainya benar-benar bisa diterima? Seseorang cukup untuk disebut mulia meskipun ia masih memiliki aib.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nTak ada seorangpun di dunia ini yang tak memiliki kekurangan, karena ia hendaknya kita tidak berniat untuk mencari sahabat yang benar-benar perfect dan tak memiliki kekurangan, karena kita tak akan pernah menemukannya."
+      },
+      {
+        "id": 6,
+        "judul": "لِلشَّرِيْف العَبَّـاسِي (المتوفّى سنة ٥٠٤ هـ) فِي الْحِكَمِ",
+        "isi": "لِلشَّرِيْف العَبَّـاسِي (المتوفّى سنة ٥٠٤ هـ) فِي الْحِكَمِ\nSyair Syarif Al Abbasi (Wafat 504 H) Tentang Hikmah\n\nوَكُلُّ إِنْسَانٍ فَلاَ بُدَّ لَهُ # مِنْ صَاحِبٍ يَحْمِلُ مَا أَثْقَلَهُ\nفَإِنَّمَا الرِجَالُ بِالإِخْوَانِ # وَاليَدُ بِالسَّاعِدِ وَالبَنَانِ\nمَنْ عَرَفَ اللّٰهَ أَزَالَ التُّهْمَةَ # وَقَالَ كُلُّ فِعْلِهِ بِالحِكْمَةِ\n\nSetiap orang haruslah memiliki sahabat yang bisa membantu memikul beban hidupnya.\nPerumpamaan orang bersama teman-teman bagaikan tangan dengan lengan dan jari-jari.\nBarang siapa mengenal Allah, pasti ia menghilangkan buruk sangka pada-Nya. Dia akan berkata, 'Setiap perbuatan-Nya selalu mengandung hikmah’.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nTeman yang baik adalah teman yang rela untuk berjuang bersama kita, baik di waktu senang maupun susah. Karena itu dikatakan bahwa perumpamaan seseorang yang memiliki teman-teman itu bagaikan tangan yang memiliki lengan dan jari-jari, maksudnya adalah bahwa tangan itu hanya berfungsi baik jika ia memiliki kelengkapan berupa adanya lengan dan jari-jari, demikian pula seseorang itu dikatakan lengkap hidupnya jika ia memiliki teman-teman sejati."
+      },
+      {
+        "id": 7,
+        "judul": "لإبْنِ دُرَيْدَ الأُزْدِى (المتوفّى سنة ٣٣١ هـ)",
+        "isi": "لإبْنِ دُرَيْدَ الأُزْدِى (المتوفّى سنة ٣٣١ هـ)\nSyair Ibnu Duraid Al Uzdi (Wafat 331 H)\n\nوَالنَاسُ أَلْفٌ مِنْهُمْ كَوَاحِدٍ # وَوَاحِدٌ كَالأَلْفِ إِنْ أَمْرٌ عَنَى\nوَآفَةُ العَقْلِ الهَوَى فَمَنْ عَلاَ # عَلَى هَوَاهُ عَقْلُهُ فَقَدْ نَجَا\nعَوِّلْ عَلَى الصَبْرِ الجَمِيْلِ فَإِنَّهُ # أَمْنَعُ مَا لاَذَ بِهِ أُولُوْا الحِجَا\nلاَتَعْجَبَنْ مِنْ هالِكٍ كَيْفَ هَوَى # بَلْ فَاعْجَبَنْ مِنْ سَالِمٍ كَيْفَ نَجَا\nوَإِنَّمَا المَرْءُ حَدِيْثٌ بَعْدَهُ # فَكُنْ حَدِيْثًا حَسَنًا لِمَنْ وَعَى\n\n\nManusia itu, terkadang seribu dari mereka bagaikan satu orang, namun satu orang dari mereka juga bagaikan seribu orang, jika dia sungguh-sungguh.\nBencana akal adalah hawa nafsu, dan barang siapa yang akalnya mampu mengalahkan hawa nafsunya, maka ia telah selamat.\nBertahanlah dengan kesabaran yang indah, karena kesabaran merupakan pertahanan terkokohnya orang-orang yang berakal.\nTidak usah heran dengan orang yang hancur bagaimana ia jatuh. Tapi heranlah dengan orang yang selamat bagaimana ia berhasil.\nSeseorang akan menjadi pembicaraan bagi generasi sesudahnya. Maka jadilah pembicaraan yang baik bagi orang-orang yang sadar.\n\nSyarah / Penjelasan dan Kesimpulan:\nKualitas seseorang itu ditentukan dari berbagai faktor, salah satunya adalah kesungguhan. Kadangkala ada sebuah pekerjaan tidak bisa diselesaikan oleh seribu orang sekalipun karena mereka tidak sungguh-sungguh dalam mengerjakannya. Akan tetapi ternyata pekerjaan tersebut malah dapat diselesaikan oleh satu orang saja yang bersungguh-sungguh."
+      },
+      {
+        "id": 8,
+        "judul": "لِلْمُـتَنَـبِّى (المتوفّى سنة ٣٥٤ هـ)",
+        "isi": "لِلْمُـتَنَـبِّى (المتوفّى سنة ٣٥٤ هـ)\nSyair Al-Mutanabbi (Wafat 354 H)\n\nإِذَا غَامَرْتَ فِيْ شَرَفٍ مَرُوْمٍ # فَلَا تَقْنَعْ بِمَا دُوْنَ النُجُوْمِ\nفَطَعْمُ المَوْتِ فيِ أَمْرٍ حَقِيْرٍ # كَطَعْمِ المَوْتِ فِيْ أَمْرٍ عَظِيْمِ\nيَرَى الجُبَنَاءُ أَنَّ العَجْزَ عَقْلٌ # وَتِلْكَ خَدِيْعَةُ الطَبْعِ اللَّئِيْمِ\nوَكُلُّ شَجَاعَةٍ فِي المَرْءِ تُغْنِى # وَلَا مِثْلَ الشَجَاعَةِ فِي الحَكِيْمِ\nوَكَمْ مِنْ عَائِبٍ قَوْلاً صَحِيْحًا # وَآفَتُهُ مِنَ الفَهْمِ السَقِيْمِ\n\n\nJika kau mendambakan kemuliaan, maka janganlah puas bila tidak setinggi bintang.\nRasa kematian saat melakukan perbuatan hina itu sama seperti rasa kematian melaksanakan hal terhormat.\nPara pengecut memandang bahwa kelemahan itu adalah alasan. Dan itu adalah tipuan kuno orang yang tercela.\nSetiap keberanian yang terdapat dalam diri seseorang itu bermanfaat. Namun tidak ada keberanian sehebat yang ada pada orang bijak.\nBerapa banyak orang yang mencela perkataan benar, penyebabnya adalah karena salah memahaminya.\n\nSyarah / Penjelasan dan Kesimpulan:\nImpian seseorang akan sangat mempengaruhi motivasi dan usaha seseorang dalam hidupnya. Maka jikalau seseorang hanya memiliki impian yang biasa saja, ia pun hanya akan memiliki usaha dan motivasi yang biasa saja. Karena itu hendaknya kita memiliki impian setinggi langit dan berusaha mencapainya dengan usaha yang maksimal."
+      },
+      {
+        "id": 9,
+        "judul": "لِحِسَامِ الدِّيْنِ الْوَاعِظِيِّ (المُتَوَفَّى سَنَةَ ٩٩ هـ)",
+        "isi": "لِحِسَامِ الدِّيْنِ الْوَاعِظِيِّ (المُتَوَفَّى سَنَةَ ٩٩ هـ)\nSyair Hisamuddin Al-Wa’idzi (Wafat 99H)\n\nتَعَلَّمِ الْعِلْمَ وَاجْلِسْ فِيْ مَجَالِسِهِ # مَا خَابَ قَطُّ لَبِيْبٌ جَالَسَ العُلَمَاءَ\nوَالوَالِدَيْنِ فَأَكْرِمْ تَنْجُ مِنْ ضَرَرٍ # وَلَا تَكُنْ نَكِدًا تَسْتَوْجِبُ النَّقَمَا\nوَلَازِمِ الصُّمْتَ لَا تَنْطِقْ بِفَاحِشَةٍ # وَأَكْرِمِ الْجَارَ لَا تَهْتِكْ لَهُ حُرُمَا\nوَاحْذَرْ مِنَ المَزْحِ كَمْ فِي الْمَزْحِ مِنْ خَطَرٍ # كَمْ مِنْ صَدِيْقَيْنِ بَعْدَ الْمَزْحِ فَاخْتَصَمَا\n\n\nالمُفْرَدَاتُ (Kosa Kata)\nخَابَ : فَشِلَ\nلَبِيْبٌ : عَاقِلٌ\nنَكِدٌ : قَلِيْلُ الْخَيْرِ\nالنَقَمَا : العِقَابُ\nلَازِمْ : عَوِّدْ\nالصُّمْتُ : السُّكُوْتُ\nتَهْتِكُ : تُفْسِدُ\nاخْتَصَمَ : تَجَادَلَ\nقَطُّ : بِالْمَرَّةِ\n  \n\nTerjemahan:\nPelajarilah ilmu dan hadirilah majlis-masjlisnya. Tak akan merugi orang berakal yang bersahabat dengan para ulama.\nAdapun kedua orang tua, hormatilah mereka, maka kau akan selamat dari bahaya. Jangan jadi orang durhaka, yang pantas mendapatkan balasan.\nBiasakanlah untuk diam dan janganlah berbicara kotor. Hormatilah tetangga, dan janganlah merusak kehormatannya.\nBerhati-hatilah dengan candaan, berapa banyak bahaya dalam candaan. Berapa banyak dua orang bersahabat, setelah bergurau, lantas bermusuhan.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nKita hendaknya menjadi orang yang dekat dan cinta para ulama, karena orang yang dekat dengan mereka pasti akan mendapatkan banyak manfaat."
+      },
+      {
+        "id": 10,
+        "judul": "لِأَبِيْ تَمَامٍ (المُتَوَفَّى سَنَةَ : ٢٣١ هـ)",
+        "isi": "لِأَبِيْ تَمَامٍ (المُتَوَفَّى سَنَةَ : ٢٣١ هـ)\nSyair Abu Tamam (Wafat 231 H)\n\nإِذَا جَارَيْتَ فيِ خُلُقٍ دَنِيْئًا # فَأَنْتَ وَمَنْ تُجَارِيْهِ سَوَاءُ\nوَمَا مِنْ شِدَّةٍ إِلَّا سَيَأْتِيْ # لَهَا مِنْ بَعْدِ شِدَّتِهَا رَخَاءُ\nيَعِيْشُ الْمَرْأُ مَا اسْتَحْيَا بِخَيْرٍ # وَيَبْقَى الْعُوْدُ مَا بَقِيَ اللِّحَاءُ\nفَلَا وَاللّٰهِ مَا فِي الْعَيْشِ خَيْرٌ # وَلَا الدُّنْيَا إِذَا ذَهَبَ الحَيَاءُ\nإِذَا لَمْ تَخْشَ عَاقِبَةَ اللَّيَالِي # وَلَمْ تَسْتَحِ فَاصْنَعْ مَا تَشَاءُ\n\nالمُفْرَدَاتُ (Kosa Kata)\nجَارَيْتَ : رَافَقْتَ\nرَخَاءُ : ضِدُّ شِدَّةٍ\nشِدَّةٌ : صُعُوْبَةٌ\nTerjemahan:\nJika kau berteman dengan orang yang berperangai buruk. Maka kau dan temanmu itu sama saja.\nTidak ada kesulitan kecuali akan datang sesudah kesulitan itu kemudahan.\nSeseorang itu hidup dengan baik, selama masih memiliki rasa malu. Dan batang pohon tetap akan segar, selama masih ada kulitnya.\nMaka demi Alah, tiada lagi kebaikan dalam hidup, tidak pula di dunia ini, bila malu telah tiada.\nJika kau tidak takut dengan azab perbuatan dosa dan tidak pula punya rasa malu, maka lakukanlah apapun sesukamu.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nTeman adalah orang yang sangat berpengaruh pada kehidupan seseorang. Jika temannya baik, maka baik pula lah seseorang itu. Dalam sebuah hadis disebutkan:\nالْمَرْءُ عَلىَ دِيْنِ خَلِيْلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ\nArtinya: “Seseorang itu berada di atas perilaku kawan terdekatnya, maka hendaklah salah seorang diantara kalian melihat kepada siapa dia jadikan kawan dekat!” (HR. Ahmad dan Hakim)"
+      },
+      {
+        "id": 11,
+        "judul": "لِلشَّرِيْفِ العَباَّسِي (المتوفّى سنة ٥٠٤ هـ)",
+        "isi": "لِلشَّرِيْفِ العَباَّسِي (المتوفّى سنة ٥٠٤ هـ)\nSyair Syarif Al-Abbasy (Wafat 504 H)\n\nوَمُوْجَبُ الصَدَاقَةِ المُسَاعَدَةُ # وَمُقْتَضَى المَوَدَّةِ المُعَاضَدَةُ\nوَإِنْ رَأَيْتَ النَصْرَ قَدْ لاَحَ لَكَا # فَلاَ تُقَصِّرْ وَاحْتَرِسْ أَنْ تُهْلِكَا\nوَانْتَهِزِ الفُرْصَةَ إِنَّ الفُرْصَةَ # تَصِيْرُ إِنْ لَمْ تَنْتَهِزْهَا غُصَّةً\nلاَ تَحْتَقِرْ شَيْئًا صَغِيْرًا مُحْتَقَرًا # فَرُبَّمَا أَسَالَتِ الدَمَ الإِبَرُ\nالبَغْيُ دَاءٌ مَا لَهُ دَوَاءٌ # لَيْسَ لِمُلْكٍ مَعَهُ بَقَاءُ\nوَالغَدْرُ بِالعَهْدِ قَبِيْحٌ جِدًّا # شَرُّ الوَرَى مَنْ لَيْسَ يَرْعَى عَهْدًا\n\n\nالمُفْرَدَاتُ (Kosa Kata)\nالمعاضدة : المساعدة : المعاونة : Tolong menolong\nاحترس : Hati-hatilah\nالإبر جمن الإبرة : Jarum\nالبغي : الظلم : العصيان : Kezhaliman\nملك : عظمة : سلطة : Kekuasaan\nالغدر : الخيانة : Pengkhianatan\nالورى : الناس : Manusia\n\nTerjemahan:\nKewajiban dari persahabatan adalah adanya tolong menolong. Demikian pula ketulusan dalam persahabatan mengharuskan adanya bahu membahu.\nJika kau melihat kemenangan telah nyata bagimu, janganlah disia-siakan dan berhati-hatilah (dari membuat keputusan yang membuat) kamu celaka.\nManfaatkanlah kesempatan. Sesungguhnya kesempatan itu akan menjadi ganjalan bagimu, jika kau melewatkannya.\nJangan pernah menyepelekan hal kecil yang remeh. Seringkali jarum yang kecil saja dapat mengucurkan darah.\nKedzaliman adalah penyakit yang tak ada obatnya. Dan tidak ada kekuasaan yang kekal dengan adanya (kezhaliman).\nIngkar janji merupakan perilaku yang buruk sekali. Seburuk-buruk manusia adalah yang tidak bisa menepati janji.\n\nSyarah / Penjelasan dan Kesimpulan:\nPersahabatan yang tulus adalah persahabatan yang selalu terjalin baik dalam suasana suka maupun duka. Sementara itu, perjalan hidup seseorang tidaklah selalu berjalan dengan riang gembira, ada masanya seseorang akan menghadapi masalah dan membutuhkan seorang sahabat yang akan menolongnya. Nah, dalam kondisi sulit inilah seseorang bisa mengukur kualitas persahabatan orang-orang yang ada di sekitarnya. Ingat, hanya sahabat sejati yang akan bertahan tatkala kita sedang susah. Sesuai kata Mahfudzat lainnya:"
+      },
+      {
+        "id": 12,
+        "judul": "الأَبْـيَاتُ الْمُخْتَارَةُ",
+        "isi": "الأَبْـيَاتُ الْمُخْتَارَةُ\nBait-bait pilihan\n\nسَتُبْدِيْ لَكَ الْأَيَّامُ مَا كُنْتَ جَاهِلًا # وَيَأْتِيْكَ بِالْأَخْبَارِ مَا لَمْ تُزَوِّدْ\nعَنِ الْمَرْءِ لَا تَسْأَلْ وَأَبْصِرْ قَرِيْنَهُ # فَإِنَّ الْقَرِيْنَ بِالْمُقَارِنِ مُقْتَدٍ\nإِذَا الْمَرْءُ لَمْ يَدْنَسْ مِنَ اللُّؤْمِ عِرْضُهُ # فَكُلُّ رِدَاءٍ يَرْتَدِيْهِ جَمِيْلٌ\nمَنْ يَفْعَلِ الْخَيْرَ لَا يَعْدَمْ جَوَازِيَهُ # لَا يَذْهَبُ الْعُرْفُ بَيْنَ اللهِ وَالنَّاسِ\nمَنْ يَزْرَعِ الْخَيْرَ يَحْصُدْ مَا يُسَرُّ بِهِ # وَزَارِعُ الشَرِّ مَنْكُوْسٌ عَلَى الرَّأْسِ\n\n\nالمُفْرَدَاتُ (Kosa Kata)\nتبدي : تظهر : Menunjukkan\nتزود : تعطى الزاد : Berbekal\nأبصر : انظر : Lihatlah\nقرين : صاحب : Sahabat\nيدنس : يقبح : mengotori/memperburuk\nاللؤم : الحقارة : الدناءة : Kehinaan\nعرض : شرف : Kemuliaan\nرداء : لباس : Pakaian\nيرتدي : يلبس : Memakai\nجوازي : مف جاز : Balasan/Imbalan\nTerjemahan:\nHari-hari (yang akan datang) akan memperlihatkan apa yang (sekarang) kamu tidak ketahui. Dan ia akan datang kepadamu dengan berita yang tak pernah kau sangka.\nJangan tanya seseorang tentang dirinya, tapi lihatlah temannya. Karena sesungguhnya seseorang itu pasti mengikuti (tabiat) temannya.\nKetika seseorang tidak mengotori martabatnya dengan perbuatan tecela. Maka semua pakaian yang dipakainya akan terlihat indah.\nBarangsiapa melakukan kebaikan pasti akan mendapatkan ganjaran. Tidak akan pergi sia-sia kebaikan itu di hadapan Allah dan manusia.\nBarangsiapa menanam benih kebaikan pasti memetik hasil yang membuatnya senang. Dan penanam kejahatan pasti akan ‘jungkir balik’ (celaka).\n\n\nSyarah / Penjelasan dan Kesimpulan:\nSebagai manusia, kita adalah makhluk yang lemah, informasi yang kita miliki sangatlah terbatas, masih ada banyak hal yang belum kita ketahui. Oleh karena itu sudah selayaknya kita untuk terus menggali berbagai informasi ataupun pengetahuan dan tidak merasa puas dengan apa yang kita ketahui sekarang ini. Seringkali kurangnya pengetahuan membuat seseorang mengambil tindakan yang salah di dalam hidupnya, bahkan tak jarang seseorang menyesal di kemudian hari setelah mengetahui ‘fakta’ yang sebenarnya dari hal-hal salah yang selama ini ia yakini kebenarannya. Karena itu pula Islam selalu mengajarkan kita untuk bertabayyun dan terus menggali informasi untuk menemukan kebenaran atau fakta dari setiap perkara."
+      },
+      {
+        "id": 13,
+        "judul": "لِصَالِحِ ابْنِ عَبْدِ القُدُّوْسِ (المُتَوَفَّى سَنَةَ ١٦٧ هـ)",
+        "isi": "لِصَالِحِ ابْنِ عَبْدِ القُدُّوْسِ (المُتَوَفَّى سَنَةَ ١٦٧ هـ)\nSyair Solih bin Abdul Qudus (Wafat 167H)\n\nوَاحْفَظْ لِسَانَكَ وَاحْتَرِزْ مِنْ لَفْظِهِ # فَالْمَرْءُ يَسْلَمُ بِاللِّسَانِ وَيَعْطَبُ\nوَزِنِ الْكَلَامَ إِذَا نَطَقْتَ وَلَا تَكُنْ # ثَرْثَارَةً فيِ كُلِّ نَادٍ تَخْطُبُ\nوَالسِرُّ فَاكْتُمْهُ وَلَا تَنْطِقْ بِهِ # فَهُوَ الأَسِيْرُ لَدَيْكَ إِذْ لَا يَنْشَبُ\nوَاحْرِصْ عَلَى حِفْظِ القُلُوْبِ مِنَ الأَذَى # فَرُجُوْعُهَا بَعْدَ التَّنَافُرِ يَصْعُبُ\nإِنَّ القُلُوْبَ إِذَا تَنَافَرَ وُدُّهَا # شِبْهُ الزُجَاجَةِ كَسْرُهَا لَا يُشْعَبُ\nالمُفْرَدَاتُ (Kosa Kata)\nاحترز : خف : Takutlah\nيعطب : يهلك : Celaka\nثرثارة : كثير الكلام : Orang yang banyak bicara\nنادٍ : مكان الاجتماع : Tempat perkumpulan\nينشب : يعلق : Berkobar/Menyala\nالأذى : الألم : Rasa sakit\nتنافر : تباعد : Pergi menjauh\nود : حب : Rasa cinta\nيشعب : يجمع : Dikumpulkan\n\nTerjemahan:\nPeliharalah lidahmu dan takutlah akan (akibat dari) kata-katamu. Orang itu bisa selamat karena lidahnya dan juga celaka.\nPertimbangkanlah ucapanmu ketika berbicara. Janganlah jadi ‘mulut besar’ yang berbicara di setiap tempat.\nAdapun rahasia, maka sembunyikanlah ia dan janganlah engkau beberkan. Karena ia adalah tawanan bagimu selama ia tidak menyebar.\nBerusahalah untuk tidak menyakiti hati. Karena tidaklah mudah memulihkannya bila tersakiti.\nSesungguhnya hati itu bila telah hilang darinya rasa cinta. Laksana kaca pecah yang takkan bisa disatukan kembali."
+      },
+      {
+        "id": 14,
+        "judul": "قَالَ الشَّاعِرُ فِي الخَّلِّ",
+        "isi": "قَالَ الشَّاعِرُ فِي الخَّلِّ\nKata Seorang Penyair Terkait Pertemanan\n\nإِنْ قَلَّ مَالِيْ فَلَا خِلٌّ يُصَاحِبُنِيْ # إِنْ زَادَ مَالِيْ فَكُلُّ النَّاسِ خُلَّانِيْ\nفَكَمْ عَدُوٍّ لِأَجْلِ الْمَالِ صَاحَبَنِيْ # وَكَمْ صَدِيْقٍ لِفَقْدِ الْمَالِ عَادَانِيْ\nالمُفْرَدَاتُ (Kosa Kata)\nقَلَّ - يَقِلُّ قِلَّةً فَهُوَ قَلِيْلٌ : Menjadi sedikit\nخِلٌّ  ج أَخْلَالٌ : الصَدِيْقُ الْمُخْتَصُّ : Teman dekat\nخُلَّانٌ مف خَلِيْلٌ : صَدِيْقٌ خَالِصٌ : Teman yang tulus \nفَقْدٌ : عَدَمٌ : Ketidakadaan/kehilangan\nعَادَى – يُعَادِيْ : خَاصَمَ – يُخَاصِمُ : Memusuhi\n\nTerjemahan:\nJika hartaku sedikit tidak ada teman yang mau bersahabat denganku. Jika hartaku melimpah tiba-tiba semua orang (seakan-akan) jadi temanku.\nBetapa banyak musuh (berpura-pura) menjadi sahabatku karena hartaku. Dan betapa banyak sahabat (tiba-tiba) menjadi musuhku karena ketiadaan hartaku.\n\nSyarah / Penjelasan dan Kesimpulan:\nSalah satu fenomena yang ada di masyarakat adalah sulitnya mendapatkan teman yang benar-benar tulus setia, apalagi di masa saat ini, di mana dunia kita mengalami ‘krisis kepercayaan’, di mana orang-orang yang selama ini kita anggap sebagai ‘teman’ ternyata hanyalah orang-orang yang memanfaatkan kita, memanfaatkan ketenaran kita, harta kita, kekuasaaan kita, dsb.\nMereka hanya menemani kita tatkala kita masih memiliki hal-hal yang mereka dambakan, namun tatkala kita sedang mengalami kesusahan, ternyata mereka semua pergi menghilang entah kemana, bahkan tak jarang pula ada di antara mereka yang terkesan menjauhi kita tatkala kita sedang susah dan membutuhkan bantuan. Terkait fenomena ini, dalam mahfuzhat lainnya dikatakan"
+      },
+      {
+        "id": 15,
+        "judul": "الطَمْعُ فِي الْعَمَلِ الصَّالِـحِ",
+        "isi": "الطَمْعُ فِي الْعَمَلِ الصَّالِـحِ\nTamak Dalam Amal Sholeh\n\nوَلَدَتْكَ أُمُّكَ يَا ابْنَ آدَمَ بَاكِيًا # وَالنَاسُ حَوْلَكَ يَضْحَكُوْنَ سُرُوْرًا\nاِحْرِصْ عَلَى عَمَلٍ تَكُوْنُ بِهِ إِذَا # يَبْكُوْنَ حَوْلَكَ ضَاحِكًا مَسْرُوْرًا\n\nالمُفْرَدَاتُ (Kosa Kata)\nوَلَدَ – يَلِدُ  وِلَادَةً : Melahirkan\nضَحِكَ – يَضْحَكُ  ضِحْكًا : Tertawa\nبَكَى – يَبْكِيْ  بُكَاءً : Menangis\n\nTerjemahan:\nKamu dilahirkan ibumu, wahai anak Adam dalam keadaan menangis. Dan manusia di sekitarmu tertawa gembira.\nPerbanyaklah amal kebajikan, yang pada saatnya nanti manusia di sekitarmu menangis, sementara kau tertawa gembira.\nSyarah / Penjelasan dan Kesimpulan:\nHampir semua bayi dilahirkan ke dunia dalam keadaan menangis, saat itu orang-orang di sekelilingnya tertawa bahagia menyambut kedatangannya. Namun saat seseorang meninggal dunia, akan ada dua macam reaksi yang mungkin akan terjadi pada orang lain yang berada di sekitarnya: menangis karena sedih akan kepergiannya, ataupun tertawa karena bahagia atas kepergiannya"
+      },
+      {
+        "id": 16,
+        "judul": "مِنْ رَسُوْلِ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
+        "isi": "مِنْ رَسُوْلِ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ\nDari Rasulullah Shallallahu Alahi Wasallam\n\n۱-  اِغْتَنِمْ خَمْسًا قَبْلَ خَمْسٍ: شَبَابَكَ قَبْلَ هَرَمِكَ، وَ صِحَّتَكَ قَبْلَ سَقَمِكَ، وَ غِنَاكَ قَبْلَ فَقْرِكَ، وَ فَرَاغَكَ قَبْلَ شُغْلِكَ، وَ حَيَاتَكَ قَبْلَ مَوْتِكَ\n٢-  مَا عَالَ مَنِ اقْتَصَدَ\n٣-  وَ اعْمَلْ مَا شِئْتَ فَإِنَّكَ مَجْزِيٌّ بِهِ\n٤-  رُبَّ شَهْوَةٍ سَاعَةً أَوْرَثَ حُزْنًا طَوِيْلًا\n٥-  قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا\n٦-  مَا نَدِمَ مَنِ اسْتَشَارَ\n٧-  لَا تَزَالُ هَذِهِ الْأُمَّةُ بِخَيْرٍ مَا إِذَا قَالَتْ صَدَقَتْ، وَ إِذَا حَكَمَتْ عَدَلَتْ، وَ إِذَا اسْتُرْحِمَتْ رَحِمَتْ\n٨-  اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ\n\nالمُفْرَدَاتُ (Kosa Kata)\nاغْتَنِمْ : Pergunakanlah sebaik-baiknya\nشَبَابٌ × هَرَمٌ : Masa muda x Masa tua\nفَرَاغٌ × شُغْلٌ : Masa luang x Masa sibuk\nعَالَ – يَعُوْلُ  عِيَالَةً : افْتَقَرَ : Menjadi miskin (tergantung kepada orang lain)\nمُرٌّ : Pahit\n\nTerjemahan:\n1. Manfaatkanlah sebaik-baiknya 5 hal sebelum datang 5 hal yang lain: masa muda sebelum masa tua, masa sehat sebelum masa sakit, kaya sebelum miskin, masa luang sebelum sibuk, dan hidup sebelum mati.\n2. Tidak akan bergantung (kepada orang lain) orang yang berhemat.\n3. Berbuatlah sesukamu, sesungguhnya engkau akan mendapat balasan atasnya.\n4. Berapa banyak syahwat sesaat mewariskan kesedihan yang berkepanjangan.\n5. Katakanlah kebenaran itu meskipun ia pahit.\n6. Tidak akan menyesal orang yang bermusyawarah.\n7. Umat ini masih dalam keadaan baik selama (sifat-sifat ini ada pada mereka): jika berkata mereka jujur, jika menghukumi mereka adil, dan jika dimintai pertolongan mereka memberikan pertolongan.\n8. Bertakwalah kepada Allah dimanapun engkau berada, ikutilah perbuatan buruk itu dengan perbuatan baik, maka perbuatan baik itu akan menghapusnya. Dan pergaulilah manusia dengan akhlak mulia.\n\nSyarah / Penjelasan dan Kesimpulan:\nMasa muda, masa sehat, kekayaan, masa luang dan kehidupan adalah 5 nikmat besar yang patutnya disyukuri oleh setiap insan, namun sayangnya hanya segelintir orang yang memanfaatkannya dengan sebaik-baiknya. Banyak orang tak pernah ingat dengan tuhannya selagi ia masih muda dan sehat, karena itu penyesalan itu seringkali datang pada saat seseorang sudah berada di masa tua, bahkan di ambang kematian. Karena itu rasulullah pun mengingatkan umatnya untuk memanfaatkan nikmat-nikmat itu sebaik-baiknya."
+      }
+
+    ]
+},
+
+{ "kelasEmpat": [
+
+      {
+        "id": 1,
+        "judul": "قَالَ الإِمَامُ الشَّافِعِيُّ (المُتَوَفَّى سَنَةَ ٢۰٤ هـ) فيِ مَدْحِ السَفَرِ",
+        "isi": "قَالَ الإِمَامُ الشَّافِعِيُّ (المُتَوَفَّى سَنَةَ ٢۰٤ هـ) فيِ مَدْحِ السَفَرِ\nKata Imam Syafii (Wafat 204 H) Tentang Pujian Merantau\n\nمَا فيِ المُقَامِ لِذِيْ عَقْلٍ وَذِيْ أَدَبٍ # مِنْ رَاحَةٍ فَدَعِ الأَوْطَانَ وَاغْتَرِبِ\nسَافِرْ تَجِدْ عِوَضًا عَمَّنْ تُفَارِقُهُ # وَانْصَبْ فَإِنَّ لَذِيْذَ العَيْشِ فيِ النَصَبِ\nإِنِّيْ رَأَيْتُ وُقُوْفَ المَاءِ يُفْسِدُهُ # إِنْ سَالَ طَابَ وَإِنْ لَمْ يَجْرِ لَمْ يَطِبِ\nوَالأُسْدُ لَوْلَا فِرَاقُ الغَابِ مَا افْتَرَسَتْ # وَالسَّهْمُ لَوْلَا فِرَاقُ القَوْسِ لَمْ يُصِبِ\nوَالشَمْسُ لَوْ وَقَفَتْ فِي الفُلْكِ دَايِمَةً # لَمَلَّهَا النَاسُ مِنْ عُجْمٍ وَمِنْ عَرَبِ\nوَالتِبْرُ كَالتُرْبِ مُلْقًى فِيْ أَمَاكِنِهِ # وَالعُوْدُ فِيْ أَرْضِهِ نَوْعٌ مِنَ الحَطَبِ\nالمُفْرَدَاتُ (Kosa Kata)\nعِوَضٌ : بَدَلٌ : Pengganti\nأُسْدٌ مف أَسَدٌ : Singa\nالغَابُ : Semak belukar\nالسَّهْمُ : Anak panah\nالقَوْسُ : Busur panah\nالعُجْمُ : العَجَمُ : Non-Arab\nالتِّبْرُ : Emas mentah / biji emas\nالعُوْدُ : Kayu gaharu\n\nTerjemahan:\nTidak ada istilah diam dan santai bagi orang yang memiliki akal dan adab. Maka tinggalkanlah kampung halaman dan merantaulah.\nMerantaulah, niscaya akan kau dapatkan pengganti bagi orang yang kau tinggalkan. Berusahalah, karena nikmatnya hidup itu ada dalam usaha.\nSesungguhnya aku melihat diamnya air itu membuatnya menjadi buruk. Air itu menjadi baik jika mengalir, dan menjadi buruk jika tidak mengalir.\nSinga itu jika tidak keluar dari semak-semak, tak akan mendapatkan mangsa. Demikian pula anak panah itu jika tidak melesat dari busurnya, tidak akan mengenai sasaran.\nMatahari itu kalau menetap di porosnya selamanya. Pasti bosan padanya semua orang, baik dari kalangan Arab maupun non-Arab.\nEmas mentah itu sama seperti tanah, kalau terus berada di tempatnya. Demikian pula kayu gaharu juga hanya akan menjadi kayu bakar jika menetap di tanah.\nSyarah / Penjelasan dan Kesimpulan:\nSeorang yang berakal itu tak boleh diam bersantai-santai saja di kampung halamannya, karena ia harusnya tak boleh puas begitu saja dengan pengalaman dan ilmu yang ia dapatkan di kampung halaman sendiri. Hendaklah ia merantau mencari pengalaman dan ilmu baru di tanah orang. Namun ketika ia telah merantau, ia juga tak perlu risau memikirkan orang-orang yang ditinggalkannya di kampung halaman, karena sesungguhnya ia pasti akan menemukan pengganti berupa teman dan para sahabat baru di tanah rantau. Ia juga tak boleh malas untuk berusaha, karena sebenarnya nikmatnya hidup itu justru terletak pada usaha. Karena itu kita sering mendengar orang mengatakan bahwa: harta sedikit hasil jerih payah sendiri itu lebih berkah dan lebih berarti daripada harta hasil pemberian cuma-cuma orang lain, wallahu a’lam.."
+      },
+      {
+        "id": 2,
+        "judul": "قَالَ الإمَامُ عَلِيِّ ابْنِ أَبِيْ طَالِبٍ (المُتَوَفَّى سَنَةَ ٤۰ هـ)",
+        "isi": "قَالَ الإمَامُ عَلِيِّ ابْنِ أَبِيْ طَالِبٍ (المُتَوَفَّى سَنَةَ ٤۰ هـ)\nKata Imam Ali bin Abi Thalib (Wafat 40H)\n\nعَلَيْكَ بِبِـرِّ الْـوَالِدَيْـــنِ كِـلَيْهِمَا # وَبِـرِّ ذَوِي الْقُرْبَـــى وَبِرِّ الْأَبَاعِدِ\nوَلَا تَصْحَبَنَّ إِلَّا تَقِــــيًّا مُهَذَّبًا # عَفِيْفًا ذَكِـيًّــا مُنْجِزًا لِلْمَوَاعِدِ\nوَكُنْ وَاثِقًا بِاللّٰهِ فِـيْ كُلِّ حَادِثٍ # يَصُنْكَ مَدَى الأَيَّامِ مِنْ شَرِّ حَاسِدِ\nوَبِاللّٰهِ فَاسْتَعْصِــمْ وَلَا تَرْجُ غَيْرَهُ # وَلَا تَكُ بِالنَعْمَــاءِ عَنْهُ بِجَاحِدِ\nوَغُضَّ عَنِ المَكْرُوْهِ طَرْفَكَ وَاجْتَنِبْ # أَذَى الجَارِ وَاسْتَمْسِكْ بِحَبْلِ المَحَامِدِ\n\n\n\nTerjemahan:\nWajib bagimu berbakti pada kedua orang tua. Serta berbuat baik pada kerabat dekat maupun jauh.\nJanganlah sekali-kali engkau bersahabat kecuali dengan orang yang bertakwa dan beradab. Yang punya rasa malu, cerdas, dan selalu menepati janji.\nJadilah orang yang berpegang teguh pada Allah dalam setiap perkataan. Dia akan menjagamu sepanjang hari dari keburukan pendengki.\nDan berlindunglah kepada Allah serta janganlah berharap kepada selain-Nya. Jangan pula menjadi orang yang ingkar akan nikmat-nikmat-Nya.\nTahanlah pandangan matamu dari segala hal yang dibenci Allah. Jauhilah menyakiti tetangga, dan berpegang teguhlah pada sifat-sifat terpuji.\n\n\nSyarah / Penjelasan dan Kesimpulan:\n1- Orang tua adalah orang yang menjadi Wasilah bagi kehadiran kita di dunia ini, karena itu hendaknya mereka mendapatkan penghormatan dan bakti yang sebaik-baiknya. Adapun setelah berbakti kepada kedua orangtua, kita juga hendaknya berbuat baik kepada kerabat dekat, kemudian kerabat jauh, dan seterusnya sampai kepada semua orang.\n\n2- Dalam memilih sahabat ada beberapa kriteria yang perlu kita perhatikan, diantaranya adalah bahwa orang yang menjadi sahabat kita tersebut hendaklah memiliki ketakwaan serta punya adab sopan santun yang baik. Selain itu hendaklah ia merupakan orang yang punya rasa malu untuk berbuat hal-hal yang tidak baik. Kemudian ia hendaknya juga memiliki kecerdasan serta selalu menepati janji. Karena sahabat adalah orang yang akan mempengaruhi karakter kita baik secara langsung maupun tidak langsung"
+      },
+      {
+        "id": 3,
+        "judul": "لِلإِمَامِ الشَافِعِي (المُتَوَفَّى سنة ٢۰٤ هـ) فيِ الحِكَمِ",
+        "isi": "لِلإِمَامِ الشَافِعِي (المُتَوَفَّى سنة ٢۰٤ هـ) فيِ الحِكَمِ\nKata Imam Syafii (Wafat 204H) Tentang Hikmah\n\nدَعِ الأَيَّامَ تَفْعَلُ مَا تَشَــاءُ # وَطِبْ نَفْسًا إِذَا حَكَمَ القَضَاءُ\nوَلَا تَجْزَعْ لِحَـادِثَةِ اللَّيَالِيْ # فَمَا لِحَوَادِثِ الدُنْيَا بَقَــاءُ\nوَكُنْ رَجُلًا عَلَى الأَهْوَالِ جَلْدًا # وَشِيْمَتُكَ السَمَاحَةُ وَالسَخَاءُ\nوَ لَا حُزْنٌ يَدُوْمُ وَلَا سُرُوْرُ # وَلَا عُسْرٌ عَلَيْكَ وَلَا رَخَـاءُ\nإِذَا مَا كُنْتَ ذَا قَلْبٍ قَنُـوْعٍ # فَأَنْتَ وَمَالِكُ الدُنْيَـا سَوَاءُ\nوَمَنْ نَزَلَتْ بِسَـاحَتِهِ المَنَايَا # فَلَا أَرْضٌ تَقِيْهِ وَلَا سَمَـاءُ\n\n\n\nTerjemahan:\nBiarkanlah hari-hari berbuat sesukanya. Tetap tenanglah bila takdir telah berlaku.\nJanganlah sedih dengan berbagai kejadian dunia. Karena semua kejadian di dunia tidaklah kekal abadi.\nJadilah orang yang tegar menghadapi berbagai kesulitan. Dengan perilakumu yang penuh toleransi dan dermawan.\nTak ada kesedihan yang terus berkelanjutan, dan begitu pula kesenangan. Tiada pula kesulitan selalu mendatangimu, dan begitu pula kemudahan.\nKetika engkau sudah memiliki hati yang penuh rasa Qana’ah. Maka engkau dan raja dunia sama saja.\nBarang siapa yang ajalnya telah datang menjemput, tidaklah bumi dapat melindunginya, dan tidak pula langit.\n\n\nSyarah / Penjelasan dan Kesimpulan:\n1. Kita hendaknya selalu berusaha semampu kita, kemudian bertawakkal kepada Allah. Dan hendaknya kita tidak menyalahkan segala hal yang terjadi di muka bumi ini, karena takdir tidaklah berada di tangan kita, tugas kita hanyalah berusaha.\n\n2. Selain itu hendaknya kita tidak terlalu berkeluh kesah atas segala hal yang terjadi karena semua hal yang terjadi di dunia ini tidaklah kekal abadi, waktu akan terus berputar, dan hendaknya kita yakin bahwa akan datang kemudahan setelah kesulitan, dan juga kesulitan setelah kemudahan.\n\n3. Adapun jika kita sudah berhasil menjadi orang sabar dan tangguh atas segala musibah, maka hendaklah kita mempertahankan hal itu, dan hendaklah kita menolong orang lain yang masih mengalami kesulitan.\n4. Kita harus selalu tegar dalam keadaan apapun, baik senang maupun susah. Janganlah terlalu berbahagia tatkala senang, dan jangan pula terlalu sedih tatkala susah, karena segala hal di dunia ini datang silih berganti seiring bergantinya hari demi hari.\n\n5. Hendaknya kita memiliki sikap Qana’ah sebagai tanda ridhamu terhadap segala keputusan Allah. Jika kita sudah berhasil memiliki sikap Qanaah ini, maka kita akan menjadi laksana raja, karena dengan sifat Qanaah ini kita akan benar-benar merdeka dan tidak akan bergantung kepada orang lain lagi.\n\n6. Demikianlah keadaan hidup kita di dunia ini, segala sesuatu berjalan atas kehendak Allah. Maka jika telah datang masanya ajal menjemput seorang anak manusia, tak akan ada lagi tempat bersembunyi baginya, baik di bumi maupun di langit sekalipun. Maka hendaklah kita semua mempersiapkan datangnya kematian kita dengan banyak beribadah."
+      },
+      {
+        "id": 4,
+        "judul": "قَالَ السَيِّدُ أَحْمَدُ الهَاشِمِي",
+        "isi": "قَالَ السَيِّدُ أَحْمَدُ الهَاشِمِي\nKata Sayyid Ahmad Al Hasyimi\n\nعَلَيْكَ بِالصَبْرِ وَالإِخْلاَصِ فيِ العَمَلِ # وَلَازِمِ الخَيْرَ فيِ حَلٍّ وَمُرْتَحَلِ\nوَ جَانِبِ الشَرَّ وَ اعْلَمْ أَنَّ صَاحِبَهُ # لَا بُدَّ يُجْزَاهُ فيِ سَهْلٍ وَفيِ جَبَلِ\nوَاصْبِرْ عَلىَ مَضَضِ الأَيَّامِ مُحْتَمِلًا # فَفِيْهِ قَرْعٌ لِبَابِ النُجْحِ وَالأَمَلِ\nلاَ تَطْلُبِ العِزَّ فِـي دَارٍ وُلِدْتَ بِهَا # فَالعِزُّ عِنْدَ رَسِيْمِ الأَيْنُقِ الذُلَلِ\nشَمِّرْ وَ جِدَّ لِأَمْرٍ أَنْتَ طَـالِبُهُ # إِذْ لَا تُنَالُ المَعَاليِ قَطُّ بِالكَسَلِ\nوَ لَا تُجَادِلْ جَهُوْلًا لَيْسَ يَفْهَمُ مَا # تَقُوْلُ فَالشَرُّ كُلَّ الشَرِّ فيِ الجَدَلِ\n\n\n\nTerjemahan:\nHendaklah engkau sabar dan ikhlas dalam beramal. Selalulah berbuat baik, ketika di kampung halaman maupun ketika dalam perjalanan.\nHindarilah kejahatan, dan ketahuilah bahwa pelakunya. Pasti mendapat balasan, baik di lembah maupun di gunung.\nDan bersabarlah atas segala musibah yang menimpa hari-harimu. Karena di dalamnya ada jalan menuju kesuksesan dan cita-cita.\nJanganlah mencari kemuliaan di tempat kelahiranmu. Kemuliaan itu terletak pada jejak kaki unta yang jinak.\nSingsingkanlah lengan baju dan bersungguh-sungguhlah untuk sesuatu yang kau inginkan. Karena kesuksesan tidak akan pernah tercapai dengan kemalasan.\nJanganlah mendebat orang bodoh yang tidak memahami perkataanmu. Seburuk-buruk perbuatan buruk adalah berdebat (dengan orang bodoh).\n\n\nSyarah / Penjelasan dan Kesimpulan:\n1. Hendaknya engkau selalu sabar dan ikhlas di setiap pekerjaan karena hasil yang baik dari sebuah pekerjaan tak akan didapatkan kecuali dengan kesabaran, ketekunan, dan keikhlasan. Selain itu, hendaknya engkau selalu berbuat baik dimanapun dan kapanpun.\n\n2. Engkau juga hendaknya selalu menghindar dari berbuat keburukan dimanapun engkau berada, karena orang yang melakukan keburukan pasti akan mendapatkan balasannya cepat atau lambat, di manapun ia berada.\n\n3. Musibah dan cobaan itu pasti akan datang kepadamu, maka kewajibanmu adalah bersabar saat ia datang, karena kesabaran saat datangnya musibah adalah kunci untuk mencapai kesuksesan dan mendapatkan apa yang engkau cita-citakan.\n4. Jika engkau menginginkan sebuah martabat yang tinggi, maka janganlah engkau berdiam saja di tempatmu berada, karena sebuah kemuliaan itu tidak akan bisa didapatkan dengan berdiam diri di tempat. “Kemuliaan itu terletak pada jejak kaki unta”, maksudnya adalah bahwa engkau harus melakukan perjalanan untuk mendapatkan kemuliaan itu.\n\n5. Jika engkau menginginkan kesuksesan dalam sebuah pekerjaan, maka engkau tidak boleh setengah-setengah dalam bekerja. “Singsingkanlah lengan bajumu”, maksudnya ialah tunjukkanlah kesungguhan dan kerja kerasmu karena kesuksesan itu tak akan bisa didapatkan dengan kemalasan.\n\n6. Orang bodoh itu tidak mengetahui hakikat permasalahanmu, maka jika engkau bertemu dengannya, janganlah engkau berdebat dengannya tentang hal yang ia tidak pahami, karena perdebatan itu tak akan berkesudahan dan tidak akan memberikan manfaat apapun."
+      },
+      {
+        "id": 5,
+        "judul": "لِزُهَيْرِ بْنِ أَبِي سُلْمَى (المُتَوَفَّى قُبَيْلَ البِعْثَةِ)",
+        "isi": "لِزُهَيْرِ بْنِ أَبِي سُلْمَى (المُتَوَفَّى قُبَيْلَ البِعْثَةِ)\nSyair Zuhair bin Abi Sulma (Wafat Sebelum Kenabian)\n\nوَ مَنْ يَكُ ذَا فَضْلٍ فَيَبْخَلْ بِفَضْلِهِ # عَلَـى قَوْمِهِ يُسْتَغْنَ عَنْهُ وَيُذْمَمِ\nوَ مَنْ هَابَ أَسْبَـابَ المَنَايَا يَنَلْنَهُ # وَ إِنْ يَرْقَ أَسْبَابَ السَمَاءِ بِسُلَّمِ\nوَمَهْمَا تَكُنْ عِنْدَ امْرِئٍ مِنْ خَلِيْقَةٍ # وَإِنْ خَالَهَا تَخْفَى عَلَى النَاسِ تُعْلَمِ\nوَكَائِنْ تَرَى مِنْ صَامِتٍ لَكَ مُعْجِبٍ # زِيَــادَتُهُ أَوْ نَقْصُهُ فيِ التَكَلُّمِ\nلِسَـانُ الفَتَى نِصْفٌ وَنِصْفٌ فُؤَادُهُ # فَلَمْ يَبْقَ إِلاَّ صُوْرَةُ اللَّحْمِ وَالدَّمِ\n\n\n\nTerjemahan:\nBarang siapa memiliki kelebihan namun ia kikir. Di hadapan kaumnya, ia diabaikan dan dicela.\nBarangsiapa takut akan kematian, bagaimanapun jua ia pasti akan menemui kematian itu. Sekalipun ia naik ke langit dengan tangga.\nSeperti apapun tabiat yang ada pada diri seseorang. Walapun ia kira tabiat itu tak diketahui oleh orang lain, pasti ia akan diketahui.\nBerapa banyak orang pendiam yang membuatmu takjub. Kelebihan dan kekurangannya tergantung pada perkataannya.\nPerkataan seorang pemuda bernilai separuh, adapun separuh lainnya adalah hatinya. Maka tidak ada yang tersisa kecuali daging dan darah.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nZuhair bin Abi Sulma adalah seorang penyair terkenal pada masa Jahiliyah, ia merupakan salah satu penulis syair-syair terbaik sepanjang masa pra-Islam yang digantungkan di dinding ka’bah yang dikenal dengan istilah Al-Mu’allaqat As-Sab’ah.\n\n\n1. Maksud dari bait pertama ini adalah bahwasannya orang yang memiliki kelebihan baik dari segi harta atapun hal lainnya namun ia tidak mau ataupun enggan untuk memberikan kontribusi ataupun manfaat terhadap masyarakat di sekitarnya, maka lambat laun ia akan ditinggalkan dan akan diabaikan serta tidak mendapatkan penghormatan dari masyarakat di sekitarnya tersebut. Bait ini mengajak kita untuk terus berbuat kebaikan dan saling menebar manfaat kepada sesama.\n\n2. Kematian itu adalah sesuatu yang pasti dan tidak bisa dihindari, jika waktunya telah tiba ia akan mendatangi seseorang walaupun orang itu lari meninggalkan bumi dan pergi ke langit sekalipun. Di sini yang dimaksud dengan memanjat langit dengan tangga adalah larinya seseorang dari kematian.\n\n3. Setiap orang memiliki kepribadian yang baik dan buruk, dan setiap orang selalu berusaha untuk menyembunyikan sisi buruknya agar tidak diketahui oleh orang lain sampai ia menyangka ia telah berhasil menyembunyikannya. Namun hendaklah diketahui bahwa seiring berjalannya waktu, tabiat atau perangai yang disembunyikan itu akan tetap terkuak, maka yang harusnya dilakukan bukanlah ‘menyembunyikan’ sifat buruk itu melainkan ‘menghilangkan’nya agar bisa menjadi pribadi yang lebih baik.\n\n4. Seseorang itu dapat dinilai dari perkataannya. Banyak orang yang membuatmu kagum dengan penampilannya, namun ternyata setelah ia berbicara, ucapannya tak selaras dengan penampilannya. Demikian pula sebaliknya adapula orang yang penampilannya tak menarikmu, namun ternyata ucapannya bagaikan mutiara. Maka ambillah pelajaran dari hal ini; yakni bahwa ucapan adalah hal yang sangat penting karena selain dari tingkah laku, seseorang juga dinilai dari ucapannya.\n5. Kepribadian seorang pemuda itu dinilai dari mulut dan hatinya, jika mulutnya selalu berkata kotor dan hatinya selalu berisi keburukan, maka ia tak lagi memiliki ‘nilai’ karena yang ia miliki hanyalah “tulang dan daging” (anggota badan saja), yang mana hewan-hewan juga memilikinya."
+      },
+      {
+        "id": 6,
+        "judul": "لِلإِمَامِ الشَافِعِيِّ (المُتَوَفَّى سَنَةَ ٢۰٤ هـ) فيِ عِزَّةِ النَّفْسِ",
+        "isi": "لِلإِمَامِ الشَافِعِيِّ (المُتَوَفَّى سَنَةَ ٢۰٤ هـ) فيِ عِزَّةِ النَّفْسِ\nImam Syafii (Wafat 204 H) Tentang Kemuliaan Jiwa\n\nوَعَيْنُ الرِضَا عَنْ كُلِّ عَيْبٍ كَلِيْلَةٌ # كَمَا أَنَّ عَيْنَ السُخْطِ تُبْدِي المَسَاوِيَا\nوَلَسْتُ بِهَيَّـابٍ لِمَنْ لاَ يَهَابُنِي # وَلَسْتُ أَرَى لِلْمَرْءِ مَا لَا يَرَى لِيَـا\nفَإِنْ تَدْنُ مِنِّيْ تَدْنُ مِنْكَ مَوَدَّتِي # وَإِنْ تَنْأَ عَنِّيْ تَلْقَنِيْ عَنْكَ نَائِيَــا\nكِلَانَا غَنِيٌّ عَنْ أَخِيْهِ حَيَــاتَهُ # وَ نَحْنُ إِذَا مِتْنَا أَشَدُّ تَغَانِيَـــا\n\n\n\nTerjemahan:\nPandangan penuh cinta itu buta terhadap segala cela. Sebagimana pandangan penuh kebencian juga selalu jeli terhadap segala cela.\nAku tidak takut kepada orang yang tidak takut kepadaku. Aku tidak memandang kepada seseorang selama ia tak memandangku.\nJika kau mendekatiku, maka kasih sayangku pun mendekatimu. Dan jika kau menjauhiku, maka kau akan mendapatiku jauh darimu.\nSemua dari kita terlepas dari kehidupan saudaranya. Lebih-lebih lagi jika kita telah meningal dunia nanti."
+      },
+      {
+        "id": 7,
+        "judul": "قَالَ أَبُوْ مُسْلِمِ الخُرَّاسَانِي (المتوفّى سنة ٧٥٥ مـ)",
+        "isi": "قَالَ أَبُوْ مُسْلِمِ الخُرَّاسَانِي (المتوفّى سنة ٧٥٥ مـ)\nKata Abu Muslim Al Khurrosani (Wafat 755 M)\n\nأَدْرَكْتُ بِالحَزْمِ وَالكِتْمَانِ مَا عَجَزَتْ # عَنْهُ مُلُوْكُ بَنِيْ مَرْوَانَ إِذْ حَشَدُوْا\nمَا زِلْتُ أَسْعَى بِجُهْدِيْ فيِ دِمَارِهِمْ # وَالقَوْمُ فيِ غَفْلَةٍ بِالشَامِ قَدْ رَقَدُوْا\nحَتَّـى ضَرَبْتُهُمْ بِالسَيْفِ فَانْتَبَهُوْا # مِنْ نَوْمَةٍ لَمْ يَنَمْهَـا قَبْلَهُمْ أَحَدُ\nوَمَنْ رَعَـى غَنَمًا فيِ أَرْضٍ مَسْبَعَةِ # وَنَامَ عَنْهَا تَوَلَّـى رَعْيَهَا الأَسَدُ\n\n\n\nTerjemahan:\nSaya tahu dengan pasti dan sembunyi-sembunyi. Apa yang tidak kuasa atasnya raja-raja Bani Marwan ketika mereka berkumpul.\nSaya senantiasa berusaha sekuat tenaga untuk menghancurkan mereka. Kaum yang sedang lengah dan tertidur lelap di Syam.\nSampai akhirnya aku menebas mereka dengan pedang. Mereka pun terbangun dari tidur pulas yang belum pernah dilakukan sebelumnya oleh siapa pun.\nBarang siapa menggembala kambing di padang yang penuh binatang buas. Lalu ia lengah terhadapnya, maka singa-singa lah yang akan menggembalanya (menerkamnya).\n\n\nSyarah / Penjelasan dan Kesimpulan:\nAbu Muslim Al-Khurrasani dengan nama asli Abd Al-Rahman ibn Al-Muslim adalah salah satu tokoh yang paling berperan dalam penggulingan Daulah Umayyah oleh Daulah Abbasiyah. Ia mengumpamakan keadaan Bani Marwan (Marwan II adalah nama Khalifah Bani Umayyah terakhir) sebagaimana keadaan orang yang sedang lengah dan tertidur lelap. Keadaan rakyak yang mana para pemimpinnya lengah dan cenderung sibuk dengan foya-foya di istana diibaratkan seperti segerombolan hewan gembalaan yang ditinggal tidur oleh penggembalanya di tengah gurun yang banyak binatang buasnya. Tatkala sang penggembala itu tertidur lengah, maka datanglah hewan buas yang mencabik-cabik segerombolan hewan ternak itu."
+      },
+      {
+        "id": 8,
+        "judul": "قَالَ صَلَاحُ الدِيْنِ الصَفَدِي (المُتَوَفَّى سنة ٧٦٤ هـ)",
+        "isi": "قَالَ صَلَاحُ الدِيْنِ الصَفَدِي (المُتَوَفَّى سنة ٧٦٤ هـ)\nKata Sholahudin As Shofadi (Wafat 764 H)\n\nالجَدُّ بِالجِدِّ وَالحِرْمَــانُ بِالكَسَلِ # فَانْصَبْ تُصِبْ عَنْ قَرِيْبٍ غَايَةَ الأَمَلِ\nوَاصْبِرْ عَلَى كُلِّ مَا يَأْتِي الزَمَانُ بِهِ # صَبْرَ الحُسَـامِ بِكَفِّ الدَارِعِ البَطَلِ\nوَإِنْ بُلِيْتَ بِشَخْصٍ لَا خَلَاقَ لَهُ # فَكُنْ كَأَنَّكَ لَـمْ تَسْمَعْ وَلَمْ يَقُلِ\nوَلاَ يَغُرَّنَّكَ مَنْ تَبْدُوْ بَشَــاشَتُهُ # مِنْهُ إِلَيْــكَ فَإِنَّ السُمَّ فيِ الدَسَمِ\nوَإِنْ أَرَدْتَ نَجَـاحًا أَوْ بُلُوْغَ مُنًى # فَاكْتُمْ أُمُوْرَكَ عَنْ حَـافٍ وَمُنْتَعِلِ\n\n\n\nTerjemahan:\nRezeki itu datang dengan kerja keras dan tertahan dengan kemalasan. Maka bekerja keraslah niscaya kau dapatkan dengan segera apa yang kau cita-citakan.\nBersabarlah terhadap segala hal yang akan datang bersama waktu. Sebagaimana sabarnya pedang saat berada di genggaman ksatria berbaju besi.\nJika engkau diuji dengan orang yang tidak berakhlak. Maka berpura-puralah seolah engkau tidak mendengar, dan ia tidak mengatakan apapun.\nJanganlah tertipu oleh seseorang yang menampakkan senyumannya padamu. Karena sesungguhnya racun itu ada di dalam lemak.\nJika engkau menginginkan keberhasilan atau pencapaian cita-cita. Maka rahasiakanlah itu dari semua orang.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nDalam bait pertama, penyair berpesan bahwasannya rezeki itu baru boleh diharapkan setelah adanya usaha yang maksimal, karena itu kita hendaknya selalu berusaha walaupun pada akhirnya nasib kita bergantung kepada takdir Ilahi.\nSelain itu, satu hal yang perlu kita ingat adalah bahwasannya yang dinilai oleh Allah dari seorang anak manusia adalah usahanya. Ingatlah ketika Allah memerintahkan kepada Sayyidatina Maryam, sebagaimana yang diceritakan dalam surat Maryam ayat 25, ketika beliau dalam keadaan hamil besar, seorang diri di gurun pasir, Allah memerintahkan kepadanya untuk menggoncang-goncangkan pohon kurma, maka pohon kurma tersebut akan menjatuhkan buahnya. Padahal semua orang tahu bagaimana kuat dan kokohnya pohon kurma tersebut, yang mana –jangankan oleh seorang ibu yang sedang hamil tua- kalaupun ia digoncangkan oleh seorang laki-laki dewasa yang kuat pun tak akan mungkin jatuh buahnya. Namun poin yang perlu kita ambil di sini adalah bahwasannya yang dilihat oleh Yang Maha Kuasa di sini adalah “usaha”, maka dengan adanya usaha kita itulah Allah memberlakukan ‘kun fayakun’ nya, walaupun sebenarnya usaha kita tersebut sebenarnya adalah hal yang sepele."
+      },
+      {
+        "id": 9,
+        "judul": "قَالَ الشَّيْخُ عَبْدُ اللهِ فِكْرِيْ بَاشَا (المُتَوَفَّى سَنَةَ ۱٢۰٧ هـ)",
+        "isi": "قَالَ الشَّيْخُ عَبْدُ اللهِ فِكْرِيْ بَاشَا (المُتَوَفَّى سَنَةَ ۱٢۰٧ هـ)\nKata Syeikh Abdullah Fikri Basya (Wafat 1207 H)\n\nإِذَا نَامَ غِرٌّ فِـي دُجَى اللَّيْلِ فَاسْهَرْ # وَقُمْ لِلْمَعَالِي وَالعَوَالِـي وَشَمِّرِ\nوَسَارِعْ إِلىَ مَا رُمْتَ مَا دُمْتَ قَادِرًا # عَلَيْهِ فَإِنْ لَـمْ تُبْصِرِ النُجْحَ فَاصْبِرِ\nوَأَكْثِرْ مِنَ الشُوْرَى فَإِنَّكَ إِنْ تُصِبْ # تَجِدْ مَـادِحًا أَوْ تُخْطِئِ الرَأْيَ تُعْذَرِ\nوَعَوِّدْ مَقَالَ الصِدْقِ نَفْسَكَ وَارْضَهُ # تُصَدَّقْ وَلَا تَرْكَنْ إِلـىَ قَوْلِ مُفْتَرِ\nوَلَا تَقْفُ زَلَّاتِ العِبَــادِ تَعُدُّهَا # فَلَسْتَ عَلَـى هَذَا الوَرَى بِمُسَيْطِرِ\n\n\n\nTerjemahan:\nTatkala para pemuda lain tidur di malam yang kelam maka bangunlah engkau. Bangunlah demi kemuliaan dan kejayaan, serta singsingkanlah lengan bajumu.\nSegeralah menuju apa yang kau dambakan selagi kau mampu melakukannya. Adapun jika kau belum menemukan kesuksesan maka bersabarlah.\nPerbanyaklah musyawarah karena jika kau benar, kau akan mendapatkan pujian, atau kalau pun salah, kau akan dimaklumi.\nBiasakanlah dirimu untuk berkata benar, dan cintailah perkataan benar. Kau akan dipercaya, dan janganlah condong kepada perkataan dusta.\nJanganlah mengikuti kesalahan orang lain dan menghitung-hitungnya. Karena kau bukanlah penguasa atas manusia.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nDalam bait pertama dan kedua, penyair mengajak kita semua untuk selalu bekerja keras, ketika orang-orang lain yang tak memiliki cita-cita sedang tertidur, terbuai oleh gelapnya malam, maka janganlah kita seperti mereka, hendaklah kita selalu bekerja keras, layaknya orang yang bekerja sambil menyingsingkan lengan bajunya.\n\nPada bait ketiga, kita dianjurkan untuk selalu bermusyarah dalam mengambil keputusan, saking pentingnya musyawarah ini dalam agama Islam, sampai-sampai ia dijadikan salah satu nama surah, yaitu surah as-Syuura, surah ke-43 dalam al-Quran. Dalam musyawarah, kita akan bertukar pikiran dengan banyak orang, sehingga hasil yang akan didapatkan adalah hasil pertimbangan banyak orang, dengan demikian apabila ada hal yang kurang tepat, maka kita tidak akan disalahkan seorang diri karena itu adalah keputusan bersama.\n\nAdapun bait keempat mengajak kita untuk selalu berpihak pada kebenaran dan menjauh dari keburukan, baik dalam ucapan, maupun perbuatan."
+      },
+      {
+        "id": 10,
+        "judul": "خُطْبَةُ قُسٍّ بْنِ سَاعَدَةَ الأَيَادِيِّ (المتوفّى قُبَيْلَ الْبِعْثَةِ) فِي سُوْقِ عُكَاظٍ",
+        "isi": "خُطْبَةُ قُسٍّ بْنِ سَاعَدَةَ الأَيَادِيِّ (المتوفّى قُبَيْلَ الْبِعْثَةِ) فِي سُوْقِ عُكَاظٍ\nPidato Quss bin Sa’adah Al Ayadi (Wafat Sebelum Kenabian) Di Pasar Ukkadz\n\nأَيُّهَا النَاسُ اسْمَعُوْا وَعُوْا، مَنْ عَاشَ مَاتَ، وَمَنْ مَاتَ فَاتَ، وَكُلُّ مَا هُوَ آتٍ آتٍ، لَيْلٌ دَاجٍ وَنَهَارٌ سَاجٍ، وَسَمَاءُ ذَاتُ أَبْرَاجٍ، وَنُجُوْمٌ تَزْهَرُ، وَبِحَارٌ تَزْخَرُ، وَجِبَالٌ مُرْسَاةٌ، وَأَرْضٌ مُدْحَاةٌ، وَأَنْهَارٌ مُجْرَاةٌ، وَإِنَّ فيِ السَمَاءِ لَخِبَرًا وَإِنَّ فيِ الأَرْضِ لَعِبَرًا، مَا بَالُ النَاسِ يَذْهَبُوْنَ وَلاَ يَرْجِعُوْنَ؟ أَرَضُوْا فَأَقَامُوْا؟ أَمْ تُرِكُوْا فَنَامُوْا؟ يُقْسِمُ قُسٌّ بِاللّٰهِ قَسَمًا لاَ إِثْمَ فِيْهِ إِنَّ لِلّٰهِ دِيْنًا هُوَ أَرْضَى لَكُمْ وَأَفْضَلُ مِنْ دِيْنِكُمْ الَّذِيْ أَنْتُمْ عَلَيْهِ إِنَّكُمْ لَتَأْتُوْنَ مِنَ الأَمْرِ مُنْكَرًا.\n\nوَيُرْوَى أَنَّ قُسًّا بَعْدَ ذلِكَ يَقُوْلُ:\nفيِ الذَاهِبِيْـــنَ الأَوَّلِيْنَ # مِنَ القُرُوْنِ لَنَــا بَصَائِرْ\nلَمَّـــا رَأَيْتُ مَوَارِدًا # لِلْمَوْتِ لَيْسَ لَهَا مَصَادِرْ\nوَ رَأَيْتُ قَوْمِي نَحْوَهَا # يَمْضِي الأَكَابِرَ وَالأَصَاغِرْ\nلاَ يَرْجِعُ المَاضِي إِلَيَّ مَ # وَلاَ مِنَ البَــاقِيْنَ غَابِرْ\nأَيْقَنْتُ أَنِّي لاَ مُحَــا # لَةَ حَيْثُ صَارَ القَوْمُ صَائِرْ\n\n\n\nTerjemahan:\nWahai manusia! Dengarkanlah dan pahamilah, siapa yang hidup pasti akan mati, dan siapa yang mati pasti sirna, dan semua yang datang, pasti akan datang. Malam yang kelam, siang yang terang, langit yang bergugusan bintang, bintang berkerlap-kerlip, lautan bergelombang, gunung-gunung terpancang kokoh, bumi terhampar, dan sungai-sungai yang mengalir. Sesunguhnya di langit ada pelajaran dan sesungguhnya di bumi ada nasehat. Apa yang terjadi pada banyak manusia yang pergi dan tidak kembali? Apakah mereka senang tinggal (di dalam kuburan) lalu menetap? Atau mereka ditinggal (di sana) kemudian tidur? Quss bersumpah kepada Allah yang tidak ada dosa di dalamnya. Sesungguhnya Allah memiliki agama yang lebih Dia ridhai untuk kalian dan lebih utama dari agama yang kalian anut. Kalian betul-betul melakukan perkara mungkar."
+      },
+      {
+        "id": 11,
+        "judul": "لِصَالِحِ بْنِ عَبْدِ القُدُّوْسِ (المُتَوَفَّى سَنَةَ ٨٥٥ هـ) في مُعَامَلَةِ العَدُوِّ",
+        "isi": "لِصَالِحِ بْنِ عَبْدِ القُدُّوْسِ (المُتَوَفَّى سَنَةَ ٨٥٥ هـ) في مُعَامَلَةِ العَدُوِّ\nSyair Sholeh bin Abdul Qudus (Wafat 855 H) Tentang Bergaul dengan Musuh\n\nوَابْدَأْ عَدُوَّكَ بِالتَحِيَّةِ وَلْتَكُنْ # مِنْهُ زَمَانَكَ خَائِفًا تَتَرَقَّبُ\nوَاحْذَرْهُ إِنْ لاَقَيْتَهُ مُتَبَسِّمًا # فَاللَّيْثُ يَبْدُوْ نَابُهُ إِذْ يَغْضَبُ\nإِنَّ العَدُوَّ وَ إِنْ تَقَادَمَ عَهْدُهُ # فَالحِقْدُ بَاقٍ فيِ الصُدُوْرِ مُغَيَّبُ\nوَإِذَا الصَدِيْقُ لَقِيْتَهُ مُتَمَلِّقًا # فَهُوَ العَدُوُّ وَ حَقُّهُ يُتَجَنَّبُ\nلاَ خَيْرَ فيِ وُدِّ امْرِئٍ مُتَمَلِّقٍ # حُلْوِ اللِسَانِ وَ قَلْبُهُ يَتَلَهَّبُ\nيَلْقَاكَ يَحْلِفُ أَنَّهُ بِكَ وَاثِقٌ # وَإِذَا تَوَارَى عَنْكَ فَهُوَ العَقْرَبُ\n\n\n\nTerjemahan:\nMulailah memberi salam kepada musuh. Namun hendaklah tetap ada waktumu untuk waspada dan siap siaga.\nBerhati-hatilah, jika kau bertemu dengannya dalam keadaan tersenyum. Karena singa memperlihatkan taringnya jika sedang marah.\nSesungguhnya musuh, sekalipun sudah lama berlalu masanya. Maka kebencian tetap ada di dalam dadanya meski disembunyikan.\nJika seorang sahabat, kau temui dalam keadaan mencari muka. Maka dia itu musuh, dan sudah semestinya untuk dijauhi.\nTiada kebaikan pada kasih sayang seorang pencari muka. Manis di bibir, sedangkan hatinya panas membara.\nIa menemuimu, seraya bersumpah setia padamu. Namun jika membelakangimu, ia laksana kalajengking.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nDalam berinteraksi dengan musuh, ada seni yang harus dipelajari, yang mana kalau kita tidak memahaminya kita bisa saja celaka, di antaranya:\n\n* Ketika bertemu dengan musuh kita harus memulai memberi salam, ini artinya bahwa kita pada dasarnya tidaklah menginginkan permusuhan, kedamaian adalah hal yang indah andai saja bisa terwujud, namun walau begitu, kita harus selalu siaga, karena bisa jadi musuh kita belum bisa menerima perdamaian yang kita tawarkan.\n\n* Kita harus mengenali musuh kita dengan baik, karena sering kali musuh itu menampilkan senyum manis yang palsu, sedangkan di dalam hatinya tersimpan kebencian yang besar. Sang penyair menyerupakan hal ini dengan perilaku singa yang menampakkan taringnya (seakan sedang tersenyum) tatkala ia akan menyerang mangsanya.\n\n* Kita harus tetap berhati-hati terhadap musuh, walaupun sudah berlalu masa yang lama semenjak permusuhan itu terjadi, karena musuh kita bisa jadi selalu menyimpan kebencian di dalam hatinya walaupun telah lewat masa yang lama.\n\n* Orang yang selalu mencari muka (menjilat), maka ia hakikatnya adalah musuh walaupun ia tampak sebagai teman, karena orang seperti ini tak lebih hanyalah oportunis yang hanya ingin memanfaatkan kita untuk mencapai tujuan-tujuan tertentu yang menguntungkan dirinya semata.\n\nInilah sebagian di antara hal-hal yang perlu kita perhatikan dalam berhubungan dengan musuh kita agar kita selamat dari tipu dayanya."
+      },
+      {
+        "id": 12,
+        "judul": "لِلإِمَامِ الشَافِعِيِّ (المُتَوَفَّى سنة ٢۰٤ هـ) في المُعَاشَرَةِ",
+        "isi": "لِلإِمَامِ الشَافِعِيِّ (المُتَوَفَّى سنة ٢۰٤ هـ) في المُعَاشَرَةِ\nSyair Imam Syafii (Wafat 204 H) Tentang Bergaul\n\nإِذَا المَرْءُ لاَ يَرْعَـاكَ إِلاَّ تَكَلُّفًا # فَدَعْهُ وَلَا تُكْثِرْ عَلَيْهِ تَأَسُّفَــا\nفَفِي النَاسِ أَبْدَالٌ وَفِي التَرْكِ رَاحَةٌ # وَفِي القَلْبِ صَبْرٌ لِلْحَبِيْبِ وَلَوْ جَفَا\nفَمَـا كُلُّ مَنْ تَهْوَاهُ يَهْوَاكَ قَلْبُهُ # وَلَا كُلُّ مَنْ صَافَيْتَهُ لَكَ قَدْ صَفَا\nإِذَا لَمْ يَكُنْ صَفْوُ الوِدَادِ طَبِيْعَةً # فَلَا خَيْرَ فيِ وُدٍّ يَجِيْءُ تَكَلُّفَــا\nوَلَا خَيْرَ فِـيْ خِلٍّ يَخُوْنُ خَلِيْلَهُ # وَيَلْقَاكَ مِنْ بَعْدِ المَوَدَّةِ بِالجَفَــا\nوَيُنْكِرُ عَهْدًا قَدْ تَقَـادَمَ عَهْدُهُ # وَيُظْهِرُ سِرًّا كَانَ بِالأَمْسِ فِيْ خَفَـا\nسَلَامٌ عَلَى الدُّنْيَا إِذَا لَمْ يَكُنْ بِهَا # صَدِيْقٌ صَدُوْقٌ صَادِقُ الوَعْدِ مُنْصِفَا\n\n\nTerjemahan:\nJika seseorang tidak bersikap baik padamu melainkan hanya berpura-pura. Maka tinggalkanlah ia dan janganlah terlalu banyak kasihan kepadanya.\nKarena ada banyak yang bisa menggantikannya, dan dengan meninggalkannya akan ada ketenangan bagimu. Lagi pula di dalam hati akan tetap ada kesabaran untuk kekasih walaupun sulit.\nKarena tidaklah semua orang yang engkau senangi itu, hatinya menyenangimu. Dan tidak pula semua orang yang engkau tulus mencintainya, tulus mencintaimu.\nJika cinta itu tak lagi tulus, maka (ketahuilah) bahwa tak ada kebaikan pada cinta yang datang dari kepalsuan.\nDan tak ada kebaikan pada orang yang mengkhianati sahabatnya. Ia datang kepadamu membawa kebencian, sebagai balasan atas segala cinta yang ada.\nIa ingkari janji yang telah lama berlaku. Ia bongkar semua rahasia yang dulu tersembunyi.\nSelamat tinggal dunia, jika tak ada lagi teman yang jujur, menepati janji, dan adil.\n\n\nSyarah / Penjelasan dan Kesimpulan:\nDalam bergaul, kita akan menemui berbagai tipe orang, ada orang yang mencintai kita, namun tak jarang ada pula orang yang hanya ‘terlihat’ mencintai kita. Imam Syafi’i memberi nasehat agar kita selalu hati-hati, karena tidak semua orang yang kita cintai dengan tulus itu juga tulus kepada kita. Orang yang tak tulus ini layak untuk kita tinggal, karena tidak ada kebaikan pada cinta yang datang dari kepalsuan. Lagi pula kita pasti akan mendapatkan pengganti baginya, karena masih banyak manusia di dunia ini yang tulus.\n\nSalah satu perilaku orang yang tak tulus dalam mencinta adalah orang ini biasanya akan berubah 180 derajat tatkala ia sudah tak merasa perlu untuk melanjutkan kepura-puraan cintanya, karakter aslinya akan muncul, semua janji yang ia buat sendiri akan ia ingkari, bahkan semua rahasia yang selama ini tersembunyi pun akan ia beberkan. Manusia-manusia tipe ini layak untuk dijauhi!\n\nDunia ini membutuhkan orang-orang yang tulus, jauh dari kepura-puraan, orang yang menepati janji, lagi adil. Maka tak ada lagi indahnya dunia ini jika hanya diisi oleh orang-orang yang penuh kepalsuan dan kepura-puraan."
+      }
+
+    ]
+},
+
+{ "kelasLima": [
+
+      {
+        "id": 1,
+        "judul": "رِسَـالَةٌ كَتَبَـتْهَا بَاحِثَةُ البَـادِيَة (المُتَوَفَّى سَنَةَ ٣٧ هـ)\nمِنْ رَمْلِ الإِسْكَنْـدَرِيَّةِ لِصَدِيْقَةٍ لَــهَا",
+        "isi": "رِسَـالَةٌ كَتَبَـتْهَا بَاحِثَةُ البَـادِيَة (المُتَوَفَّى سَنَةَ ٣٧ هـ)\nمِنْ رَمْلِ الإِسْكَنْـدَرِيَّةِ لِصَدِيْقَةٍ لَــهَا\nSebuah Surat Yang Ditulis Oleh Bahitsatul Badiyah (Wafat 37 H)\nDari Padang Pasir Aleksandria Untuk Seorang Sahabatnya\n\nعَزِيـْزَتِي السَيــِّدَةُ بَلْسَم:\nأُحَيِّيْكِ لَوْلَا بُرُوْدَةُ الْبَحْرِ لَالْتَهَبْتُ إِلَيْكِ شَوْقًا، وَلَوْلَا تَصَبُّرِيْ لَطِرْتُ إِلَيْكِ حُبًّا، وَإِنِّي لَمْ يُنْسِنِيْ صَفَاءُ السَّمَاءِ صَفَاءَ وُدُّكِ، وَلَا رِقَّةُ النَسِيْمِ رِقَّةَ حَدِيْثِكِ، أَنَّهُ شَجَانِيْ وَذَكَرَنِيْ وَلَمْ أَكُنْ نَاسِيَةً.\n\nحَبِيْبَـتِيْ:\nلَيْتَكِ مَعِيْ تَرَيْنَ الطَبِيْعَةَ بِجَمَالِهَا، تَرَيْنَ البَحْرَ يَزْخَرُ كَالرَعْدِ، وَالْأَمْوَاجَ تَتَلَاطَمُ زَرَافَاتٍ وَوِحْدَانًا، صَفَاءٌ فِي البَحْرِ وَصَفَاءٌ فِي السَّمَاءِ كَأَنَّهَا قَلْبُنَا، تَسْمَعِيْنَ تَغْرِيْدَ الطُّيُوْرِ وَحَفِيْفَ الْأَشْجَارِ، إِنَّهَا لَعَمْرُكِ مَنَاظِرُ تُلْهِي المَرْءَ، وَلَكِنْ هَيْهَاتَ لِمِثْلِيْ أَنْ تَلْهُوَ وَهِيَ تَعْلَمُ مَايُكِنُّهُ الدَّهْرُ وَمَا يُخْبِئُهُ اللَّيْلُ وَالنَّهَارُ. تَقَبَّلِيْ مِنِّيْ أَحَرَّ قُبُلَاتِيْ وَأَوْفَرَ أَشْوَاقِيْ.\n\n\nTerjemahan:\nSahabatku Sayyidah Balsam,\nAku haturkan salam hormat padamu, kalau bukan karena dinginnya laut sungguh aku pasti telah terbakar oleh api kerinduan padamu, dan kalau bukan karena kesabaranku pasti aku sudah terbang kepadamu dengan membawa segenap rasa cinta, sungguh jernihnya langit tak membuatku lupa akan jernihnya cintamu, dan sungguh lembutnya angin sepoi-sepoi tak membuatku lupa akan lembutnya perkataanmu, malah ia membuatku terus sedih, selalu ingat, dan tak bisa lupa (akan dirimu).\n\nKekasihku,\nAndai dirimu bersama diriku, akan kau lihat alam dengan segenap keindahannya; akan kau lihat laut bergemuruh bagaikan halilintar, gelombang saling bertabrakan satu sama lain, kejernihan laut dan kejernihan langit laksana jernihnya hati kita berdua; akan kau dengar kicauan burung dan desis dedaunan pohon-pohon, aku bersumpah demi umurmu, sungguh ia merupakan pemandangan yang membuat seseorang menjadi terlena, tapi mustahil bagi seseorang sepertiku untuk terlena, karena ia tahu apa yang ditutup-tutupi oleh waktu dan apa yang disembunyikan oleh malam dan siang. Maka terimalah dariku ciuman paling hangat dan rasa rindu yang bergelora.\n\nSyarah / Penjelasan dan Kesimpulan:\nBahitsah Badiyah adalah seorang penyair dan sastrawan Mesir yang memiliki nama asli Malak Hifni Nashif ( ملك حفني ناصف ), ia juga adalah seorang Feminist yang kerap mengangkat isu-isu sosial dan kebebasan wanita.\n\nIa lahir di Kairo, tahun 1886 dari sebuah keluarga kelas menengah. Ia merupakan putri sulung dari Hifni Nasif Bey, seorang penyair, pengacara, dan juga guru Bahasa Arab.\n\nMalak Hifni Nashif dianggap sebagai wanita Mesir pertama yang terang-terangan mengkampanyekan kebebasan wanita dan kesetaraan antara wanita dan pria, selain itu ia juga dianggap sebagai wanita Mesir pertama yang memegang ijazah Ibtidaiyah pada tahun 1900.\n\nAdapun nama Bahitsah Badiyah sendiri mulai ia pakai sejak menikah dengan Syaikh Abdul Sattar Basil dan pindah ke Al-Fayyum yang kala itu terkadang disebut ‘Badiyatul Fayyum’ yang berarti ‘padang pasir’ atau ‘pedalaman’ Al-Fayyum."
+      },
+      {
+        "id": 2,
+        "judul": "مِنْ شِعْرِهَـا تُخَاطِبُ المَـرْأَةَ المِصْرِيَّةَ",
+        "isi": "مِنْ شِعْرِهَـا تُخَاطِبُ المَـرْأَةَ المِصْرِيَّةَ\nDiantara Syair Bahitsatul Badiyah Untuk Wanita Mesir\n\n\nسِيْرِيْ كَسَيــْرِ السُّحُبِ # لاَتَأْنَيْ وَلَا تَتَعَجَّلِيْ\nلَا تَكْنُسِيْ أَرْضَ الشَّوَارِعِ # بِالْإِزَارِ المُسْــبَلِ\nأَمَّا السُفُوْرُ فَحُكْــمُهُ # فِي الشَّرْعِ لَيْسَ بمُعْضَلٍ\nذَهَبَ الْأَئِمَّــةُ فِيْـهِ # بَيـْنَ مُحَـرِّمٍ وَمُحَلِّلٍ\nيَجُوْزُ بِالْإِجْمَـاعِ مِنْهُمْ # عِنْـدَ قَصْدِ تَـأَهُّـلٍ\nلَيْسَ النِّقَابُ هُوَ الْحِجَابُ # فَقَصِّـرِيْ أَوْ طَوِّلِـيْ\nفَإِذَا جَهِلْتِ الْفَرْقَ بَيْنَهُمَا # فَدُوْنَـكِ فَاسْأَلـِيْ\nمِنْ بَعْضِ أَقْوَالِ الْأَئِمَّةِ # لَا مَجَـالَ لِمَـقُوْلِيْ\nلَا أَبْتَغِيْ غَيْرَ الْفَضِيْـلَةِ # لِلنِّسَــاءِ فَاجْمُلِيْ\n\n\nTerjemahan:\nBerjalanlah seperti jalannya awan, jangan terlalu pelan ataupun terlalu terburu-buru\nJanganlah pula menyapu tanah jalanan, dengan kain panjangmu\nAdapun membuka hijab, hukumnya dalam syariat bukanlah hal yang rumit\nPara ulama berbeda pendapat tentangnya, ada yang melarang dan ada pula yang memperbolehkan\nBoleh menurut Ijma’ mereka, jika ia dilakukan untuk tujuan pernikahan\nTidaklah Niqab itu sama dengan Hijab, maka pendekkanlah ia ataupun panjangkanlah\nJika kamu tak tahu perbedaan antara keduanya, maka tanyalah orang selainmu\nSebagian pendapat para ulama, tak ada kesesuaian dengan pendapatku\nAku tak mengharapkan selain kemuliaan bagi wanita, maka percantiklah dirimu\n\nSyarah / Penjelasan dan Kesimpulan:\nSelama awal 1900-an, banyak wanita Elit Mesir mulai meninggalkan kerudung mereka, sebagai simbol Feminisme.\n\nSebagai tokoh Feminisme Mesir, Bahitsatul Badiyah atau Malak Hifni Nashif juga menyuarakan ‘kebebasan’ bagi wanita, termasuk dalam hal berpakaian.\n\nNamun di sisi lain, ia mengkritik aksi melepas kerudung yang digaungkan oleh para Feminist Mesir lainnya. Dia mengatakan bahwa banyak wanita kaya yang meninggalkan jilbab karena terobsesi oleh moda Eropa, bukan karena alasan kebebasan atau karena mereka merasa tertekan oleh kerudung.\n\nDia juga berpendapat bahwa kerudung telah menjadi bagian dari budaya untuk waktu yang lama dan pelarangan kerudung malah akan menjadi perubahan mendadak bagi banyak wanita."
+      },
+      {
+        "id": 3,
+        "judul": "مِنْ كِتَابَةِ الأَدِيْبِ عَبْدِ اللهِ فِكْرِي بَاشَا (المُتَوَفَّى سَنَةَ ١٣۰٧ هـ) وَصَــايَةٌ لِشَـخْصٍ",
+        "isi": "مِنْ كِتَابَةِ الأَدِيْبِ عَبْدِ اللهِ فِكْرِي بَاشَا (المُتَوَفَّى سَنَةَ ١٣۰٧ هـ) وَصَــايَةٌ لِشَـخْصٍ\nDari Tulisan Sastrawan Abdullah Fikri Pasha (Wafat Tahun 1307 H)\nWasiat Untuk Seseorang\n\nرَافِعُ هَذَا الرَّقِيْمِ إِلىَ حِمَى المَقَامِ الكَرِيْمِ يَذْكُرُ أَنَّ مَسْأَلَتَهُ طَالَ فِيْهَا المَدَى وَبَقِيَ فِي انْتِظَارِهَا عَلَى مَثَلِ رُؤُوْسِ المُدَى، وَيَشْكُوْ مِنَ الفَقْرِ المُدْقِعِ والضُّرِّ المُضْجِعِ مَا أَحْرَجَ صَدْرَهُ وَأَخْرَجَ عَنْهُ صَبْرَهُ وَأَشْرَفَ بِهِ عَلىَ اليَأْسِ والاِسْتِسْلَامِ لِمَخَالِبِ البَأْسِ. لَوْلَا أَمَلَ مِنْ مَوْلَايَ يَبْقَى عَلَى حَوْبَائِهِ وَيَنْشُرُ تَذْكَارُهُ مَيْتَ رَجَاءِهِ وَلَهُ فِيْ سَيِّدِي ثَنَاءٌ يُبَارِي نَفَحَاتِ الأَزَاهِرِ وَيَبْقَى عَلىَ صَفَحَاتِ الدَّهْرِ الدَّاهِرِ ثُمَّ هُوَ أَوْلَى مَنْ تَعْطَفُ عَلَيْهِ عَوَاطِفُ كَرَمِهِ وَتَنْعَطِفُ إِلَيْهِ جِيَادُ هِمَمِهِ، وَأَرْجُو أَنْ يُحَقِّقَ مَوْلَايَ فِيْ تِلْكَ الشِّيَمِ الكَرِيْمَةِ مَا أَمَّلَهُ وَأُهْدِيْ مِنَ الثَّنَاءِ أَتَمَّهُ وَأَكْمَلَهُ.\n\nTerjemahan:\nPembawa surat ini ke tempat Yang Dipertuan Agung menyebutkan bahwa masalahnya telah berlarut-larut untuk waktu yang lama, dan ia telah berada dalam penantian yang panjang nan sulit laksana bertahan di ujung pisau.\nIa mengeluhkan kemiskinan yang mencekik dan kesengsaraan yang teramat menyempitkan dadanya dan membuat habis kesabarannya serta membuatnya hampir putus asa dan menyerah kepada kesulitan.\nKalau bukan karena adanya harapan akan bantuan dari tuan yang masih bersemayam di jiwanya dan bayang-bayangannya terhadap tuan yang terus menghidupkan harapannya, pasti ia sudah lama tiada. Ia memuji Tuanku dengan pujian yang harumnya menandingi harum semerbaknya bunga-bunga nan awet sepanjang masa, karena itu ia adalah orang yang paling pantas untuk diberikan simpati, dan kembali kepadanya hasil terbaik dari semangat juangnya.\nAku berharap sudi kiranya Baginda merealisasikan apa yang ia harapkan sebagai balasan yang setimpal atas kemuliaan akhlaknya, kemudian aku haturkan penghormatan yang setinggi-tinggi dan sebesar-besarnya kepada yang mulia.\n\nSyarah / Penjelasan dan Kesimpulan:\nAbdullah Fikri (1250-1307 H/1834-1889 M) adalah seorang menteri sekaligus seorang sastrawan di Mesir. Adapun julukan “Basya”, “Pasya”, atau “Paşa” yang ada di belakang namanya adalah gelar dalam bahasa Turki yang biasa diberikan pada masa Turki Usmani kepada seseorang yang punya kedudukan penting di dalam dunia politik maupun militer.\n\nAbdullah Fikri Basya dilahirkan di Mekah, besar di Kairo Mesir, dan belajar di Universitas Al-Azhar. Di antara karya-karya beliau adalah: al-Fawaid al-Fikriyyah, al-Mamlakah al-Bathiniyyah, dan Syarh Badi’iyyah Shufut, dan lain-lain. Selain itu beliau juga memiliki Nazm (kumpulan syair) dan juga beberapa risalah dan makalah. Melalui karya-karyanya ini terlihat bahwa beliau adalah seorang sastrawan yang tak hanya menguasai bahasa Arab, namun juga bahasa asing seperti bahasa Turki dan bahasa Perancis."
+      },
+      {
+        "id": 4,
+        "judul": "لِأَبِـي العَتَاهِيَّـةِ (المُتَـوَفَّى سَنَـةَ ٢١٣ هـ)",
+        "isi": "لِأَبِـي العَتَاهِيَّـةِ (المُتَـوَفَّى سَنَـةَ ٢١٣ هـ)\nSyair Abu ‘Atahiyah (Wafat Tahun 213 H)\n\nأَشَدُّ الجِهَادِ جِهَـادُ الهَوَى # وَمَا أَكْرَمَ المَرْءَ إِلَّا التُّقَى\nوَأَخْلَاقُ ذِي الفَضْلِ مَعْرُوْفَةٌ # بِبَذْلِ الجَمِيْلِ وَكَفِّ الأَذَى\nوَكُلُّ الفُكَـاهَةِ مَمْـلُوْلَةٌ # وَطُوْلُ التَعَاشُرِ فِيْهِ القِلَى\nوَكُلُّ طَرِيْـفٍ لَهُ لَـذَّةٌ # وَكُلُّ تَالِدٍ سَرِيْعُ البِلَى\nوَلَا شَيْءَ إِلَّا لَهُ آفَــةٌ # وَلَا شَيْءَ إِلَّا لَهُ مُنْتَهىَ\nوَلَيْسَ الغِنَى نَشَبٌ فِيْ يَدٍ # وَلَكِنَّ غِنىَ النَّفْسِ كُلُّ الغِنىَ\n\n\nTerjemahan:\nSebesar-besar jihad adalah jihad melawan hawa nafsu. Dan tak ada sesuatu pun yang dapat membuat manusia mulia kecuali ketakwaan.\nAkhlak orang yang memiliki keutamaan diketahui dari bagaimana ia melakukan kebaikan dan menghindari keburukan.\nSetiap senda gurau itu pasti membosankan. Dan di setiap hubungan yang panjang pasti ada marah.\nSetiap harta yang baru memiliki kenikmatan. Dan setiap harta yang usang akan cepat rusak.\nTidak ada sesuatu pun yang tidak memiliki petaka. Dan tidak pula ada sesuatu yang tidak memiliki akhir.\nBukanlah kekayaan itu harta yang ada di tangan. Tetapi kekayaan jiwalah yang merupakan kekayaan sesungguhnya.\n\nSyarah / Penjelasan dan Kesimpulan:\nAbu Atahiyah memiliki nama lengkap Abu Ishaq Ismail bin Qashim al-Anazi, ia dilahirkan pada tahun 130 H/747 M di Ayn Tamar, suatu daerah dekat Karbala di Iraq. Ia kemudian pindah ke Kufah, di sana ia bekerja sebagai penjual tempayan.\n\nSuatu hari ini melihat perkumpulan para penyair dalam sebuah kompetisi, ia pun mengikuti kompetisi itu, sejak itulah ia mulai dikenal dengan kemampuannya dalam bersyair, kemudian ia pun pindah ke Baghdad, dan di sana ia bertemu dengan para Khalifah seperti Al-Mahdi, Al-Hadi, dan Harun Ar-Rasyid.\n\nAbu ‘Atahiyah sebenarnya adalah Kunyah yang diberikan oleh orang-orang kepadanya mengingat masa mudanya yang terkenal suka membuat lelucon dan senda gurau. Namun di akhir hayatnya ia merupakan sosok yang jauh berbeda, syair-syairnya sering kali mengambil tema Zuhud dan menjauh dari kesenangan dunia.\n\nAbu Atahiyah wafat di Baghdad pada tahun 213 H / 826 M. Namun ada juga beberapa pendapat yang menyebutkan tahun wafat yang berbeda."
+      },
+      {
+        "id": 5,
+        "judul": "مِنْ أَحَـادِيْثِ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّـمَ",
+        "isi": "مِنْ أَحَـادِيْثِ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّـمَ\n\nDi antara mutiara Hadis Rasulullah SAW\n\n \n\nصِفَـةُ الْمُؤْمِنِ الكَــامِلِ:\n\nاِتَّقِ الْمَحَارِمَ تَكُنْ أَعْبَدَ النَّاسِ ، وَارْضَ بِمَا قَسَّمَ اللهُ لَكَ تَكُنْ أَغْنَى النَّاسِ ، وَأَحْسِنْ إِلَى جَارِكَ تَكُنْ مُؤْمِنًا ، وَأَحِبَّ لِلنَّـاسِ مَا تُحِبُّ لِنَفْسِكَ تَكُنْ مُسْلِمًا ، وَلَا تُكْثِرِ الضَّحِكَ ، فَإِنَّ كَثْرَةَ الضَّحِكِ تُمِيْتُ الْقَلْبَ\n\n \n\nفَضِيْـلَةُ الصِّــدْقِ:\n\nإِنَّ الصِّدْقَ يَهْدِيْ إِلَى الْبِرِّ ، وَإِنَّ الْبِرَّ يَهْدِيْ إِلَى الْجَنَّةِ ، وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يَكُوْنَ صِدِّيْقًا. وَإِنَّ الْكَذِبَ يَهْدِيْ إِلَى الْفُجُوْرِ ، وَإِنَّ الْفُجُوْرَ يَهْدِيْ إِلَى النَّارِ ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا\n\n \n\nوِحْدَةُ المُسْلِمِـيْنَ وَاتِّحَادُ مَشَـاعِرِهِمْ:\n\nمَثَلُ الْمُؤْمِنِيْنَ فِيْ تَوَادِّهِمْ ، وَتَرَاحُمِهِمْ ، وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى\n\n \n\nTerjemahan:\n\nSifat seorang mukmin yang sempurna\n\nJauhilah hal-hal yang diharamkan, maka engkau akan menjadi orang yang paling taat; ridalah terhadap apa yang diberikan oleh Allah, maka engkau akan menjadi manusia paling kaya; berbuat baiklah kepada tetanggamu, maka engkau akan menjadi seorang mukmin; cintailah orang lain sebagaimana engkau mencintai dirimu sendiri, maka engkau akan menjadi seorang muslim; janganlah terlalu banyak tertawa, karena banyak tertawa akan mematikan hati. (HR. Tirmidzi dan Ahmad)\n\n \n\nKeutamaan kejujuran\n\nSesungguhnya kejujuran menuntun (seseorang) kepada kebaikan, dan sesungguhnya kebaikan menuntun kepada surga; Sesungguhnya seseorang selalu berusaha berlaku jujur hingga ia benar-benar menjadi orang yang jujur. Dan sesungguhnya kebohongan menuntut (seseorang) kepada keburukan, dan keburukan menuntun kepada neraka, sesungguhnya seseorang selalu berlaku jujur hingga ia dicatat di sisi Allah sebagai seorang yang jujur. (HR. Bukhari No. 5749)\n\n \n\nKesatuan kaum Muslimin dan persatuan mereka dalam berbagi perasaan\n\nPerumpamaan orang-orang beriman dalam hal saling mencintai, mengasihi dan menyayangi, adalah seperti sebuah badan. Jika salah satu anggota badan sakit, maka seluruh anggota badan yang lainnya akan ikut merasakan sakit juga, dengan tidak bisa tidur dan demam. (HR. Muslim No. 4791)"
+      },
+      {
+        "id": 6,
+        "judul": "لِلأَفْــوَهِ الأَوْدِي",
+        "isi": "لِلأَفْــوَهِ الأَوْدِي\n\nSyair Afwah Al-Audi\n\n \n\nوَالْبَيْــتُ لَا يُبْتَنَى إِلَّا لَهُ عَمَــدٌ # وَلَا عِمَادَ إِذَا لَمْ تُرْسَ أَوْتَادُ\n\nفَإِنْ تَجَمَّـعَ أَوْتَـادٌ وَأَعْمِــدَةٌ # وَسَاكِنٌ بَلَغُوا الْأَمْرَ الَّذِيْ كَادُوْا\n\nلَا يَصْلُحُ النَّـاسُ فَوْضَى لَا سَرَاةَ لَهُمْ # وَلَا سَرَاةَ إِذَا جُهَّالُهُمْ سَادُوْا\n\nتُهْدَى الْأُمُوْرُ بِأَهْلِ الرَّأْيِ مَا صَلُحَتْ # فَإِنْ تَوَلَّتْ فَبِالْأَشْرَارِ تَنْقَادُ\n\n \n\nTerjemahan:\n\nSebuah rumah tidak akan berdiri kecuali dengan adanya tiang. Tiang pun tak akan berdiri jika tak dipasang pasak.\n\nJika tiang, pasak, dan penghuni telah tersedia, maka mereka pun akan mencapai tujuan yang mereka inginkan.\n\nTidak akan benar keadaan orang-orang yang selevel yang tak punya pemimpin. Dan tidak ada gunanya pemimpin jika para orang bodoh berkuasa.\n\nSegala urusan akan baik-baik saja dengan adanya tokoh-tokoh yang bijak. Namun apabila mereka berpaling, maka segala urusan akan dikuasai oleh orang-orang jahat."
+      }
+    ]
+}
+
+   ]

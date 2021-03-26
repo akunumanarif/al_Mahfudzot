@@ -5,8 +5,12 @@ class AppInformation extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text("This is app information"),
-      ),
+          child: GestureDetector(
+        child: Icon(
+          Icons.accessibility_new_sharp,
+          size: 130,
+        ),
+      )),
     );
   }
 }

@@ -1,6 +1,7 @@
 import 'package:al_mahfudzot/services/service.dart';
 import 'package:flutter/material.dart';
 import 'package:al_mahfudzot/models/apiMufrodats.dart';
+import 'package:shimmer/shimmer.dart';
 
 class Mufrodat extends StatefulWidget {
   @override
@@ -13,7 +14,7 @@ class _MufrodatState extends State<Mufrodat> {
   @override
   Widget build(BuildContext context) {
     return Container(
-        color: Theme.of(context).scaffoldBackgroundColor,
+        color: Colors.grey[200],
         height: 370,
         width: MediaQuery.of(context).size.width,
         child: Padding(
@@ -22,7 +23,33 @@ class _MufrodatState extends State<Mufrodat> {
               future: mufrodatApi.getApi(),
               builder: (BuildContext context,
                   AsyncSnapshot<List<ApiModelMufrodats>> snapshot) {
-                if (!snapshot.hasData) return Container();
+                if (!snapshot.hasData)
+                  return ListView.builder(
+                      itemCount: 15,
+                      itemBuilder: (context, index) => Shimmer.fromColors(
+                            highlightColor: Colors.white,
+                            baseColor: Colors.grey[200],
+                            direction: ShimmerDirection.ltr,
+                            period: Duration(seconds: 3),
+                            child: Card(
+                              shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(12)),
+                              elevation: 3,
+                              child: Center(
+                                child: ListTile(
+                                  title: Text(
+                                    "",
+                                    textAlign: TextAlign.center,
+                                    style: TextStyle(color: Colors.black),
+                                  ),
+                                  // trailing: Icon(
+                                  //   Icons.arrow_right,
+                                  //   size: 35,
+                                  // ),
+                                ),
+                              ),
+                            ),
+                          ));
                 List<ApiModelMufrodats> muf = snapshot.data;
                 return ListView.builder(
                     itemCount: muf.length,
@@ -43,10 +70,6 @@ class _MufrodatState extends State<Mufrodat> {
                                 textAlign: TextAlign.center,
                                 style: TextStyle(color: Colors.black),
                               ),
-                              // trailing: Icon(
-                              //   Icons.arrow_right,
-                              //   size: 35,
-                              // ),
                             ),
                           ),
                         ),
