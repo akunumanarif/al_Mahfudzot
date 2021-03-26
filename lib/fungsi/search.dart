@@ -74,30 +74,28 @@ class SearchFunction extends SearchDelegate<String> {
               itemCount: kilis.length,
               itemBuilder: (BuildContext context, index) {
                 return Card(
-                  child: Flexible(
-                    child: ExpansionTile(
-                      leading: Icon(Icons.expand_more_sharp),
-                      trailing: Padding(
-                        padding: const EdgeInsets.only(left: 35),
-                        child: Text(arabicNumber.convert(kilis[index]["id"])),
+                  child: ExpansionTile(
+                    leading: Icon(Icons.expand_more_sharp),
+                    trailing: Padding(
+                      padding: const EdgeInsets.only(left: 35),
+                      child: Text(arabicNumber.convert(kilis[index]["id"])),
+                    ),
+                    title: GestureDetector(
+                      child: Text(
+                        kilis[index]["judul"],
+                        //["judul"],
+                        textDirection: TextDirection.rtl,
                       ),
-                      title: GestureDetector(
+                    ),
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.all(15.0),
                         child: Text(
-                          kilis[index]["judul"],
-                          //["judul"],
+                          kilis[index]["isi"],
                           textDirection: TextDirection.rtl,
                         ),
-                      ),
-                      children: [
-                        Padding(
-                          padding: const EdgeInsets.all(15.0),
-                          child: Text(
-                            kilis[index]["isi"],
-                            textDirection: TextDirection.rtl,
-                          ),
-                        )
-                      ],
-                    ),
+                      )
+                    ],
                   ),
                 );
               });

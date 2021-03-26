@@ -5,7 +5,6 @@ import 'package:al_mahfudzot/screens/dbAtas.dart';
 import 'package:al_mahfudzot/screens/mahfudzot.dart';
 import 'package:al_mahfudzot/screens/mufrodats.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class Dashboard extends StatefulWidget {
   @override
@@ -79,75 +78,76 @@ class _BerandaState extends State<Beranda> {
 
     final warna = Colors.grey[200];
 
-    return SafeArea(
-        child: Container(
-      color: warna,
-      child: Column(
-        children: [
-          SizedBox(
-            height: tinggi * 0.02,
-          ),
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 40),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [],
+    return Scaffold(
+      body: Container(
+        color: warna,
+        child: Column(
+          children: [
+            SizedBox(
+              height: tinggi * 0.02,
             ),
-          ),
-          SizedBox(
-            height: tinggi * 0.02,
-          ),
-          Padding(padding: const EdgeInsets.only(left: 10), child: DBAtas()),
-          SizedBox(
-            height: 25,
-          ),
-          Container(
-            //color: warna,
-            height: 370,
-            child: DefaultTabController(
-              length: 2,
-              child: Column(
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  Container(
-                    width: MediaQuery.of(context).size.width,
-                    child: Center(
-                      child: TabBar(
-                        isScrollable: true,
-                        labelColor: Colors.green,
-                        unselectedLabelColor: Colors.black,
-                        indicatorSize: TabBarIndicatorSize.tab,
-                        tabs: [
-                          Tab(
-                            text: "Kelas",
-                          ),
-                          Tab(
-                            text: "Mufrodat",
-                          )
-                        ],
-                      ),
-                    ),
-                  ),
-                  Expanded(
-                    child: Container(
-                      color: warna,
-                      height: 200,
-                      width: 300,
-                      child: TabBarView(
-                        children: [
-                          Mahfudzot(),
-                          Mufrodat(),
-                        ],
-                      ),
-                    ),
-                  ),
-                ],
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 40),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [],
               ),
             ),
-          ),
-        ],
+            SizedBox(
+              height: tinggi * 0.02,
+            ),
+            Padding(padding: const EdgeInsets.only(left: 10), child: DBAtas()),
+            SizedBox(
+              height: 25,
+            ),
+            Container(
+              //color: warna,
+              height: 370,
+              child: DefaultTabController(
+                length: 2,
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Container(
+                      width: MediaQuery.of(context).size.width,
+                      child: Center(
+                        child: TabBar(
+                          isScrollable: true,
+                          labelColor: Colors.green,
+                          unselectedLabelColor: Colors.black,
+                          indicatorSize: TabBarIndicatorSize.tab,
+                          tabs: [
+                            Tab(
+                              text: "Kelas",
+                            ),
+                            Tab(
+                              text: "Mufrodat",
+                            )
+                          ],
+                        ),
+                      ),
+                    ),
+                    Expanded(
+                      child: Container(
+                        color: warna,
+                        height: 200,
+                        width: 300,
+                        child: TabBarView(
+                          children: [
+                            Mahfudzot(),
+                            Mufrodat(),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ],
+        ),
       ),
-    ));
+    );
   }
 }
 
