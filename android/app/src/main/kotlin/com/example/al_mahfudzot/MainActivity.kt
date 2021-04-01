@@ -1,4 +1,4 @@
-package com.example.al_mahfudzot
+package com.numanarif.mahfudzot
 
 import io.flutter.embedding.android.FlutterActivity
 

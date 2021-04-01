@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:al_mahfudzot/screens/testScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:arabic_numbers/arabic_numbers.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -49,7 +50,8 @@ class DetailKelasEmpat extends StatelessWidget {
               if (!snapshot.hasData) return Container();
 
               var detailKelasEmpat = jsonDecode(snapshot.data.toString());
-              return Expanded(
+              return Container(
+                height: MediaQuery.of(context).size.height / 1.7,
                 child: ListView.builder(
                     padding: EdgeInsets.symmetric(horizontal: 20),
                     itemCount: detailKelasEmpat.length,
@@ -84,7 +86,8 @@ class DetailKelasEmpat extends StatelessWidget {
                     }),
               );
             },
-          )
+          ),
+          TestADs()
         ],
       ),
     );

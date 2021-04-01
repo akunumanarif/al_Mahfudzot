@@ -1,10 +1,15 @@
 import 'dart:convert';
-
+import 'package:al_mahfudzot/screens/testScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:arabic_numbers/arabic_numbers.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-class DetailKelasSatu extends StatelessWidget {
+class DetailKelasSatu extends StatefulWidget {
+  @override
+  _DetailKelasSatuState createState() => _DetailKelasSatuState();
+}
+
+class _DetailKelasSatuState extends State<DetailKelasSatu> {
   @override
   Widget build(BuildContext context) {
     final lebar = MediaQuery.of(context).size.width;
@@ -47,7 +52,8 @@ class DetailKelasSatu extends StatelessWidget {
                 .loadString('assets/kelasSatu.json'),
             builder: (context, snapshot) {
               var dataKelasSatu = jsonDecode(snapshot.data.toString());
-              return Expanded(
+              return Container(
+                height: MediaQuery.of(context).size.height / 1.7,
                 child: dataKelasSatu == null
                     ? Container()
                     : ListView.builder(
@@ -90,7 +96,8 @@ class DetailKelasSatu extends StatelessWidget {
                         }),
               );
             },
-          )
+          ),
+          TestADs()
         ],
       ),
     );

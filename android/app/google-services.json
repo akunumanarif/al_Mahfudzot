@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884978689215",
+    "project_id": "mahfudzot-lengkap",
+    "storage_bucket": "mahfudzot-lengkap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884978689215:android:954a29e0d713661370d20a",
+        "android_client_info": {
+          "package_name": "com.numanarif.mahfudzot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884978689215-8g2ufvev4fijc2mqud2ies11fhd3450u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqHgsAtRuZ6vJrkYhJAr0road_37TPG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884978689215-8g2ufvev4fijc2mqud2ies11fhd3450u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

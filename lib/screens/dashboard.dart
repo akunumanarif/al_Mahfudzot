@@ -4,6 +4,7 @@ import 'package:al_mahfudzot/popupScreen/popup.dart';
 import 'package:al_mahfudzot/screens/dbAtas.dart';
 import 'package:al_mahfudzot/screens/mahfudzot.dart';
 import 'package:al_mahfudzot/screens/mufrodats.dart';
+import 'package:al_mahfudzot/screens/testScreen.dart';
 import 'package:flutter/material.dart';
 
 class Dashboard extends StatefulWidget {
@@ -102,7 +103,7 @@ class _BerandaState extends State<Beranda> {
             ),
             Container(
               //color: warna,
-              height: 370,
+              height: MediaQuery.of(context).size.height / 2.3,
               child: DefaultTabController(
                 length: 2,
                 child: Column(
@@ -144,6 +145,7 @@ class _BerandaState extends State<Beranda> {
                 ),
               ),
             ),
+            TestADs()
           ],
         ),
       ),
@@ -178,7 +180,9 @@ Widget appBarHome(BuildContext context) {
               onSelected: (value) {
                 switch (value) {
                   case IconsMenu.info:
-                    Navigator.pushNamed(context, '/info');
+                    // Navigator.pushNamed(context, '/info');
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) => TestADs()));
                     break;
                   case IconsMenu.share:
                     Navigator.pushNamed(context, '/share');

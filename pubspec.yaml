@@ -34,6 +34,8 @@ dependencies:
   arabic_numbers: ^0.0.1
   curved_bottom_navigation: ^1.0.0
   http:
+  #admob_flutter: ^1.0.1
+  google_mobile_ads: ^0.12.0
 
 
 
