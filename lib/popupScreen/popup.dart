@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class IconsMenu {
   static const items = <IconMenu>[
     info,
-    share,
+    // share,
   ];
 
   static const info = IconMenu(
@@ -11,10 +11,10 @@ class IconsMenu {
     icon: Icons.announcement,
   );
 
-  static const share = IconMenu(
-    text: 'Share',
-    icon: Icons.share,
-  );
+  // static const share = IconMenu(
+  //   text: 'Share',
+  //   icon: Icons.share,
+  // );
 }
 
 class IconMenu {

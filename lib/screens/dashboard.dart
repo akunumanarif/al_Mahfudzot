@@ -181,12 +181,11 @@ Widget appBarHome(BuildContext context) {
                 switch (value) {
                   case IconsMenu.info:
                     // Navigator.pushNamed(context, '/info');
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => TestADs()));
+                    Navigator.pushNamed(context, '/about');
                     break;
-                  case IconsMenu.share:
-                    Navigator.pushNamed(context, '/share');
-                    break;
+                  // case IconsMenu.share:
+                  //   Navigator.pushNamed(context, '/share');
+                  //   break;
                   default:
                 }
               },

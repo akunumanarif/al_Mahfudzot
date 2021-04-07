@@ -1,5 +1,8 @@
 import 'package:al_mahfudzot/popupScreen/appInfo.dart';
 import 'package:al_mahfudzot/popupScreen/appShare.dart';
+import 'package:al_mahfudzot/screens/appInfoDetail/about.dart';
+import 'package:al_mahfudzot/screens/appInfoDetail/termOfServices.dart';
+import 'package:al_mahfudzot/screens/appInfoDetail/tutorialPenggunaan.dart';
 import 'package:al_mahfudzot/screens/dashboard.dart';
 import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasDua.dart';
 import 'package:al_mahfudzot/screens/detailPerKelas/detailKelasEmpat.dart';
@@ -35,6 +38,9 @@ class App extends StatelessWidget {
         '/info': (context) => AppInformation(),
         '/share': (context) => AppShare(),
         '/home': (context) => Dashboard(),
+        '/about': (context) => AboutApp(),
+        '/term': (context) => TermAndCondition(),
+        '/tutorial': (context) => TutorialPengguna(),
       },
     );
   }

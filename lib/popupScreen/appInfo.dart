@@ -38,18 +38,24 @@ class AppInformation extends StatelessWidget {
                 top: 20,
                 bottom: 10,
               ),
-              child: Row(
-                children: [
-                  Icon(
-                    Icons.menu_book_outlined,
-                    size: 40,
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.only(left: 35),
-                    child: Text("Tutorial Penggunaan",
-                        style: GoogleFonts.enriqueta(fontSize: 15)),
-                  ),
-                ],
+              child: GestureDetector(
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.menu_book_outlined,
+                      size: 40,
+                      color: Colors.green,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.only(left: 35),
+                      child: Text("Tutorial Penggunaan",
+                          style: GoogleFonts.enriqueta(fontSize: 15)),
+                    ),
+                  ],
+                ),
+                onTap: () {
+                  Navigator.pushNamed(context, '/tutorial');
+                },
               ),
             ),
             Padding(
@@ -70,6 +76,7 @@ class AppInformation extends StatelessWidget {
                     Icon(
                       Icons.android_outlined,
                       size: 40,
+                      color: Colors.green,
                     ),
                     Padding(
                       padding: const EdgeInsets.only(left: 35),
@@ -86,18 +93,24 @@ class AppInformation extends StatelessWidget {
                 top: 20,
                 bottom: 10,
               ),
-              child: Row(
-                children: [
-                  Icon(
-                    Icons.app_settings_alt_outlined,
-                    size: 40,
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.only(left: 35),
-                    child: Text("Term of Services",
-                        style: GoogleFonts.enriqueta(fontSize: 15)),
-                  ),
-                ],
+              child: GestureDetector(
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.app_settings_alt_outlined,
+                      size: 40,
+                      color: Colors.green,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.only(left: 35),
+                      child: Text("Term and Condition",
+                          style: GoogleFonts.enriqueta(fontSize: 15)),
+                    ),
+                  ],
+                ),
+                onTap: () {
+                  Navigator.pushNamed(context, '/term');
+                },
               ),
             ),
             Padding(
@@ -106,18 +119,24 @@ class AppInformation extends StatelessWidget {
                 top: 20,
                 bottom: 10,
               ),
-              child: Row(
-                children: [
-                  Icon(
-                    Icons.info_outline,
-                    size: 40,
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.only(left: 35),
-                    child: Text("About / Informasi Aplikasi",
-                        style: GoogleFonts.enriqueta(fontSize: 15)),
-                  ),
-                ],
+              child: GestureDetector(
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.info_outline,
+                      size: 40,
+                      color: Colors.green,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.only(left: 35),
+                      child: Text("About / Informasi Aplikasi",
+                          style: GoogleFonts.enriqueta(fontSize: 15)),
+                    ),
+                  ],
+                ),
+                onTap: () {
+                  Navigator.pushNamed(context, '/about');
+                },
               ),
             ),
           ],
