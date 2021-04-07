@@ -77,6 +77,8 @@ flutter:
     - assets/kelasEmpat.png
     - assets/semuaKelas.json
     - assets/search.json
+    - assets/avatar_arab.svg
+    - assets/avatararab.jpg
 
     # - images/a_dot_ham.jpeg
 

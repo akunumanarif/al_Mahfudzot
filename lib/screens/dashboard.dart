@@ -56,7 +56,7 @@ class _DashboardState extends State<Dashboard> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.info),
-            label: "Info",
+            label: "About",
           ),
         ],
         currentIndex: _selectedIndex,
