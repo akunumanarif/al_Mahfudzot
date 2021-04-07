@@ -10,7 +10,7 @@ class TutorialPengguna extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("About App"),
+        title: Text("Tutorial Penggunaan"),
         centerTitle: true,
       ),
       body: Column(

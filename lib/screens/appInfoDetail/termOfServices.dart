@@ -10,7 +10,7 @@ class TermAndCondition extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("About App"),
+        title: Text("Term and condition"),
         centerTitle: true,
       ),
       body: Column(
